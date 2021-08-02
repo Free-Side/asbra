@@ -12,7 +12,7 @@ dynamicPermalink: false
 
   h2 {
     padding: 10px;
-    font-family: 'Bungee Inline', sans-serif;
+    font-family: $title_font;
     font-weight: normal;
   }
 }
@@ -25,11 +25,11 @@ main > section > * {
 
 .event-registration {
   text-align: center;
-  font-family: 'Bungee Inline', sans-serif;
+  font-family: $title_font;
 }
 
 .event-subsection {
   h3 {
-    font-family: 'Titillium Web', sans-serif;
+    font-family: $heading_font;
   }
 }

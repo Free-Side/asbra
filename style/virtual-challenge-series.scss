@@ -1,0 +1,27 @@
+/*---
+permalink: style/virtual-challenge-series.css
+dynamicPermalink: false
+---*/
+
+@import '_theme.scss';
+
+main {
+  font-family: Verdana, 'sans-serif';
+  font-size: 12pt;
+}
+
+
+.results-table {
+  border-collapse: collapse;
+
+  thead th, tr.table-header-row th {
+    background-color: lightgray;
+    font-family: $heading_font;
+    font-weight: bold;
+  }
+
+  td, th {
+    border: 1px solid gray;
+    padding: 4px 8px;
+  }
+}

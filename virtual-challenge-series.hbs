@@ -1,0 +1,72 @@
+/*---
+layout: master.hbs
+title: ASBRA - Hawaii Cycling Virtual Challenge Series
+subtitle: HCVCS
+description: The Official Website of ASBRA, the USAC Local Association for the state of Hawaii.
+activePage: virtual-challenge-series
+head: |
+  <link href="/style/index.css" rel="stylesheet" type="text/css">
+  <link href="/style/virtual-challenge-series.css" rel="stylesheet" type="text/css">
+---*/
+
+<section id="overall-standings">
+  <h1>Overall Standings</h1>
+  <div>
+    <table class="results-table">
+      <thead>
+      <tr class="results-header table-header-row">
+        <th>Place</th>
+        <th>Name</th>
+        <th>Points</th>
+      </tr>
+      </thead>
+      <tbody>
+        {{#sorted-each Overall "Name"}}
+          <tr class="category-header table-header-row">
+            <th colspan="3">{{Name}}</th>
+          </tr>
+          {{#sorted-each Results "Points" true}}
+            <tr>
+              <td>{{Place}}</td>
+              <td>{{Name}}</td>
+              <td>{{Points}}</td>
+            </tr>
+          {{/sorted-each}}
+        {{/sorted-each}}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+{{#sorted-each Events "Date" true}}
+  <section class="event-results">
+    <h2>{{Name}}</h2>
+    <div>
+      <table class="results-table">
+        <thead>
+        <tr class="results-header table-header-row">
+          <th>Place</th>
+          <th>Name</th>
+          <th>Time</th>
+          <th>Points</th>
+        </tr>
+        </thead>
+        <tbody>
+          {{#sorted-each Categories "Name"}}
+            <tr class="category-header table-header-row">
+              <th colspan="4">{{Name}}</th>
+            </tr>
+            {{#sorted-each Results "Place"}}
+              <tr>
+                <td>{{Place}}</td>
+                <td>{{Name}}</td>
+                <td>{{Time}}</td>
+                <td>{{Points}}</td>
+              </tr>
+            {{/sorted-each}}
+          {{/sorted-each}}
+        </tbody>
+      </table>
+    </div>
+  </section>
+{{/sorted-each}}

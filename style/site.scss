@@ -27,7 +27,7 @@ body > header {
   padding: 10px;
 
   h1 {
-    font-family: 'Bungee Inline', sans-serif;
+    font-family: $title_font;
     font-weight: normal;
   }
 
@@ -35,7 +35,7 @@ body > header {
     display: flex;
     flex-direction: row;
     list-style: none;
-    font-family: 'Titillium Web', sans-serif;
+    font-family: $heading_font;
 
     li {
       white-space: nowrap;
@@ -156,7 +156,7 @@ main > section {
     padding: 10px;
     background: $usac_blue;
     color: $light_body_text;
-    font-family: 'Bungee Inline', sans-serif;
+    font-family: $title_font;
     font-weight: normal;
   }
 }

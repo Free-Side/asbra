@@ -26,6 +26,41 @@ module.exports = function(eleventyConfig) {
     }
   );
 
+  function cmp(v1, v2) {
+    if (v1 > v2) {
+      return 1;
+    } else if (v1 < v2) {
+      return -1;
+    } else {
+      return 0;
+    }
+  }
+
+  eleventyConfig.addHandlebarsHelper(
+    "sorted-each",
+    function () {
+      let [list, key, desc] = Array.from(arguments).slice(0, -1);
+      let body = arguments[arguments.length - 1];
+      if (list && list.length) {
+        // sort list
+        let sorted = [...list];
+        sorted.sort(
+          desc ?
+            (v1, v2) => cmp(v2 && v2[key], v1 && v1[key]) :
+            (v1, v2) => cmp(v1 && v1[key], v2 && v2[key])
+        );
+        return sorted.reduce(
+          (result, value) => {
+            return result + body.fn(value);
+          },
+          ''
+        );
+      } else if (body.inverse) {
+        return body.inverse();
+      }
+    }
+  );
+
   eleventyConfig.addHandlebarsHelper(
     "if-any",
     function () {
