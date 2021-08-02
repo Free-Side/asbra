@@ -1,0 +1,35 @@
+/*---
+permalink: style/events.css
+dynamicPermalink: false
+---*/
+
+@import '_theme.scss';
+@import '_shared.scss';
+
+.event-title {
+  background: $usac_blue;
+  color: ghostwhite;
+
+  h2 {
+    padding: 10px;
+    font-family: 'Bungee Inline', sans-serif;
+    font-weight: normal;
+  }
+}
+
+main > section > * {
+  margin-left: 1em;
+  margin-right: 1em;
+  max-width: 1024px;
+}
+
+.event-registration {
+  text-align: center;
+  font-family: 'Bungee Inline', sans-serif;
+}
+
+.event-subsection {
+  h3 {
+    font-family: 'Titillium Web', sans-serif;
+  }
+}

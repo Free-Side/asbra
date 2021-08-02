@@ -1,0 +1,52 @@
+/*---
+layout: master.hbs
+title: ASBRA - 2021 Event Calendar
+subtitle: 2021 Event Calendar
+description: The Official Website of ASBRA, the USAC Local Association for the state of Hawaii.
+activePage: calendar
+head: |
+  <link href="/style/calendar.css" rel="stylesheet" type="text/css">
+---*/
+<section>
+  <h1>COVID-19 Update</h1>
+  <p>
+    Due to COVID-19 the 2021 event calendar will, at least initially, be predominantly made up of virtual challenges. We are working with race directors to determine the best ways to create competitive Strava and GPS data based challenges in the spirit of our regular live events.
+  </p>
+</section>
+{{#each sections}}
+  <section>
+    <h1>{{section_title}}</h1>
+    {{#each events}}
+      <section id="{{id}}"
+               class="event-details {{#if background}}image-background{{/if}}"
+               style="{{#if background}}background-image: url('/images/{{background}}'){{/if}}">
+        <div>
+          <div class="event-header">
+            {{#if logo}}
+              <img src="/images/{{logo}}" alt="{{name}} Logo" width="150" height="150" />
+            {{/if}}
+            <h2>{{#if link}}<a href="{{link}}">{{name}}</a>{{else}}{{name}}{{/if}}</h2>
+          </div>
+          <ul>
+            <li><span class="info-label">Date:</span> {{day}} {{date}}</li>
+
+            {{#if time}}
+              <li><span class="info-label">Time:</span> {{time}}</li>
+            {{/if}}
+
+            <li><span class="info-label">Location:</span> {{location}} ({{island}})</li>
+
+            {{#if organizer}}
+              <li><span class="info-label">Organizer:</span> {{organizer}}</li>
+            {{/if}}
+          </ul>
+          {{#if description}}
+            <p>
+              {{{description}}}
+            </p>
+          {{/if}}
+        </div>
+      </section>
+    {{/each}}
+  </section>
+{{/each}}

@@ -1,0 +1,32 @@
+/*---
+layout: master.hbs
+pagination:
+  data: events
+  size: 1
+  alias: event
+indirect: event
+subtitle: "ASBRA Events"
+description: The Official Website of ASBRA, the USAC Local Association for the state of Hawaii.
+permalink: "events/{{event.name}}/"
+head: |
+  <link href="/style/events.css" rel="stylesheet" type="text/css">
+---*/
+<section class="event-title">
+  <h2>{{event.title}}</h2>
+</section>
+<section class="event-overview">
+  <p>{{{event.description}}}</p>
+</section>
+{{#if event.registrationUrl}}
+<section class="event-registration">
+  <h3><a href="{{event.registrationUrl}}">Register Now via BikeReg</a></h3>
+</section>
+{{#each event.sections}}
+  <section class="event-subsection">
+    <h3>{{heading}}</h3>
+    <div class="event-subsection-content">
+      {{{ content }}}
+    </div>
+  </section>
+{{/each}}
+{{/if}}

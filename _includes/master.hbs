@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <title>
+    {{#if title}}
+      {{title}}
+    {{else if indirect}}
+      {{#with (lookup . indirect)}}
+        {{title}}
+      {{/with}}
+    {{/if}}
+  </title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="description" content="{{description}}">
+  <meta name="robots" content="INDEX,FOLLOW">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <link href="/images/favicon.png" rel="icon" type="image/png">
+  <link href="/style/site.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Bungee+Inline" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Titillium+Web:700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  {{{head}}}
+</head>
+<body>
+<header>
+  <a href="/">
+    <img src="/images/logo.svg" alt="Aloha State Bicycle Racing" height="150" width="150" />
+  </a>
+  {{#if subtitle}}
+    <h1>{{subtitle}}</h1>
+  {{else if indirect}}
+    {{#with (lookup . indirect)}}
+      {{#if subtitle}}
+        <h1>{{subtitle}}</h1>
+      {{/if}}
+    {{/with}}
+  {{/if}}
+  <label for="show_menu" id="show_menu_label" class="material-icons">menu</label><input id="show_menu" type="checkbox" />
+  <ul class="navigation">
+    {{#if-not-equal activePage value="home"}}<li><a href="/">Home</a></li>{{/if-not-equal}}
+    <li><a href="/#about">About</a></li>
+    <li>
+      {{#if-equal activePage value="calendar"}}
+        Calendar
+      {{else}}
+        <a href="/calendar/">Calendar</a>
+      {{/if-equal}}
+    </li>
+    <li>
+      {{#if-equal activePage value="newsletter"}}
+        Newsletter
+      {{else}}
+        <a href="/newsletter/">Newsletter</a>
+      {{/if-equal}}
+    </li>
+    <li>
+      {{#if-equal activePage value="resources"}}
+        Resources
+      {{else}}
+        <a href="/resources/" title="Race Director Resources">Resources</a>
+      {{/if-equal}}
+    </li>
+  </ul>
+</header>
+<main>
+{{{content}}}
+</main>
+<footer>
+  &copy; 2021 Aloha State Bicycle Racing Association
+</footer>
+</body>
+</html>

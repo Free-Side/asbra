@@ -1,0 +1,29 @@
+{
+  "name": "asbra",
+  "version": "1.0.0",
+  "description": "The Aloha State Bicycle Racing Association Website",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sflanker/asbra.git"
+  },
+  "keywords": [
+    "Eleventy",
+    "11ty",
+    "webpage"
+  ],
+  "author": "Paul Wheeler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sflanker/asbra/issues"
+  },
+  "homepage": "http://www.paulwheeler.us/",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "moment": "^2.24.0",
+    "node-sass": "^4.14.0"
+  }
+}

@@ -1,0 +1,175 @@
+/*---
+permalink: style/site.css
+dynamicPermalink: false
+---*/
+
+@import '_theme.scss';
+@import '_shared.scss';
+
+body {
+  margin: 0 0 1em 0;
+  color: $dark_body_text;
+  background-color: $light_background;
+  font-size: 14pt;
+}
+
+header, section, div {
+  overflow: auto;
+}
+
+body > header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+
+  padding: 10px;
+
+  h1 {
+    font-family: 'Bungee Inline', sans-serif;
+    font-weight: normal;
+  }
+
+  ul.navigation {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    font-family: 'Titillium Web', sans-serif;
+
+    li {
+      white-space: nowrap;
+
+      &:not(:first-child) {
+        margin-left: 0.5em;
+
+        &:before {
+          content: '|';
+          margin-right: 0.5em;
+        }
+      }
+    }
+  }
+
+  label#show_menu_label {
+    display: none;
+    font-size: 48px;
+  }
+  input[type=checkbox] {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 610px) and (max-width: 850px) {
+  body > header {
+    display: block;
+
+    img {
+      float: left;
+    }
+
+    h1 {
+      float: right;
+    }
+
+    ul.navigation {
+      float: right;
+      clear: right;
+    }
+  }
+}
+
+@media only screen and (max-width: 609px) {
+  body > header {
+    overflow: hidden;
+
+    img {
+      width: 100px;
+      height: auto;
+    }
+
+    h1 {
+      margin: 0;
+      max-height: 100px;
+      overflow: visible;
+      font-size: 24px;
+    }
+
+    label#show_menu_label {
+      display: initial;
+    }
+
+    input[type=checkbox]:checked + ul.navigation {
+      display: block;
+    }
+
+    input[type=checkbox]:not(:checked) + ul.navigation {
+      display: none;
+    }
+
+    ul.navigation {
+      position: absolute;
+      background-color: $usac_blue;
+      color: $light_body_text;
+      padding: 20px;
+      left: 0;
+      right: 0;
+      top: 120px;
+      margin-top: 0;
+      display: initial;
+      font-size: 18pt;
+      z-index: 1;
+
+      li {
+        margin-left: 25%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+        &:not(:first-child) {
+          margin-left: 25%;
+        }
+
+        &:before {
+          content: none;
+          display: none;
+        }
+      }
+
+      a {
+        color: $light_body_text;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+body > header + section h1 {
+  margin-top: 0;
+}
+
+body > header + main > section:first-child h1 {
+  margin-top: 0;
+}
+
+main > section {
+  > h1:first-child, > h2:first-child {
+    padding: 10px;
+    background: $usac_blue;
+    color: $light_body_text;
+    font-family: 'Bungee Inline', sans-serif;
+    font-weight: normal;
+  }
+}
+
+main > section > *:not(:first-child), footer {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+main {
+  margin-bottom: 40px;
+}
+
+a {
+  @extend %dark-color-link;
+}

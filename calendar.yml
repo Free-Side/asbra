@@ -1,0 +1,182 @@
+sections:
+  - section_title: February
+    events:
+      - name: 'Prologue Time Trial'
+        id: prologue-tt
+        date: 2/13/2021
+        day: Saturday
+        time: 7:00 a.m.
+        location: Kona
+        island: Hawaii
+        organizer: Hawaii Cycling Club
+        link: http://www.hawaiicyclingclub.com/prologue-time-trial.html
+        description: A 10 mile time trial along the leeward cost of the Big Island.
+  - section_title: March
+    events:
+      - name: 'Castle to Hanauma Time Trial'
+        id: castle-to-hanauma-tt
+        date: 3/6/2021
+        day: Saturday
+        time: 6:00 a.m. - 3:00 p.m.
+        location: Kailua
+        island: Oahu
+        organizer: Outta Bounds
+        link: http://www.outtaboundshawaii.com/races/castle-to-hanauma.html
+        description: 'Traditionally the Castle to Hanauma TT is a 20K point to point individual time trial from Kailua to Hanauma Bay. For 2021 this event will be a one day virtual challenge for the best elapsed time of the <a href="https://www.strava.com/segments/23101100" target="_blank">Castle to Hanauma Alternate Route</a> Strava segment. Brought to you by <a href="https://www.bikefactoryhawaii.com/" target="_blank">BIKEFACTORY HAWAII</a>.'
+        background: 'Castle to Hanauma.jpg'
+      - name: 'Mokulēʻia Time Trial'
+        id: makaha-mokuleia-tt
+        date: 3/20/2021
+        time: 6:00 a.m. - 3:00 p.m.
+        location: Waialua
+        island: Oahu
+        organizer: Hawaii Triathlon Center
+        link: /events/mokuleia-tt
+        description: 'The Mokulēʻia TT is a 20km Time Trial challenge out and back on the northwest coast of Oahu. The course has been shifted slightly westward to ensure a safe turnaround point at Kaʻena Point trail head. For the exact course see the <a href="https://www.strava.com/segments/27307387" target="_blank">2021 Mokuleia TT</a> Strava segment.'
+        description_old: The first race of the year and the first in a series of three individual time trials, the Makaha Time Trial is a 9 mile out and back course on the beautiful Waianae coast. The course starts just south of the Keawaula Beach parking lot and proceeds out and back along the freshly repaved Farrington Highway.
+        logo: Makaha Time Trial Logo.png
+      - name: Pineapple Sprint Challenge
+        id: pineapple-sprint
+        date: '3/27/2021 - 4/4/2021'
+        day: One Week
+        location: Haleiwa
+        island: Oahu
+        organizer: Tradewinds Cycling Team
+        link: http://www.tradewindcyclingteam.com/races.html
+        description: This year's Pineapple Sprint will be a single segment challenge based on competitors single best time during the challenge window. Check the website for segment detail.
+  - section_title: April
+    events:
+      - name: Tantalus Time Trial
+        id: tantalus-tt
+        date: 4/17/2021 - 4/25/2021
+        day: One Week
+        location: Honolulu
+        island: Oahu
+        organizer: Tradewinds Cycling Team
+        link: http://www.tradewindcyclingteam.com/races.html
+        description: This unique uphill time trial, which runs 4.4 miles up Makiki Heights drive and Tantalus drive, is one of the most iconic mainstays of Hawaii racing calendar. This year's event will be a single segment challenge based on competitors single best time during the challenge window. Check the website for segment detail.
+        logo: Tantalus Logo.png
+  - section_title: May
+    events:
+      - name: Malaekahana Time Trial
+        id: malaekahana-tt
+        date: 5/1/2021 - 5/9/2021
+        day: One Week
+        location: Malaekahana Beach
+        island: Oahu
+        organizer: Hawaii Triathlon Center
+        link: /events/malaekahana-tt
+        description: The Malaekahana Time Trial is the traditionally the State Time Trial Championship Race. It runs 40 kilometers out and back along Kamehameha Highway from Malaekahana Beach Campground. This year's event will be a virtual challenge based on last years course (one way from Kaneohe to Turtle Bay).
+      - name: 'Pedal to the Meadow: May on the Mountain'
+        id: pedal-to-the-meadow
+        date: 5/1/2021 - 5/31/2021
+        day: The Month of May
+        location: Kekaha
+        island: Kauai
+        organizer: Bicycle Racing Kauai
+        link: http://pedaltothemeadow.com/p2m-2021/
+        description: A month long virtual challenge to climb the Pedal to the Meadow route on Kauai, or an approved route of equivalent elevation and distance on neighbor islands. Details to be announced.
+        background: P2M Women Overall 2019.jpg
+        logo: P2M Logo.gif
+  - section_title: June
+    events:
+      - name: Pineapple Hill Road Race Challenge
+        id: pineapple-hill-rr
+        date: 6/12/2021
+        day: Saturday
+        time: 7:00 a.m. - 10:30 a.m.
+        location: Haleiwa
+        island: Oahu
+        organizer: Outta Bounds
+        link: https://www.bikereg.com/pineapple-hill-rr-2021
+        description: Featuring the same climb past Dole Plantation as the Pineapple Sprint. The Road Race however, involves multiple laps. Starting on Kaukonahua road, proceeding down "Snake Road", and after a hard right turn at the bottom of the hill, back to the start on Kamehameha Highway. The format for this challenge is to ride as many laps as possible during the specified three hour time window. All laps must be started and <strong>completed</strong> during the window (7:30 - 10:30 a.m.). Riders who complete the same number of laps will be ranked based on average lap time. Registration for this event closes at midnight HST on Friday June 11th.
+      - name: '[CANCELED] Cycle to the Sun'
+        id: cycle-to-the-sun
+        date: 6/26/2021
+        day: Saturday
+        time: 6:30 a.m.
+        location: Paia
+        island: Maui
+        organizer:
+        link: http://cycletothesun.com/
+        description: The legendary Cycle to the Sun is one of the most difficult bike climbs in the world. From Pa'ia to the top of Haleakala, the race climbs 10,000 feet over 36 miles and reaches gradients up to 18%.
+  - section_title: July
+    events:
+      - name: Hilo Hill Climb
+        id: hilo-hill-climb
+        date: 7/17/2021
+        time: [TBA]
+        location: Hilo
+        island: Hawaii
+        organizer: Hawaii Cycling Club
+        link: http://www.hawaiicyclingclub.com/hilo-climbing-time-trial.html
+    events_canceled:
+      - name: '[CANCELED] Kalapawai Café Criterium #1'
+        id: kapolei-crit-1
+        date: 7/10/2021
+        day: Saturday
+        time:
+        location: Kapolei
+        island: Oahu
+        organizer:
+        link:
+        logo: Kalapawai Market Logo.png
+      - name: '[CANCELED] Kalapawai Café Criterium #2'
+        id: kapolei-crit-2
+        date: 7/24/2021
+        day: Saturday
+        time:
+        location: Kapolei
+        island: Oahu
+        organizer:
+        link:
+        logo: Kalapawai Market Logo.png
+  - section_title: August
+    events_canceled:
+      - name: '[CANCELED] Olomana Road Race'
+        id: olomana-rr
+        date: 8/8/2021
+        day: Saturday
+        time: 7:00 a.m.
+        location: Kailua
+        island: Oahu
+        organizer: Tradewinds Cycling Team
+        link: http://www.tradewindcyclingteam.com/races.html
+        description: A multiple distance lap race making clockwise circuits of Old Kalanianaole Road and Kalanianaole Highway. This race is one of the most intense road races on Oahu, and a great run up to the Dick Evans.
+    events:
+      - name: Dick Evans Memorial Challenge
+        id: dick-evans-rr
+        date: 8/29/2021
+        day: SUNDAY
+        time: 5:45 a.m.
+        location: Hawaii Kai
+        island: Oahu
+        organizer: Outta Bounds
+        link: http://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
+        description: 'The pinnacle of the Hawaii bike racing season, the Dick Evans Memorial Road Race follows a route similar to the original Around Oahu Race. Its distance, 112 miles, is the basis for the Iron Man distance Triathlon. This year (2021) the event will be a virtual challenge based on <strong>moving time</strong>, allowing riders to safely stop for all traffic signals without impacting their time, as well as stop for refreshments as needed. The <a href="https://www.strava.com/segments/28990637">challenge segment</a> is a subset of the traditional route starting on Kunia Rd. after the end of the neutral section. (NOTE: the official date has been changed from Saturday 8/28 to Sunday 8/29 to avoid potentially heavy traffic on Saturday)'
+        background: DEMRR Trophy 2019.jpg
+        logo: DEMRR Logo.png
+  - section_title: September
+    events:
+      - name: Kua Bay Time Trial
+        id: kua-bay-tt
+        date: 9/11/2021
+        day: Saturday
+        time: [TBD]
+        location: Waikoloa
+        island: Hawaii
+        organizer: Hawaii Cycling Club
+        link: http://www.hawaiicyclingclub.com/kua-bay-time-trial.html
+        description: This 12.2 mile time trial is basically the first half of the Lavaman course, featuring the important and challenging hills to the Scenic Overlook and the Kua Bay turnoff.
+  - section_title: November
+    events:
+      - name: Big Island TT Championship
+        id: big-island-tt
+        date: 11/13/2021
+        day: Saturday
+        time: 7:00 a.m.
+        location: Kona
+        island: Hawaii
+        organizer: Hawaii Cycling Club
+        link: http://www.hawaiicyclingclub.com/big-island-time-trial-championship.html
+        description: 'The "Out n Back" starts at Ka’iminani Dr. and Queen Ka’ahumanu Hwy, travels North 13.5 miles to the 80 mile marker, makes a U Turn and returns to the 86 mile marker.'

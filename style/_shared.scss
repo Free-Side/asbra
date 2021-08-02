@@ -1,0 +1,17 @@
+@import '_theme.scss';
+
+%dark-color-link {
+  color: $dark_body_text;
+
+  &:hover {
+    color: dimgray;
+  }
+}
+
+%light-color-link {
+  color: $light_body_text;
+
+  &:hover {
+    color: lightgray;
+  }
+}
