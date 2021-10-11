@@ -8,7 +8,7 @@
           "Name": "Björn Marsen | Velohana"
         },
         {
-          "Points": 10,
+          "Points": 20,
           "Place": 2,
           "Name": "Doug Baker"
         },
@@ -18,24 +18,24 @@
           "Name": "Ed Price"
         },
         {
-          "Points": 7,
+          "Points": 9,
           "Place": 4,
-          "Name": "JB Vowell"
+          "Name": "Chris Houghtling | Velohana"
         },
         {
-          "Points": 6,
+          "Points": 8,
           "Place": 5,
           "Name": "Greg Wolf"
         },
         {
-          "Points": 5,
+          "Points": 7,
           "Place": 6,
-          "Name": "Tim Connelly"
+          "Name": "JB Vowell"
         },
         {
-          "Points": 4,
+          "Points": 5,
           "Place": 7,
-          "Name": "Chris Houghtling | Velohana"
+          "Name": "Tim Connelly"
         },
         {
           "Points": 3,
@@ -44,12 +44,12 @@
         },
         {
           "Points": 3,
-          "Place": 9,
+          "Place": 8,
           "Name": "RJ Latour | Wolfpack 🐺"
         },
         {
           "Points": 3,
-          "Place": 10,
+          "Place": 8,
           "Name": "Ron Barber 🐺"
         },
         {
@@ -64,12 +64,12 @@
         },
         {
           "Points": 1,
-          "Place": 13,
+          "Place": 12,
           "Name": "Ben Holland"
         },
         {
           "Points": 1,
-          "Place": 14,
+          "Place": 12,
           "Name": "Taro Nobusawa"
         }
       ],
@@ -78,19 +78,19 @@
     {
       "Results": [
         {
-          "Points": 60,
+          "Points": 70,
           "Place": 1,
           "Name": "Ray Brust"
         },
         {
-          "Points": 11,
+          "Points": 15,
           "Place": 2,
-          "Name": "Scott Daubert"
+          "Name": "Atomman Kimm"
         },
         {
-          "Points": 10,
+          "Points": 11,
           "Place": 3,
-          "Name": "Atomman Kimm"
+          "Name": "Scott Daubert"
         },
         {
           "Points": 10,
@@ -98,9 +98,9 @@
           "Name": "Charles Calvet"
         },
         {
-          "Points": 5,
+          "Points": 7,
           "Place": 5,
-          "Name": "Lawrence Friedman | 🐺"
+          "Name": "Lawrence Friedman | WolfPack HI 🐺"
         },
         {
           "Points": 2,
@@ -109,7 +109,7 @@
         },
         {
           "Points": 2,
-          "Place": 7,
+          "Place": 6,
           "Name": "Steven Campbell"
         }
       ],
@@ -118,7 +118,7 @@
     {
       "Results": [
         {
-          "Points": 40,
+          "Points": 50,
           "Place": 1,
           "Name": "Wojciech Szymanski"
         },
@@ -148,63 +148,68 @@
     {
       "Results": [
         {
-          "Points": 32,
-          "Place": 1,
-          "Name": "Chad Burdzilauskas"
-        },
-        {
-          "Points": 32,
+          "Points": 37,
           "Place": 1,
           "Name": "Jan \"Brazda\""
         },
         {
-          "Points": 22,
+          "Points": 34,
           "Place": 2,
+          "Name": "Chad Burdzilauskas"
+        },
+        {
+          "Points": 22,
+          "Place": 3,
           "Name": "Kenji Takanishi"
         },
         {
-          "Points": 10,
-          "Place": 3,
+          "Points": 11,
+          "Place": 4,
           "Name": ".Gallardo | Wolfpack.Hi 🐺"
         },
         {
-          "Points": 7,
-          "Place": 4,
+          "Points": 10,
+          "Place": 5,
+          "Name": "Ben Williams // Hawaii Triathlon Center"
+        },
+        {
+          "Points": 8,
+          "Place": 6,
           "Name": "Garry Kirkland II"
         },
         {
-          "Points": 6,
-          "Place": 5,
-          "Name": "Andrew Stiegmann | Velohana"
-        },
-        {
-          "Points": 6,
-          "Place": 6,
+          "Points": 7,
+          "Place": 7,
           "Name": "Kevin White | Velohana"
         },
         {
-          "Points": 6,
+          "Points": 7,
           "Place": 7,
           "Name": "Paul Wheeler"
         },
         {
+          "Points": 7,
+          "Place": 7,
+          "Name": "Andrew Stiegmann | Velohana"
+        },
+        {
           "Points": 6,
-          "Place": 8,
+          "Place": 10,
+          "Name": "Coach Will | Velohana"
+        },
+        {
+          "Points": 6,
+          "Place": 10,
           "Name": "Tayro Acosta"
         },
         {
           "Points": 5,
-          "Place": 9,
+          "Place": 12,
           "Name": "Collen Kelton"
         },
         {
           "Points": 5,
-          "Place": 10,
-          "Name": "doughboy | Velohana"
-        },
-        {
-          "Points": 5,
-          "Place": 11,
+          "Place": 12,
           "Name": "Jason D"
         },
         {
@@ -214,48 +219,73 @@
         },
         {
           "Points": 4,
-          "Place": 13,
-          "Name": "Micah Watts | UNIFIED"
-        },
-        {
-          "Points": 4,
-          "Place": 14,
+          "Place": 15,
           "Name": "Michael DeCaprio"
         },
         {
-          "Points": 3,
+          "Points": 4,
           "Place": 15,
           "Name": "Al Taylor (USMES)"
         },
         {
+          "Points": 4,
+          "Place": 15,
+          "Name": "Micah Watts | UNIFIED"
+        },
+        {
           "Points": 3,
-          "Place": 16,
+          "Place": 18,
+          "Name": "Timothy Howell"
+        },
+        {
+          "Points": 3,
+          "Place": 18,
           "Name": "Daniel Otchere *USMES*"
         },
         {
           "Points": 3,
-          "Place": 17,
-          "Name": "Timothy Howell"
-        },
-        {
-          "Points": 2,
           "Place": 18,
           "Name": "D. Ureña"
         },
         {
           "Points": 2,
-          "Place": 19,
+          "Place": 21,
           "Name": "Shawndy Spencer| UNIFIED"
         },
         {
           "Points": 1,
-          "Place": 20,
-          "Name": "🏃‍♂️🏊‍♂️🚴‍♀️ Lilmauwow | Velohana 🚴‍♀️🏊‍♂️🏃‍♂️"
+          "Place": 22,
+          "Name": "michael prendergast"
         },
         {
           "Points": 1,
-          "Place": 21,
-          "Name": "eddie maldo 3"
+          "Place": 22,
+          "Name": "Matt Novack"
+        },
+        {
+          "Points": 1,
+          "Place": 22,
+          "Name": "John Hudson"
+        },
+        {
+          "Points": 1,
+          "Place": 22,
+          "Name": "Jesse Lee"
+        },
+        {
+          "Points": 1,
+          "Place": 22,
+          "Name": "James Arnal"
+        },
+        {
+          "Points": 1,
+          "Place": 22,
+          "Name": "James Andrew Sasiadek"
+        },
+        {
+          "Points": 1,
+          "Place": 22,
+          "Name": "gabriel nieves"
         },
         {
           "Points": 1,
@@ -264,47 +294,47 @@
         },
         {
           "Points": 1,
-          "Place": 23,
-          "Name": "gabriel nieves"
+          "Place": 22,
+          "Name": "eddie maldo 3"
         },
         {
           "Points": 1,
-          "Place": 24,
-          "Name": "James Andrew Sasiadek"
+          "Place": 22,
+          "Name": "🏃‍♂️🏊‍♂️🚴‍♀️ Lilmauwow | Velohana 🚴‍♀️🏊‍♂️🏃‍♂️"
         },
         {
           "Points": 1,
-          "Place": 25,
-          "Name": "James Arnal"
+          "Place": 22,
+          "Name": "John Daly"
         },
         {
           "Points": 1,
-          "Place": 26,
-          "Name": "Jesse Lee"
+          "Place": 22,
+          "Name": "Jerry Freeman"
         },
         {
           "Points": 1,
-          "Place": 27,
-          "Name": "John Hudson"
+          "Place": 22,
+          "Name": "Tyler McNamee"
         },
         {
           "Points": 1,
-          "Place": 28,
-          "Name": "Matt Novack"
+          "Place": 22,
+          "Name": "Alex K Shin | 🐺"
         },
         {
           "Points": 1,
-          "Place": 29,
-          "Name": "michael prendergast"
+          "Place": 22,
+          "Name": "Jon L ⛰OuttaBoundsHawaii⛰"
         },
         {
           "Points": 1,
-          "Place": 30,
+          "Place": 22,
           "Name": "Nick Brown"
         },
         {
           "Points": 1,
-          "Place": 31,
+          "Place": 22,
           "Name": "Victor Heung"
         }
       ],
@@ -313,38 +343,48 @@
     {
       "Results": [
         {
-          "Points": 40,
+          "Points": 41,
           "Place": 1,
-          "Name": "Everett Jellinek"
-        },
-        {
-          "Points": 39,
-          "Place": 2,
           "Name": "Carl Nethercutt | Velohana"
         },
         {
-          "Points": 14,
+          "Points": 41,
+          "Place": 1,
+          "Name": "Everett Jellinek |BME|"
+        },
+        {
+          "Points": 15,
           "Place": 3,
+          "Name": "Joseph Kim"
+        },
+        {
+          "Points": 14,
+          "Place": 4,
           "Name": "Drew Borrebach"
         },
         {
           "Points": 10,
-          "Place": 4,
-          "Name": "Christopher Salas"
+          "Place": 5,
+          "Name": "Connor Wernecke"
         },
         {
           "Points": 10,
           "Place": 5,
-          "Name": "Joseph Kim"
+          "Name": "Christopher Salas"
         },
         {
           "Points": 2,
-          "Place": 6,
+          "Place": 7,
           "Name": "Peykai Respicio | UNIFIED"
         },
         {
           "Points": 1,
-          "Place": 7,
+          "Place": 8,
+          "Name": "Victor Manuel Arenas"
+        },
+        {
+          "Points": 1,
+          "Place": 8,
           "Name": "Bill Sumrow"
         },
         {
@@ -354,12 +394,12 @@
         },
         {
           "Points": 1,
-          "Place": 9,
+          "Place": 8,
           "Name": "Jimmy O'Rourke"
         },
         {
           "Points": 1,
-          "Place": 10,
+          "Place": 8,
           "Name": "Ted Hebert"
         }
       ],
@@ -395,6 +435,11 @@
         {
           "Points": 10,
           "Place": 1,
+          "Name": "Denee Madamba"
+        },
+        {
+          "Points": 10,
+          "Place": 1,
           "Name": "Sharon Keith"
         }
       ],
@@ -415,31 +460,41 @@
         {
           "Points": 10,
           "Place": 3,
+          "Name": "Whitney Burdzilauskas/The Fitness Lab"
+        },
+        {
+          "Points": 10,
+          "Place": 3,
           "Name": "Nikki Moreno"
         },
         {
           "Points": 10,
-          "Place": 4,
+          "Place": 3,
           "Name": "Nina D"
         },
         {
           "Points": 9,
-          "Place": 5,
+          "Place": 6,
           "Name": "Marcie H |UNIFIED"
         },
         {
           "Points": 5,
-          "Place": 6,
+          "Place": 7,
+          "Name": "Yun Yi"
+        },
+        {
+          "Points": 5,
+          "Place": 7,
           "Name": "McKenna Nieves"
         },
         {
           "Points": 2,
-          "Place": 7,
+          "Place": 9,
           "Name": "Chris Tin Gah"
         },
         {
           "Points": 2,
-          "Place": 8,
+          "Place": 9,
           "Name": "Kimberly FUNASAKI"
         },
         {
@@ -449,12 +504,12 @@
         },
         {
           "Points": 1,
-          "Place": 10,
+          "Place": 12,
           "Name": "Jessica Grayson"
         },
         {
           "Points": 1,
-          "Place": 11,
+          "Place": 12,
           "Name": "Kelly White"
         }
       ],
@@ -468,8 +523,13 @@
           "Name": "Becky Borrebach"
         },
         {
-          "Points": 5,
+          "Points": 10,
           "Place": 2,
+          "Name": "Emily Reynolds"
+        },
+        {
+          "Points": 5,
+          "Place": 3,
           "Name": "Jonnah lashay Respicio | UNIFIED"
         }
       ],
@@ -490,6 +550,12 @@
               "Name": "Björn Marsen | Velohana"
             },
             {
+              "Time": "00:38:04",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Tim Connelly"
+            },
+            {
               "Time": "00:40:12",
               "Points": 2,
               "Place": 3,
@@ -502,10 +568,10 @@
               "Name": "Greg Wolf"
             },
             {
-              "Time": "00:38:04",
-              "Points": 5,
-              "Place": 2,
-              "Name": "Tim Connelly"
+              "Time": "00:41:58",
+              "Points": 1,
+              "Place": 5,
+              "Name": "RJ Latour | Wolfpack 🐺"
             },
             {
               "Time": "00:42:22",
@@ -514,22 +580,16 @@
               "Name": "Bryan Guenther"
             },
             {
-              "Time": "00:41:58",
+              "Time": "00:51:48",
               "Points": 1,
-              "Place": 5,
-              "Name": "RJ Latour | Wolfpack 🐺"
+              "Place": 7,
+              "Name": "Taro Nobusawa"
             },
             {
               "Time": "1:21:15",
               "Points": 1,
               "Place": 8,
               "Name": "Ruperto Dela Pena"
-            },
-            {
-              "Time": "00:51:48",
-              "Points": 1,
-              "Place": 7,
-              "Name": "Taro Nobusawa"
             }
           ],
           "Name": "Men, Golden Master (50-59)"
@@ -552,7 +612,7 @@
               "Time": "00:47:19",
               "Points": 2,
               "Place": 3,
-              "Name": "Lawrence Friedman | 🐺"
+              "Name": "Lawrence Friedman | WolfPack HI 🐺"
             },
             {
               "Time": "1:21:15",
@@ -583,10 +643,10 @@
         {
           "Results": [
             {
-              "Time": "00:35:48",
-              "Points": 2,
-              "Place": 3,
-              "Name": "Chad Burdzilauskas"
+              "Time": "00:33:49",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Kenji Takanishi"
             },
             {
               "Time": "00:35:46",
@@ -595,10 +655,16 @@
               "Name": "Jan \"Brazda\""
             },
             {
-              "Time": "00:33:49",
-              "Points": 10,
-              "Place": 1,
-              "Name": "Kenji Takanishi"
+              "Time": "00:35:48",
+              "Points": 2,
+              "Place": 3,
+              "Name": "Chad Burdzilauskas"
+            },
+            {
+              "Time": "00:37:02",
+              "Points": 1,
+              "Place": 4,
+              "Name": "Timothy Howell"
             },
             {
               "Time": "00:37:17",
@@ -607,34 +673,10 @@
               "Name": ".Gallardo | Wolfpack.Hi 🐺"
             },
             {
-              "Time": "00:41:45",
-              "Points": 1,
-              "Place": 11,
-              "Name": "Garry Kirkland II"
-            },
-            {
               "Time": "00:37:59",
               "Points": 1,
               "Place": 6,
               "Name": "Andrew Stiegmann | Velohana"
-            },
-            {
-              "Time": "00:43:12",
-              "Points": 1,
-              "Place": 14,
-              "Name": "Kevin White | Velohana"
-            },
-            {
-              "Time": "00:43:22",
-              "Points": 1,
-              "Place": 16,
-              "Name": "Paul Wheeler"
-            },
-            {
-              "Time": "00:39:27",
-              "Points": 1,
-              "Place": 8,
-              "Name": "Tayro Acosta"
             },
             {
               "Time": "00:38:35",
@@ -643,10 +685,28 @@
               "Name": "Jason D"
             },
             {
-              "Time": "00:44:52",
+              "Time": "00:39:27",
               "Points": 1,
-              "Place": 18,
-              "Name": "Scott Hansen"
+              "Place": 8,
+              "Name": "Tayro Acosta"
+            },
+            {
+              "Time": "00:40:02",
+              "Points": 1,
+              "Place": 9,
+              "Name": "Shawndy Spencer| UNIFIED"
+            },
+            {
+              "Time": "00:40:33",
+              "Points": 1,
+              "Place": 10,
+              "Name": "James Andrew Sasiadek"
+            },
+            {
+              "Time": "00:41:45",
+              "Points": 1,
+              "Place": 11,
+              "Name": "Garry Kirkland II"
             },
             {
               "Time": "00:43:01",
@@ -661,16 +721,16 @@
               "Name": "Michael DeCaprio"
             },
             {
-              "Time": "00:37:02",
+              "Time": "00:43:12",
               "Points": 1,
-              "Place": 4,
-              "Name": "Timothy Howell"
+              "Place": 14,
+              "Name": "Kevin White | Velohana"
             },
             {
-              "Time": "00:40:02",
+              "Time": "00:43:22",
               "Points": 1,
-              "Place": 9,
-              "Name": "Shawndy Spencer| UNIFIED"
+              "Place": 16,
+              "Name": "Paul Wheeler"
             },
             {
               "Time": "00:43:48",
@@ -679,28 +739,28 @@
               "Name": "Euan Beer"
             },
             {
+              "Time": "00:44:52",
+              "Points": 1,
+              "Place": 18,
+              "Name": "Scott Hansen"
+            },
+            {
               "Time": "00:54:07",
               "Points": 1,
               "Place": 19,
               "Name": "gabriel nieves"
             },
             {
-              "Time": "00:40:33",
+              "Time": "00:57:55",
               "Points": 1,
-              "Place": 10,
-              "Name": "James Andrew Sasiadek"
+              "Place": 20,
+              "Name": "Victor Heung"
             },
             {
               "Time": "1:07:21",
               "Points": 1,
               "Place": 21,
               "Name": "Matt Novack"
-            },
-            {
-              "Time": "00:57:55",
-              "Points": 1,
-              "Place": 20,
-              "Name": "Victor Heung"
             }
           ],
           "Name": "Men, Master (35-49)"
@@ -711,7 +771,7 @@
               "Time": "00:36:26",
               "Points": 10,
               "Place": 1,
-              "Name": "Everett Jellinek"
+              "Name": "Everett Jellinek |BME|"
             },
             {
               "Time": "00:37:15",
@@ -726,6 +786,12 @@
               "Name": "Drew Borrebach"
             },
             {
+              "Time": "00:39:40",
+              "Points": 1,
+              "Place": 4,
+              "Name": "Jimmy O'Rourke"
+            },
+            {
               "Time": "00:40:48",
               "Points": 1,
               "Place": 5,
@@ -736,12 +802,6 @@
               "Points": 1,
               "Place": 6,
               "Name": "Peykai Respicio | UNIFIED"
-            },
-            {
-              "Time": "00:39:40",
-              "Points": 1,
-              "Place": 4,
-              "Name": "Jimmy O'Rourke"
             }
           ],
           "Name": "Men, Senior (23-34)"
@@ -760,16 +820,16 @@
         {
           "Results": [
             {
-              "Time": "00:48:45",
-              "Points": 1,
-              "Place": 4,
-              "Name": "Tiana Spencer | UNIFIED"
-            },
-            {
               "Time": "00:44:57",
               "Points": 10,
               "Place": 1,
               "Name": "Nina D"
+            },
+            {
+              "Time": "00:46:51",
+              "Points": 5,
+              "Place": 2,
+              "Name": "McKenna Nieves"
             },
             {
               "Time": "00:47:25",
@@ -778,10 +838,10 @@
               "Name": "Marcie H |UNIFIED"
             },
             {
-              "Time": "00:46:51",
-              "Points": 5,
-              "Place": 2,
-              "Name": "McKenna Nieves"
+              "Time": "00:48:45",
+              "Points": 1,
+              "Place": 4,
+              "Name": "Tiana Spencer | UNIFIED"
             }
           ],
           "Name": "Women, Master (35-49)"
@@ -898,28 +958,28 @@
               "Name": "Jan \"Brazda\""
             },
             {
-              "Time": "00:33:15",
-              "Points": 1,
-              "Place": 5,
-              "Name": ".Gallardo | Wolfpack.Hi 🐺"
-            },
-            {
               "Time": "00:32:04",
               "Points": 2,
               "Place": 3,
               "Name": "Garry Kirkland II"
             },
             {
-              "Time": "00:36:54",
+              "Time": "00:32:46",
               "Points": 1,
-              "Place": 13,
-              "Name": "Kevin White | Velohana"
+              "Place": 4,
+              "Name": "Al Taylor (USMES)"
             },
             {
-              "Time": "00:38:12",
+              "Time": "00:33:15",
               "Points": 1,
-              "Place": 14,
-              "Name": "Paul Wheeler"
+              "Place": 5,
+              "Name": ".Gallardo | Wolfpack.Hi 🐺"
+            },
+            {
+              "Time": "00:33:51",
+              "Points": 1,
+              "Place": 6,
+              "Name": "Shawndy Spencer| UNIFIED"
             },
             {
               "Time": "00:34:41",
@@ -934,16 +994,10 @@
               "Name": "Jason D"
             },
             {
-              "Time": "00:35:59",
+              "Time": "00:35:26",
               "Points": 1,
-              "Place": 12,
-              "Name": "Scott Hansen"
-            },
-            {
-              "Time": "00:35:46",
-              "Points": 1,
-              "Place": 11,
-              "Name": "Micah Watts | UNIFIED"
+              "Place": 9,
+              "Name": "Daniel Otchere *USMES*"
             },
             {
               "Time": "00:35:45",
@@ -952,22 +1006,28 @@
               "Name": "Michael DeCaprio"
             },
             {
-              "Time": "00:32:46",
+              "Time": "00:35:46",
               "Points": 1,
-              "Place": 4,
-              "Name": "Al Taylor (USMES)"
+              "Place": 11,
+              "Name": "Micah Watts | UNIFIED"
             },
             {
-              "Time": "00:35:26",
+              "Time": "00:35:59",
               "Points": 1,
-              "Place": 9,
-              "Name": "Daniel Otchere *USMES*"
+              "Place": 12,
+              "Name": "Scott Hansen"
             },
             {
-              "Time": "00:33:51",
+              "Time": "00:36:54",
               "Points": 1,
-              "Place": 6,
-              "Name": "Shawndy Spencer| UNIFIED"
+              "Place": 13,
+              "Name": "Kevin White | Velohana"
+            },
+            {
+              "Time": "00:38:12",
+              "Points": 1,
+              "Place": 14,
+              "Name": "Paul Wheeler"
             },
             {
               "Time": "00:38:36",
@@ -981,22 +1041,22 @@
         {
           "Results": [
             {
+              "Time": "00:31:59",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Drew Borrebach"
+            },
+            {
               "Time": "00:32:29",
               "Points": 5,
               "Place": 2,
-              "Name": "Everett Jellinek"
+              "Name": "Everett Jellinek |BME|"
             },
             {
               "Time": "00:35:16",
               "Points": 2,
               "Place": 3,
               "Name": "Carl Nethercutt | Velohana"
-            },
-            {
-              "Time": "00:31:59",
-              "Points": 10,
-              "Place": 1,
-              "Name": "Drew Borrebach"
             },
             {
               "Time": "00:36:16",
@@ -1101,16 +1161,16 @@
               "Name": "Ed Price"
             },
             {
-              "Time": "00:37:12",
-              "Points": 1,
-              "Place": 4,
-              "Name": "Greg Wolf"
-            },
-            {
               "Time": "00:36:27",
               "Points": 2,
               "Place": 3,
               "Name": "Ron Barber 🐺"
+            },
+            {
+              "Time": "00:37:12",
+              "Points": 1,
+              "Place": 4,
+              "Name": "Greg Wolf"
             },
             {
               "Time": "00:38:28",
@@ -1130,6 +1190,18 @@
               "Name": "Ray Brust"
             },
             {
+              "Time": "00:36:33",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Charles Calvet"
+            },
+            {
+              "Time": "00:38:20",
+              "Points": 2,
+              "Place": 3,
+              "Name": "Lawrence Friedman | WolfPack HI 🐺"
+            },
+            {
               "Time": "00:39:54",
               "Points": 1,
               "Place": 4,
@@ -1140,18 +1212,6 @@
               "Points": 1,
               "Place": 5,
               "Name": "Atomman Kimm"
-            },
-            {
-              "Time": "00:36:33",
-              "Points": 5,
-              "Place": 2,
-              "Name": "Charles Calvet"
-            },
-            {
-              "Time": "00:38:20",
-              "Points": 2,
-              "Place": 3,
-              "Name": "Lawrence Friedman | 🐺"
             }
           ],
           "Name": "Men, Golden Master (60-69)"
@@ -1187,6 +1247,12 @@
               "Name": "Chad Burdzilauskas"
             },
             {
+              "Time": "00:31:12",
+              "Points": 5,
+              "Place": 2,
+              "Name": ".Gallardo | Wolfpack.Hi 🐺"
+            },
+            {
               "Time": "00:31:32",
               "Points": 2,
               "Place": 3,
@@ -1197,18 +1263,6 @@
               "Points": 1,
               "Place": 4,
               "Name": "Kenji Takanishi"
-            },
-            {
-              "Time": "00:31:12",
-              "Points": 5,
-              "Place": 2,
-              "Name": ".Gallardo | Wolfpack.Hi 🐺"
-            },
-            {
-              "Time": "00:39:32",
-              "Points": 1,
-              "Place": 16,
-              "Name": "Garry Kirkland II"
             },
             {
               "Time": "00:31:34",
@@ -1223,16 +1277,10 @@
               "Name": "Kevin White | Velohana"
             },
             {
-              "Time": "00:38:44",
+              "Time": "00:32:18",
               "Points": 1,
-              "Place": 14,
-              "Name": "Paul Wheeler"
-            },
-            {
-              "Time": "00:34:38",
-              "Points": 1,
-              "Place": 11,
-              "Name": "Tayro Acosta"
+              "Place": 7,
+              "Name": "Daniel Otchere *USMES*"
             },
             {
               "Time": "00:32:37",
@@ -1241,34 +1289,10 @@
               "Name": "Jason D"
             },
             {
-              "Time": "00:43:14",
+              "Time": "00:32:58",
               "Points": 1,
-              "Place": 17,
-              "Name": "Scott Hansen"
-            },
-            {
-              "Time": "00:38:06",
-              "Points": 1,
-              "Place": 13,
-              "Name": "Micah Watts | UNIFIED"
-            },
-            {
-              "Time": "00:39:27",
-              "Points": 1,
-              "Place": 15,
-              "Name": "Michael DeCaprio"
-            },
-            {
-              "Time": "00:32:18",
-              "Points": 1,
-              "Place": 7,
-              "Name": "Daniel Otchere *USMES*"
-            },
-            {
-              "Time": "00:34:57",
-              "Points": 1,
-              "Place": 12,
-              "Name": "🏃‍♂️🏊‍♂️🚴‍♀️ Lilmauwow | Velohana 🚴‍♀️🏊‍♂️🏃‍♂️"
+              "Place": 9,
+              "Name": "Nick Brown"
             },
             {
               "Time": "00:34:26",
@@ -1277,10 +1301,46 @@
               "Name": "michael prendergast"
             },
             {
-              "Time": "00:32:58",
+              "Time": "00:34:38",
               "Points": 1,
-              "Place": 9,
-              "Name": "Nick Brown"
+              "Place": 11,
+              "Name": "Tayro Acosta"
+            },
+            {
+              "Time": "00:34:57",
+              "Points": 1,
+              "Place": 12,
+              "Name": "🏃‍♂️🏊‍♂️🚴‍♀️ Lilmauwow | Velohana 🚴‍♀️🏊‍♂️🏃‍♂️"
+            },
+            {
+              "Time": "00:38:06",
+              "Points": 1,
+              "Place": 13,
+              "Name": "Micah Watts | UNIFIED"
+            },
+            {
+              "Time": "00:38:44",
+              "Points": 1,
+              "Place": 14,
+              "Name": "Paul Wheeler"
+            },
+            {
+              "Time": "00:39:27",
+              "Points": 1,
+              "Place": 15,
+              "Name": "Michael DeCaprio"
+            },
+            {
+              "Time": "00:39:32",
+              "Points": 1,
+              "Place": 16,
+              "Name": "Garry Kirkland II"
+            },
+            {
+              "Time": "00:43:14",
+              "Points": 1,
+              "Place": 17,
+              "Name": "Scott Hansen"
             }
           ],
           "Name": "Men, Master (35-49)"
@@ -1288,10 +1348,16 @@
         {
           "Results": [
             {
+              "Time": "00:28:05",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Joseph Kim"
+            },
+            {
               "Time": "00:30:09",
               "Points": 5,
               "Place": 2,
-              "Name": "Everett Jellinek"
+              "Name": "Everett Jellinek |BME|"
             },
             {
               "Time": "00:30:49",
@@ -1304,12 +1370,6 @@
               "Points": 1,
               "Place": 4,
               "Name": "Christopher Salas"
-            },
-            {
-              "Time": "00:28:05",
-              "Points": 10,
-              "Place": 1,
-              "Name": "Joseph Kim"
             },
             {
               "Time": "00:43:33",
@@ -1334,16 +1394,16 @@
         {
           "Results": [
             {
-              "Time": "00:44:30",
-              "Points": 5,
-              "Place": 2,
-              "Name": "Monique van der Aa"
-            },
-            {
               "Time": "00:40:43",
               "Points": 10,
               "Place": 1,
               "Name": "Jo Cinter"
+            },
+            {
+              "Time": "00:44:30",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Monique van der Aa"
             }
           ],
           "Name": "Women, Golden Master (50-59)"
@@ -1363,10 +1423,10 @@
               "Name": "Nikki Moreno"
             },
             {
-              "Time": "00:42:21",
-              "Points": 1,
-              "Place": 5,
-              "Name": "Marcie H |UNIFIED"
+              "Time": "00:36:29",
+              "Points": 2,
+              "Place": 3,
+              "Name": "Michelle Simmons"
             },
             {
               "Time": "00:39:56",
@@ -1375,22 +1435,22 @@
               "Name": "Kimberly FUNASAKI"
             },
             {
-              "Time": "00:36:29",
-              "Points": 2,
-              "Place": 3,
-              "Name": "Michelle Simmons"
-            },
-            {
-              "Time": "00:48:03",
+              "Time": "00:42:21",
               "Points": 1,
-              "Place": 7,
-              "Name": "Jessica Grayson"
+              "Place": 5,
+              "Name": "Marcie H |UNIFIED"
             },
             {
               "Time": "00:47:59",
               "Points": 1,
               "Place": 6,
               "Name": "Kelly White"
+            },
+            {
+              "Time": "00:48:03",
+              "Points": 1,
+              "Place": 7,
+              "Name": "Jessica Grayson"
             }
           ],
           "Name": "Women, Master (35-49)"
@@ -1416,28 +1476,28 @@
               "Name": "Ed Price"
             },
             {
-              "Time": "00:29:22",
-              "Points": 1,
-              "Place": 4,
-              "Name": "Greg Wolf"
-            },
-            {
-              "Time": "00:40:41",
-              "Points": 1,
-              "Place": 6,
-              "Name": "Chris Houghtling | Velohana"
-            },
-            {
               "Time": "00:27:19",
               "Points": 2,
               "Place": 3,
               "Name": "Bryan Guenther"
             },
             {
+              "Time": "00:29:22",
+              "Points": 1,
+              "Place": 4,
+              "Name": "Greg Wolf"
+            },
+            {
               "Time": "00:30:43",
               "Points": 1,
               "Place": 5,
               "Name": "RJ Latour | Wolfpack 🐺"
+            },
+            {
+              "Time": "00:40:41",
+              "Points": 1,
+              "Place": 6,
+              "Name": "Chris Houghtling | Velohana"
             }
           ],
           "Name": "Men, Golden Master (50-59)"
@@ -1451,22 +1511,22 @@
               "Name": "Ray Brust"
             },
             {
-              "Time": "00:32:16",
-              "Points": 2,
-              "Place": 3,
-              "Name": "Atomman Kimm"
-            },
-            {
               "Time": "00:29:20",
               "Points": 5,
               "Place": 2,
               "Name": "Charles Calvet"
             },
             {
+              "Time": "00:32:16",
+              "Points": 2,
+              "Place": 3,
+              "Name": "Atomman Kimm"
+            },
+            {
               "Time": "00:33:32",
               "Points": 1,
               "Place": 4,
-              "Name": "Lawrence Friedman | 🐺"
+              "Name": "Lawrence Friedman | WolfPack HI 🐺"
             },
             {
               "Time": "00:35:28",
@@ -1514,34 +1574,10 @@
               "Name": "Jan \"Brazda\""
             },
             {
-              "Time": "00:26:25",
-              "Points": 1,
-              "Place": 8,
-              "Name": "Kenji Takanishi"
-            },
-            {
-              "Time": "00:34:15",
-              "Points": 1,
-              "Place": 14,
-              "Name": "Garry Kirkland II"
-            },
-            {
-              "Time": "00:23:28",
-              "Points": 1,
-              "Place": 5,
-              "Name": "Andrew Stiegmann | Velohana"
-            },
-            {
               "Time": "00:22:49",
               "Points": 2,
               "Place": 3,
               "Name": "Kevin White | Velohana"
-            },
-            {
-              "Time": "00:33:19",
-              "Points": 1,
-              "Place": 12,
-              "Name": "Paul Wheeler"
             },
             {
               "Time": "00:23:08",
@@ -1550,16 +1586,10 @@
               "Name": "Tayro Acosta"
             },
             {
-              "Time": "00:25:08",
+              "Time": "00:23:28",
               "Points": 1,
-              "Place": 7,
-              "Name": "Jason D"
-            },
-            {
-              "Time": "00:33:36",
-              "Points": 1,
-              "Place": 13,
-              "Name": "Scott Hansen"
+              "Place": 5,
+              "Name": "Andrew Stiegmann | Velohana"
             },
             {
               "Time": "00:24:22",
@@ -1568,10 +1598,16 @@
               "Name": "Timothy Howell"
             },
             {
-              "Time": "00:32:29",
+              "Time": "00:25:08",
               "Points": 1,
-              "Place": 11,
-              "Name": "D. Ureña"
+              "Place": 7,
+              "Name": "Jason D"
+            },
+            {
+              "Time": "00:26:25",
+              "Points": 1,
+              "Place": 8,
+              "Name": "Kenji Takanishi"
             },
             {
               "Time": "00:27:01",
@@ -1584,6 +1620,30 @@
               "Points": 1,
               "Place": 10,
               "Name": "John Hudson"
+            },
+            {
+              "Time": "00:32:29",
+              "Points": 1,
+              "Place": 11,
+              "Name": "D. Ureña"
+            },
+            {
+              "Time": "00:33:19",
+              "Points": 1,
+              "Place": 12,
+              "Name": "Paul Wheeler"
+            },
+            {
+              "Time": "00:33:36",
+              "Points": 1,
+              "Place": 13,
+              "Name": "Scott Hansen"
+            },
+            {
+              "Time": "00:34:15",
+              "Points": 1,
+              "Place": 14,
+              "Name": "Garry Kirkland II"
             }
           ],
           "Name": "Men, Master (35-49)"
@@ -1591,16 +1651,16 @@
         {
           "Results": [
             {
-              "Time": "00:21:28",
-              "Points": 5,
-              "Place": 2,
-              "Name": "Everett Jellinek"
-            },
-            {
               "Time": "00:20:58",
               "Points": 10,
               "Place": 1,
               "Name": "Carl Nethercutt | Velohana"
+            },
+            {
+              "Time": "00:21:28",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Everett Jellinek |BME|"
             },
             {
               "Time": "00:25:52",
@@ -1666,12 +1726,6 @@
               "Name": "Nikki Moreno"
             },
             {
-              "Time": "00:33:13",
-              "Points": 1,
-              "Place": 5,
-              "Name": "Marcie H |UNIFIED"
-            },
-            {
               "Time": "00:30:20",
               "Points": 2,
               "Place": 3,
@@ -1682,6 +1736,12 @@
               "Points": 1,
               "Place": 4,
               "Name": "Kimberly FUNASAKI"
+            },
+            {
+              "Time": "00:33:13",
+              "Points": 1,
+              "Place": 5,
+              "Name": "Marcie H |UNIFIED"
             }
           ],
           "Name": "Women, Master (35-49)"
@@ -1746,16 +1806,22 @@
         {
           "Results": [
             {
-              "Time": "0:56:45",
-              "Points": 5,
-              "Place": 2,
-              "Name": "Jan \"Brazda\""
-            },
-            {
               "Time": "0:53:12",
               "Points": 10,
               "Place": 1,
               "Name": "Kenji Takanishi"
+            },
+            {
+              "Time": "0:56:43",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Coach Will | Velohana"
+            },
+            {
+              "Time": "0:56:45",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Jan \"Brazda\""
             },
             {
               "Time": "0:57:44",
@@ -1764,22 +1830,22 @@
               "Name": ".Gallardo | Wolfpack.Hi 🐺"
             },
             {
-              "Time": "0:59:14",
-              "Points": 1,
-              "Place": 5,
-              "Name": "Garry Kirkland II"
-            },
-            {
               "Time": "1:01:26",
               "Points": 2,
               "Place": 3,
               "Name": "Andrew Stiegmann | Velohana"
             },
             {
-              "Time": "1:08:20",
+              "Time": "0:57:59",
               "Points": 1,
-              "Place": 6,
-              "Name": "Paul Wheeler"
+              "Place": 4,
+              "Name": "Timothy Howell"
+            },
+            {
+              "Time": "0:59:14",
+              "Points": 1,
+              "Place": 5,
+              "Name": "Garry Kirkland II"
             },
             {
               "Time": "1:07:59",
@@ -1788,22 +1854,16 @@
               "Name": "Tayro Acosta"
             },
             {
-              "Time": "0:56:43",
-              "Points": 5,
-              "Place": 2,
-              "Name": "doughboy | Velohana"
-            },
-            {
               "Time": "1:05:42",
               "Points": 1,
               "Place": 6,
               "Name": "Scott Hansen"
             },
             {
-              "Time": "0:57:59",
+              "Time": "1:08:20",
               "Points": 1,
-              "Place": 4,
-              "Name": "Timothy Howell"
+              "Place": 6,
+              "Name": "Paul Wheeler"
             }
           ],
           "Name": "Men, Master (35-49)"
@@ -1814,7 +1874,7 @@
               "Time": "0:56:25",
               "Points": 10,
               "Place": 1,
-              "Name": "Everett Jellinek"
+              "Name": "Everett Jellinek |BME|"
             },
             {
               "Time": "0:59:01",
@@ -1845,16 +1905,16 @@
         {
           "Results": [
             {
-              "Time": "1:17:33",
-              "Points": 10,
-              "Place": 1,
-              "Name": "Monique van der Aa"
-            },
-            {
               "Time": "1:17:17",
               "Points": 10,
               "Place": 1,
               "Name": "Jo Cinter"
+            },
+            {
+              "Time": "1:17:33",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Monique van der Aa"
             }
           ],
           "Name": "Women, Golden Master (50-59)"
@@ -1879,34 +1939,22 @@
         {
           "Results": [
             {
-              "Time": "4 laps (02:34:13)",
-              "Points": 5,
-              "Place": 2,
-              "Name": "Björn Marsen | Velohana"
-            },
-            {
               "Time": "4 laps (02:34:01)",
               "Points": 10,
               "Place": 1,
               "Name": "Doug Baker"
             },
             {
-              "Time": "3 laps (02:21:42)",
-              "Points": 1,
-              "Place": 6,
-              "Name": "Greg Wolf"
+              "Time": "4 laps (02:34:13)",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Björn Marsen | Velohana"
             },
             {
               "Time": "3 laps (02:17:34)",
               "Points": 2,
               "Place": 3,
               "Name": "Chris Houghtling | Velohana"
-            },
-            {
-              "Time": "3 laps (02:55:00)",
-              "Points": 1,
-              "Place": 7,
-              "Name": "RJ Latour | Wolfpack 🐺"
             },
             {
               "Time": "3 laps (02:18:35)",
@@ -1919,6 +1967,18 @@
               "Points": 1,
               "Place": 5,
               "Name": "Ben Holland"
+            },
+            {
+              "Time": "3 laps (02:21:42)",
+              "Points": 1,
+              "Place": 6,
+              "Name": "Greg Wolf"
+            },
+            {
+              "Time": "3 laps (02:55:00)",
+              "Points": 1,
+              "Place": 7,
+              "Name": "RJ Latour | Wolfpack 🐺"
             }
           ],
           "Name": "Men, Golden Master (50-59)"
@@ -1965,64 +2025,10 @@
               "Name": "Jan \"Brazda\""
             },
             {
-              "Time": "4 laps (02:54:49)",
-              "Points": 1,
-              "Place": 5,
-              "Name": ".Gallardo | Wolfpack.Hi 🐺"
-            },
-            {
-              "Time": "3 laps (02:42:00)",
-              "Points": 1,
-              "Place": 14,
-              "Name": "Garry Kirkland II"
-            },
-            {
-              "Time": "4 laps (02:47:33)",
-              "Points": 1,
-              "Place": 4,
-              "Name": "Andrew Stiegmann | Velohana"
-            },
-            {
-              "Time": "3 laps (02:16:09)",
-              "Points": 1,
-              "Place": 9,
-              "Name": "Kevin White | Velohana"
-            },
-            {
-              "Time": "3 laps (02:27:19)",
-              "Points": 1,
-              "Place": 11,
-              "Name": "Paul Wheeler"
-            },
-            {
-              "Time": "3 laps (02:13:53)",
-              "Points": 1,
-              "Place": 8,
-              "Name": "Tayro Acosta"
-            },
-            {
               "Time": "4 laps (02:36:08)",
               "Points": 5,
               "Place": 2,
               "Name": "Collen Kelton"
-            },
-            {
-              "Time": "3 laps (01:57:40)",
-              "Points": 1,
-              "Place": 6,
-              "Name": "Jason D"
-            },
-            {
-              "Time": "3 laps (02:21:49)",
-              "Points": 1,
-              "Place": 10,
-              "Name": "Micah Watts | UNIFIED"
-            },
-            {
-              "Time": "3 laps (02:29:35)",
-              "Points": 1,
-              "Place": 12,
-              "Name": "Michael DeCaprio"
             },
             {
               "Time": "4 laps (02:41:18)",
@@ -2031,16 +2037,70 @@
               "Name": "Al Taylor (USMES)"
             },
             {
+              "Time": "4 laps (02:47:33)",
+              "Points": 1,
+              "Place": 4,
+              "Name": "Andrew Stiegmann | Velohana"
+            },
+            {
+              "Time": "4 laps (02:54:49)",
+              "Points": 1,
+              "Place": 5,
+              "Name": ".Gallardo | Wolfpack.Hi 🐺"
+            },
+            {
+              "Time": "3 laps (01:57:40)",
+              "Points": 1,
+              "Place": 6,
+              "Name": "Jason D"
+            },
+            {
               "Time": "3 laps (02:08:45)",
               "Points": 1,
               "Place": 7,
               "Name": "Daniel Otchere *USMES*"
             },
             {
+              "Time": "3 laps (02:13:53)",
+              "Points": 1,
+              "Place": 8,
+              "Name": "Tayro Acosta"
+            },
+            {
+              "Time": "3 laps (02:16:09)",
+              "Points": 1,
+              "Place": 9,
+              "Name": "Kevin White | Velohana"
+            },
+            {
+              "Time": "3 laps (02:21:49)",
+              "Points": 1,
+              "Place": 10,
+              "Name": "Micah Watts | UNIFIED"
+            },
+            {
+              "Time": "3 laps (02:27:19)",
+              "Points": 1,
+              "Place": 11,
+              "Name": "Paul Wheeler"
+            },
+            {
+              "Time": "3 laps (02:29:35)",
+              "Points": 1,
+              "Place": 12,
+              "Name": "Michael DeCaprio"
+            },
+            {
               "Time": "3 laps (02:37:54)",
               "Points": 1,
               "Place": 13,
               "Name": "D. Ureña"
+            },
+            {
+              "Time": "3 laps (02:42:00)",
+              "Points": 1,
+              "Place": 14,
+              "Name": "Garry Kirkland II"
             },
             {
               "Time": "1 laps (00:38:30)",
@@ -2054,16 +2114,16 @@
         {
           "Results": [
             {
-              "Time": "4 laps (02:39:27)",
-              "Points": 5,
-              "Place": 2,
-              "Name": "Everett Jellinek"
-            },
-            {
               "Time": "4 laps (02:33:09)",
               "Points": 10,
               "Place": 1,
               "Name": "Carl Nethercutt | Velohana"
+            },
+            {
+              "Time": "4 laps (02:39:27)",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Everett Jellinek |BME|"
             },
             {
               "Time": "3 laps (02:16:22)",
@@ -2084,6 +2144,244 @@
             }
           ],
           "Name": "Men, U23 (19-22)"
+        }
+      ]
+    },
+    {
+      "Name": "DEMRR",
+      "Date": "2021-08-29T00:00:00",
+      "Categories": [
+        {
+          "Results": [
+            {
+              "Time": "3:37:18",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Doug Baker"
+            },
+            {
+              "Time": "3:41:20",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Chris Houghtling | Velohana"
+            },
+            {
+              "Time": "4:25:58",
+              "Points": 2,
+              "Place": 3,
+              "Name": "Greg Wolf"
+            }
+          ],
+          "Name": "Men, Golden Master (50-59)"
+        },
+        {
+          "Results": [
+            {
+              "Time": "3:36:34",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Ray Brust"
+            },
+            {
+              "Time": "4:22:44",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Atomman Kimm"
+            },
+            {
+              "Time": "4:38:57",
+              "Points": 2,
+              "Place": 3,
+              "Name": "Lawrence Friedman | WolfPack HI 🐺"
+            }
+          ],
+          "Name": "Men, Golden Master (60-69)"
+        },
+        {
+          "Results": [
+            {
+              "Time": "4:36:46",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Wojciech Szymanski"
+            }
+          ],
+          "Name": "Men, Golden Master 70+"
+        },
+        {
+          "Results": [
+            {
+              "Time": "3:23:48",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Ben Williams // Hawaii Triathlon Center"
+            },
+            {
+              "Time": "3:23:56",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Jan \"Brazda\""
+            },
+            {
+              "Time": "3:24:30",
+              "Points": 2,
+              "Place": 3,
+              "Name": "Chad Burdzilauskas"
+            },
+            {
+              "Time": "3:29:18",
+              "Points": 1,
+              "Place": 4,
+              "Name": "Andrew Stiegmann | Velohana"
+            },
+            {
+              "Time": "3:31:17",
+              "Points": 1,
+              "Place": 5,
+              "Name": "Kevin White | Velohana"
+            },
+            {
+              "Time": "3:36:17",
+              "Points": 1,
+              "Place": 6,
+              "Name": "Coach Will | Velohana"
+            },
+            {
+              "Time": "3:47:33",
+              "Points": 1,
+              "Place": 7,
+              "Name": ".Gallardo | Wolfpack.Hi 🐺"
+            },
+            {
+              "Time": "3:51:23",
+              "Points": 1,
+              "Place": 8,
+              "Name": "Al Taylor (USMES)"
+            },
+            {
+              "Time": "3:52:24",
+              "Points": 1,
+              "Place": 9,
+              "Name": "Jon L ⛰OuttaBoundsHawaii⛰"
+            },
+            {
+              "Time": "3:55:26",
+              "Points": 1,
+              "Place": 10,
+              "Name": "Paul Wheeler"
+            },
+            {
+              "Time": "3:56:40",
+              "Points": 1,
+              "Place": 11,
+              "Name": "Alex K Shin | 🐺"
+            },
+            {
+              "Time": "4:12:39",
+              "Points": 1,
+              "Place": 12,
+              "Name": "Tyler McNamee"
+            },
+            {
+              "Time": "4:36:54",
+              "Points": 1,
+              "Place": 13,
+              "Name": "Jerry Freeman"
+            },
+            {
+              "Time": "4:43:45",
+              "Points": 1,
+              "Place": 14,
+              "Name": "D. Ureña"
+            },
+            {
+              "Time": "4:45:11",
+              "Points": 1,
+              "Place": 15,
+              "Name": "John Daly"
+            },
+            {
+              "Time": "4:48:20",
+              "Points": 1,
+              "Place": 16,
+              "Name": "Garry Kirkland II"
+            }
+          ],
+          "Name": "Men, Master (35-49)"
+        },
+        {
+          "Results": [
+            {
+              "Time": "3:23:11",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Connor Wernecke"
+            },
+            {
+              "Time": "3:23:13",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Joseph Kim"
+            },
+            {
+              "Time": "3:25:45",
+              "Points": 2,
+              "Place": 3,
+              "Name": "Carl Nethercutt | Velohana"
+            },
+            {
+              "Time": "3:40:48",
+              "Points": 1,
+              "Place": 4,
+              "Name": "Victor Manuel Arenas"
+            },
+            {
+              "Time": "3:41:21",
+              "Points": 1,
+              "Place": 5,
+              "Name": "Everett Jellinek |BME|"
+            }
+          ],
+          "Name": "Men, Senior (23-34)"
+        },
+        {
+          "Results": [
+            {
+              "Time": "5:10:10",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Denee Madamba"
+            }
+          ],
+          "Name": "Women, Golden Master (60-69)"
+        },
+        {
+          "Results": [
+            {
+              "Time": "4:16:09",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Whitney Burdzilauskas/The Fitness Lab"
+            },
+            {
+              "Time": "5:08:59",
+              "Points": 5,
+              "Place": 2,
+              "Name": "Yun Yi"
+            }
+          ],
+          "Name": "Women, Master (35-49)"
+        },
+        {
+          "Results": [
+            {
+              "Time": "4:13:58",
+              "Points": 10,
+              "Place": 1,
+              "Name": "Emily Reynolds"
+            }
+          ],
+          "Name": "Women, Senior (23-34)"
         }
       ]
     }

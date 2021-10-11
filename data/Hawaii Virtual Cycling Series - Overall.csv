@@ -1,85 +1,97 @@
-Athlete,Category,Overall - Points,Overall - Place,Castle to Hanauma - Points,Castle to Hanauma - Place,Castle to Hanauma - Time,Mokuleia - Points,Mokuleia - Place,Mokuleia - Time,Pineapple Sprint - Points,Pineapple Sprint - Place,Pineapple Sprint - Time,Tantalus - Points,Tantalus - Place,Tantalus - Time,Malaekahana - Points,Malaekahana - Place,Malaekahana - Time,Pineapple Hill RR - Points,Pineapple Hill RR - Place,Pineapple Hill RR - Time
-Björn Marsen | Velohana,"Men, Golden Master (50-59)",55,1,10,1,00:35:37,10,1,00:31:04,10,1,00:30:49,10,1,00:20:38,10,1,0:54:20,5,2,4 laps (02:34:13)
-Doug Baker,"Men, Golden Master (50-59)",10,2,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,10,1,4 laps (02:34:01)
-Ed Price,"Men, Golden Master (50-59)",10,3,0,-,-,0,-,-,5,2,00:35:24,5,2,00:24:17,0,-,-,0,-,-
-JB Vowell,"Men, Golden Master (50-59)",7,4,2,3,00:40:12,5,2,00:32:33,0,-,-,0,-,-,0,-,-,0,-,-
-Greg Wolf,"Men, Golden Master (50-59)",6,5,1,4,00:41:49,2,3,00:34:01,1,4,00:37:12,1,4,00:29:22,0,-,-,1,6,3 laps (02:21:42)
-Tim Connelly,"Men, Golden Master (50-59)",5,6,5,2,00:38:04,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
-Chris Houghtling | Velohana,"Men, Golden Master (50-59)",4,7,0,-,-,0,-,-,0,-,-,1,6,00:40:41,1,7,1:10:14,2,3,3 laps (02:17:34)
-Bryan Guenther,"Men, Golden Master (50-59)",3,8,1,6,00:42:22,0,-,-,0,-,-,2,3,00:27:19,0,-,-,0,-,-
-RJ Latour | Wolfpack 🐺,"Men, Golden Master (50-59)",3,9,1,5,00:41:58,0,-,-,0,-,-,1,5,00:30:43,0,-,-,1,7,3 laps (02:55:00)
-Ron Barber 🐺,"Men, Golden Master (50-59)",3,10,0,-,-,0,-,-,2,3,00:36:27,0,-,-,0,-,-,1,4,3 laps (02:18:35)
-Ruperto Dela Pena,"Men, Golden Master (50-59)",2,11,1,8,1:21:15,1,4,00:48:00,0,-,-,0,-,-,0,-,-,0,-,-
-Amador Sadang,"Men, Golden Master (50-59)",1,12,0,-,-,0,-,-,1,5,00:38:28,0,-,-,0,-,-,0,-,-
-Ben Holland,"Men, Golden Master (50-59)",1,13,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,1,5,3 laps (02:21:41)
-Taro Nobusawa,"Men, Golden Master (50-59)",1,14,1,7,00:51:48,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
-Ray Brust,"Men, Golden Master (60-69)",60,1,10,1,00:36:57,10,1,00:30:35,10,1,00:30:31,10,1,00:21:23,10,1,0:54:28,10,1,4 laps (02:33:00)
-Scott Daubert,"Men, Golden Master (60-69)",11,2,5,2,00:45:08,5,2,00:38:50,1,4,00:39:54,0,-,-,0,-,-,0,-,-
-Atomman Kimm,"Men, Golden Master (60-69)",10,3,0,-,-,2,3,00:43:23,1,5,00:40:20,2,3,00:32:16,5,2,1:27:03,0,-,-
-Charles Calvet,"Men, Golden Master (60-69)",10,4,0,-,-,0,-,-,5,2,00:36:33,5,2,00:29:20,0,-,-,0,-,-
-Lawrence Friedman | 🐺,"Men, Golden Master (60-69)",5,5,2,3,00:47:19,0,-,-,2,3,00:38:20,1,4,00:33:32,0,-,-,0,-,-
-Bob Bengtson,"Men, Golden Master (60-69)",2,6,0,-,-,0,-,-,0,-,-,1,5,00:35:28,1,8,1:15:19,0,-,-
-Steven Campbell,"Men, Golden Master (60-69)",2,7,1,3,1:21:15,1,4,1:43:30,0,-,-,0,-,-,0,-,-,0,-,-
-Wojciech Szymanski,"Men, Golden Master 70+",40,1,0,-,-,10,1,00:36:21,10,1,00:36:04,10,1,00:28:40,0,-,-,10,1,3 laps (02:23:16)
-Thomas Gill,"Men, Golden Master 70+",1,2,0,-,-,0,-,-,0,-,-,0,-,-,1,4,1:03:38,0,-,-
-Canaan Cortes,"Men, Junior (16-18)",30,1,10,1,00:39:20,0,-,-,0,-,-,10,1,00:23:47,0,-,-,10,1,4 laps (02:55:14)
-Okami M,"Men, Junior (16-18)",25,2,5,2,00:45:48,10,1,00:38:01,10,1,00:39:06,0,-,-,0,-,-,0,-,-
-Chad Burdzilauskas,"Men, Master (35-49)",32,1,2,3,00:35:48,10,1,00:30:06,10,1,00:28:09,10,1,00:20:48,0,-,-,0,-,-
-"Jan ""Brazda""","Men, Master (35-49)",32,1,5,2,00:35:46,5,2,00:31:01,2,3,00:31:32,5,2,00:22:11,5,2,0:56:45,10,1,4 laps (02:35:43)
-Kenji Takanishi,"Men, Master (35-49)",22,2,10,1,00:33:49,0,-,-,1,4,00:31:32,1,8,00:26:25,10,1,0:53:12,0,-,-
-.Gallardo | Wolfpack.Hi 🐺,"Men, Master (35-49)",10,3,1,5,00:37:17,1,5,00:33:15,5,2,00:31:12,0,-,-,2,3,0:57:44,1,5,4 laps (02:54:49)
-Garry Kirkland II,"Men, Master (35-49)",7,4,1,11,00:41:45,2,3,00:32:04,1,16,00:39:32,1,14,00:34:15,1,5,0:59:14,1,14,3 laps (02:42:00)
-Andrew Stiegmann | Velohana,"Men, Master (35-49)",6,5,1,6,00:37:59,0,-,-,1,5,00:31:34,1,5,00:23:28,2,3,1:01:26,1,4,4 laps (02:47:33)
-Kevin White | Velohana,"Men, Master (35-49)",6,6,1,14,00:43:12,1,13,00:36:54,1,6,00:31:37,2,3,00:22:49,0,-,-,1,9,3 laps (02:16:09)
-Paul Wheeler,"Men, Master (35-49)",6,7,1,16,00:43:22,1,14,00:38:12,1,14,00:38:44,1,12,00:33:19,1,6,1:08:20,1,11,3 laps (02:27:19)
-Tayro Acosta,"Men, Master (35-49)",6,8,1,8,00:39:27,1,7,00:34:41,1,11,00:34:38,1,4,00:23:08,1,5,1:07:59,1,8,3 laps (02:13:53)
-Collen Kelton,"Men, Master (35-49)",5,9,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,5,2,4 laps (02:36:08)
-doughboy | Velohana,"Men, Master (35-49)",5,10,0,-,-,0,-,-,0,-,-,0,-,-,5,2,0:56:43,0,-,-
-Jason D,"Men, Master (35-49)",5,11,1,7,00:38:35,1,8,00:34:41,1,8,00:32:37,1,7,00:25:08,0,-,-,1,6,3 laps (01:57:40)
-Scott Hansen,"Men, Master (35-49)",5,12,1,18,00:44:52,1,12,00:35:59,1,17,00:43:14,1,13,00:33:36,1,6,1:05:42,0,-,-
-Micah Watts | UNIFIED,"Men, Master (35-49)",4,13,1,12,00:43:01,1,11,00:35:46,1,13,00:38:06,0,-,-,0,-,-,1,10,3 laps (02:21:49)
-Michael DeCaprio,"Men, Master (35-49)",4,14,1,13,00:43:04,1,10,00:35:45,1,15,00:39:27,0,-,-,0,-,-,1,12,3 laps (02:29:35)
-Al Taylor (USMES),"Men, Master (35-49)",3,15,0,-,-,1,4,00:32:46,0,-,-,0,-,-,0,-,-,2,3,4 laps (02:41:18)
-Daniel Otchere *USMES*,"Men, Master (35-49)",3,16,0,-,-,1,9,00:35:26,1,7,00:32:18,0,-,-,0,-,-,1,7,3 laps (02:08:45)
-Timothy Howell,"Men, Master (35-49)",3,17,1,4,00:37:02,0,-,-,0,-,-,1,6,00:24:22,1,4,0:57:59,0,-,-
-D. Ureña,"Men, Master (35-49)",2,18,0,-,-,0,-,-,0,-,-,1,11,00:32:29,0,-,-,1,13,3 laps (02:37:54)
-Shawndy Spencer| UNIFIED,"Men, Master (35-49)",2,19,1,9,00:40:02,1,6,00:33:51,0,-,-,0,-,-,0,-,-,0,-,-
-🏃‍♂️🏊‍♂️🚴‍♀️ Lilmauwow | Velohana 🚴‍♀️🏊‍♂️🏃‍♂️,"Men, Master (35-49)",1,20,0,-,-,0,-,-,1,12,00:34:57,0,-,-,0,-,-,0,-,-
-eddie maldo 3,"Men, Master (35-49)",1,21,0,-,-,1,15,00:38:36,0,-,-,0,-,-,0,-,-,0,-,-
-Euan Beer,"Men, Master (35-49)",1,22,1,17,00:43:48,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
-gabriel nieves,"Men, Master (35-49)",1,23,1,19,00:54:07,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
-James Andrew Sasiadek,"Men, Master (35-49)",1,24,1,10,00:40:33,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
-James Arnal,"Men, Master (35-49)",1,25,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,1,15,1 laps (00:38:30)
-Jesse Lee,"Men, Master (35-49)",1,26,0,-,-,0,-,-,0,-,-,1,9,00:27:01,0,-,-,0,-,-
-John Hudson,"Men, Master (35-49)",1,27,0,-,-,0,-,-,0,-,-,1,10,00:30:22,0,-,-,0,-,-
-Matt Novack,"Men, Master (35-49)",1,28,1,21,1:07:21,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
-michael prendergast,"Men, Master (35-49)",1,29,0,-,-,0,-,-,1,10,00:34:26,0,-,-,0,-,-,0,-,-
-Nick Brown,"Men, Master (35-49)",1,30,0,-,-,0,-,-,1,9,00:32:58,0,-,-,0,-,-,0,-,-
-Victor Heung,"Men, Master (35-49)",1,31,1,20,00:57:55,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
-Everett Jellinek,"Men, Senior (23-34)",40,1,10,1,00:36:26,5,2,00:32:29,5,2,00:30:09,5,2,00:21:28,10,1,0:56:25,5,2,4 laps (02:39:27)
-Carl Nethercutt | Velohana,"Men, Senior (23-34)",39,2,5,2,00:37:15,2,3,00:35:16,2,3,00:30:49,10,1,00:20:58,10,1,0:59:01,10,1,4 laps (02:33:09)
-Drew Borrebach,"Men, Senior (23-34)",14,3,2,3,00:38:42,10,1,00:31:59,0,-,-,0,-,-,0,-,-,2,3,3 laps (02:16:22)
-Christopher Salas,"Men, Senior (23-34)",10,4,1,5,00:40:48,1,4,00:36:16,1,4,00:38:11,2,3,00:25:52,5,2,1:02:48,0,-,-
-Joseph Kim,"Men, Senior (23-34)",10,5,0,-,-,0,-,-,10,1,00:28:05,0,-,-,0,-,-,0,-,-
-Peykai Respicio | UNIFIED,"Men, Senior (23-34)",2,6,1,6,00:47:13,1,5,00:38:43,0,-,-,0,-,-,0,-,-,0,-,-
-Bill Sumrow,"Men, Senior (23-34)",1,7,0,-,-,0,-,-,1,5,00:43:33,0,-,-,0,-,-,0,-,-
-Fabrece Roup,"Men, Senior (23-34)",1,8,0,-,-,0,-,-,0,-,-,1,4,00:27:09,0,-,-,0,-,-
-Jimmy O'Rourke,"Men, Senior (23-34)",1,9,1,4,00:39:40,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
-Ted Hebert,"Men, Senior (23-34)",1,10,0,-,-,0,-,-,0,-,-,1,5,00:53:02,0,-,-,0,-,-
-Angel Rodriguez 🐺 | Velohana,"Men, U23 (19-22)",60,1,10,1,00:35:47,10,1,00:31:23,10,1,00:28:04,10,1,00:20:24,10,1,0:57:08,10,1,4 laps (02:32:33)
-Monique van der Aa,"Women, Golden Master (50-59)",35,1,0,-,-,10,1,00:43:43,5,2,00:44:30,10,1,00:30:31,10,1,1:17:33,0,-,-
-Jo Cinter,"Women, Golden Master (50-59)",25,2,0,-,-,0,-,-,10,1,00:40:43,5,2,00:30:43,10,1,1:17:17,0,-,-
-Sharon Keith,"Women, Golden Master (60-69)",10,1,0,-,-,10,1,00:42:01,0,-,-,0,-,-,0,-,-,0,-,-
-Mieko Takaku,"Women, Master (35-49)",30,1,0,-,-,0,-,-,10,1,00:34:15,10,1,00:24:55,10,1,1:00:28,0,-,-
-Tiana Spencer | UNIFIED,"Women, Master (35-49)",11,2,1,4,00:48:45,10,1,00:41:32,0,-,-,0,-,-,0,-,-,0,-,-
-Nikki Moreno,"Women, Master (35-49)",10,3,0,-,-,0,-,-,5,2,00:36:00,5,2,00:28:54,0,-,-,0,-,-
-Nina D,"Women, Master (35-49)",10,4,10,1,00:44:57,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
-Marcie H |UNIFIED,"Women, Master (35-49)",9,5,2,3,00:47:25,5,2,00:42:19,1,5,00:42:21,1,5,00:33:13,0,-,-,0,-,-
-McKenna Nieves,"Women, Master (35-49)",5,6,5,2,00:46:51,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
-Chris Tin Gah,"Women, Master (35-49)",2,7,0,-,-,0,-,-,0,-,-,2,3,00:30:20,0,-,-,0,-,-
-Kimberly FUNASAKI,"Women, Master (35-49)",2,8,0,-,-,0,-,-,1,4,00:39:56,1,4,00:30:30,0,-,-,0,-,-
-Michelle Simmons,"Women, Master (35-49)",2,9,0,-,-,0,-,-,2,3,00:36:29,0,-,-,0,-,-,0,-,-
-Jessica Grayson,"Women, Master (35-49)",1,10,0,-,-,0,-,-,1,7,00:48:03,0,-,-,0,-,-,0,-,-
-Kelly White,"Women, Master (35-49)",1,11,0,-,-,0,-,-,1,6,00:47:59,0,-,-,0,-,-,0,-,-
-Becky Borrebach,"Women, Senior (23-34)",20,1,10,1,0:49:56,10,1,00:38:32,0,-,-,0,-,-,0,-,-,0,-,-
-Jonnah lashay Respicio | UNIFIED,"Women, Senior (23-34)",5,2,0,-,-,5,2,00:51:56,0,-,-,0,-,-,0,-,-,0,-,-
+Athlete,First Name,Last Name,Email,Gender,Category,Overall - Points,Overall - Place,Castle to Hanauma - Points,Castle to Hanauma - Place,Castle to Hanauma - Time,Mokuleia - Points,Mokuleia - Place,Mokuleia - Time,Pineapple Sprint - Points,Pineapple Sprint - Place,Pineapple Sprint - Time,Tantalus - Points,Tantalus - Place,Tantalus - Time,Malaekahana - Points,Malaekahana - Place,Malaekahana - Time,Pineapple Hill RR - Points,Pineapple Hill RR - Place,Pineapple Hill RR - Time,DEMRR - Points,DEMRR - Place,DEMRR - Time
+Björn Marsen | Velohana,Björn,Marsen,bmarsen@yahoo.com,Men,"Men, Golden Master (50-59)",55,1,10,1,00:35:37,10,1,00:31:04,10,1,00:30:49,10,1,00:20:38,10,1,0:54:20,5,2,4 laps (02:34:13),0,-,-
+Doug Baker,Doug,Baker,dougmbaker@gmail.com,Men,"Men, Golden Master (50-59)",20,2,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,10,1,4 laps (02:34:01),10,1,3:37:18
+Ed Price,Ed,Price,edprice1@gmail.com,Men,"Men, Golden Master (50-59)",10,3,0,-,-,0,-,-,5,2,00:35:24,5,2,00:24:17,0,-,-,0,-,-,0,-,-
+Chris Houghtling | Velohana,Chris,Houghtling,etsxrider@yahoo.com,Men,"Men, Golden Master (50-59)",9,4,0,-,-,0,-,-,0,-,-,1,6,00:40:41,1,7,1:10:14,2,3,3 laps (02:17:34),5,2,3:41:20
+Greg Wolf,Greg,Wolf,hiwolf1964@gmail.com,Men,"Men, Golden Master (50-59)",8,5,1,4,00:41:49,2,3,00:34:01,1,4,00:37:12,1,4,00:29:22,0,-,-,1,6,3 laps (02:21:42),2,3,4:25:58
+JB Vowell,JB,Vowell,jbvrak@gmail.com,Men,"Men, Golden Master (50-59)",7,6,2,3,00:40:12,5,2,00:32:33,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Tim Connelly,Tim,Connelly,theirongeneral@protonmail.com,Men,"Men, Golden Master (50-59)",5,7,5,2,00:38:04,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Bryan Guenther,Bryan,Guenther,bryan.guenther@me.com,Men,"Men, Golden Master (50-59)",3,8,1,6,00:42:22,0,-,-,0,-,-,2,3,00:27:19,0,-,-,0,-,-,0,-,-
+RJ Latour | Wolfpack 🐺,RJ,Latour,rjlatour@gmail.com,Men,"Men, Golden Master (50-59)",3,8,1,5,00:41:58,0,-,-,0,-,-,1,5,00:30:43,0,-,-,1,7,3 laps (02:55:00),0,-,-
+Ron Barber 🐺,Ron,Barber,ronbarber71@gmail.com,Men,"Men, Golden Master (50-59)",3,8,0,-,-,0,-,-,2,3,00:36:27,0,-,-,0,-,-,1,4,3 laps (02:18:35),0,-,-
+Ruperto Dela Pena,Ruperto,Dela Pena,ruperto.delapena@yahoo.com,Men,"Men, Golden Master (50-59)",2,11,1,8,1:21:15,1,4,00:48:00,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Amador Sadang,Amador,Sadang,jhonsadang@hotmail.com,Men,"Men, Golden Master (50-59)",1,12,0,-,-,0,-,-,1,5,00:38:28,0,-,-,0,-,-,0,-,-,0,-,-
+Ben Holland,Ben,Holland,ben.holland@sbcglobal.net,Men,"Men, Golden Master (50-59)",1,12,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,1,5,3 laps (02:21:41),0,-,-
+Taro Nobusawa,Taro,Nobusawa,taroroot@hawaiiantel.net,Men,"Men, Golden Master (50-59)",1,12,1,7,00:51:48,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Ray Brust,Ray,Brust,raybrust@yahoo.com,Men,"Men, Golden Master (60-69)",70,1,10,1,00:36:57,10,1,00:30:35,10,1,00:30:31,10,1,00:21:23,10,1,0:54:28,10,1,4 laps (02:33:00),10,1,3:36:34
+Atomman Kimm,Atomman,Kimm,atommank@aol.com,Men,"Men, Golden Master (60-69)",15,2,0,-,-,2,3,00:43:23,1,5,00:40:20,2,3,00:32:16,5,2,1:27:03,0,-,-,5,2,4:22:44
+Scott Daubert,Scott,Daubert,sdaubert410@gmail.com,Men,"Men, Golden Master (60-69)",11,3,5,2,00:45:08,5,2,00:38:50,1,4,00:39:54,0,-,-,0,-,-,0,-,-,0,-,-
+Charles Calvet,Charles,Calvet,hawaiigasman@yahoo.com,Men,"Men, Golden Master (60-69)",10,4,0,-,-,0,-,-,5,2,00:36:33,5,2,00:29:20,0,-,-,0,-,-,0,-,-
+Lawrence Friedman | WolfPack HI 🐺,Lawrence,Friedman,atufriedman@gmail.com,Men,"Men, Golden Master (60-69)",7,5,2,3,00:47:19,0,-,-,2,3,00:38:20,1,4,00:33:32,0,-,-,0,-,-,2,3,4:38:57
+Bob Bengtson,Bob,Bengtson,bengtsonb001@gmail.com,Men,"Men, Golden Master (60-69)",2,6,0,-,-,0,-,-,0,-,-,1,5,00:35:28,1,8,1:15:19,0,-,-,0,-,-
+Steven Campbell,Steven,Campbell,campbells010@hawaii.rr.com,Men,"Men, Golden Master (60-69)",2,6,1,3,1:21:15,1,4,1:43:30,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Wojciech Szymanski,Wojciech,Szymanski,voytek@bmehawaii.com,Men,"Men, Golden Master 70+",50,1,0,-,-,10,1,00:36:21,10,1,00:36:04,10,1,00:28:40,0,-,-,10,1,3 laps (02:23:16),10,1,4:36:46
+Thomas Gill,Thomas,Gill,tgill@gzsattorneys.com,Men,"Men, Golden Master 70+",1,2,0,-,-,0,-,-,0,-,-,0,-,-,1,4,1:03:38,0,-,-,0,-,-
+Canaan Cortes,Canaan,Cortes,soarineagle8@gmail.com,Men,"Men, Junior (16-18)",30,1,10,1,00:39:20,0,-,-,0,-,-,10,1,00:23:47,0,-,-,10,1,4 laps (02:55:14),0,-,-
+Okami M,Okami,M,wm05dad@gmail.com,Men,"Men, Junior (16-18)",25,2,5,2,00:45:48,10,1,00:38:01,10,1,00:39:06,0,-,-,0,-,-,0,-,-,0,-,-
+"Jan ""Brazda""",Jan,"""Brazda""",jan.kunst@hotmail.com,Men,"Men, Master (35-49)",37,1,5,2,00:35:46,5,2,00:31:01,2,3,00:31:32,5,2,00:22:11,5,2,0:56:45,10,1,4 laps (02:35:43),5,2,3:23:56
+Chad Burdzilauskas,Chad,Burdzilauskas,cburdzil@gmail.com,Men,"Men, Master (35-49)",34,2,2,3,00:35:48,10,1,00:30:06,10,1,00:28:09,10,1,00:20:48,0,-,-,0,-,-,2,3,3:24:30
+Kenji Takanishi,Kenji,Takanishi,ktaka24@gmail.com,Men,"Men, Master (35-49)",22,3,10,1,00:33:49,0,-,-,1,4,00:31:32,1,8,00:26:25,10,1,0:53:12,0,-,-,0,-,-
+.Gallardo | Wolfpack.Hi 🐺,Josh,Gallardo,g4ll4rdo24@gmail.com,Men,"Men, Master (35-49)",11,4,1,5,00:37:17,1,5,00:33:15,5,2,00:31:12,0,-,-,2,3,0:57:44,1,5,4 laps (02:54:49),1,7,3:47:33
+Ben Williams // Hawaii Triathlon Center,benjamin,williams,ben@hitricenter.com,Men,"Men, Master (35-49)",10,5,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,10,1,3:23:48
+Garry Kirkland II,Garry,Kirkland II,gkirk78@gmail.com,Men,"Men, Master (35-49)",8,6,1,11,00:41:45,2,3,00:32:04,1,16,00:39:32,1,14,00:34:15,1,5,0:59:14,1,14,3 laps (02:42:00),1,16,4:48:20
+Andrew Stiegmann | Velohana,Andrew,Stiegmann,andrew.stiegmann@gmail.com,Men,"Men, Master (35-49)",7,7,1,6,00:37:59,0,-,-,1,5,00:31:34,1,5,00:23:28,2,3,1:01:26,1,4,4 laps (02:47:33),1,4,3:29:18
+Kevin White | Velohana,Kevin,White,whiteklawrence@gmail.con,Men,"Men, Master (35-49)",7,7,1,14,00:43:12,1,13,00:36:54,1,6,00:31:37,2,3,00:22:49,0,-,-,1,9,3 laps (02:16:09),1,5,3:31:17
+Paul Wheeler,Paul,Wheeler,sflanker@hotmail.com,Men,"Men, Master (35-49)",7,7,1,16,00:43:22,1,14,00:38:12,1,14,00:38:44,1,12,00:33:19,1,6,1:08:20,1,11,3 laps (02:27:19),1,10,3:55:26
+Coach Will | Velohana,Will,Mather,will@velohana.com,Men,"Men, Master (35-49)",6,10,0,-,-,0,-,-,0,-,-,0,-,-,5,2,0:56:43,0,-,-,1,6,3:36:17
+Tayro Acosta,Tayro,Acosta,tayro_acosta@yahoo.es,Men,"Men, Master (35-49)",6,10,1,8,00:39:27,1,7,00:34:41,1,11,00:34:38,1,4,00:23:08,1,5,1:07:59,1,8,3 laps (02:13:53),0,-,-
+Collen Kelton,Collen,Kelton,istdercollen@gmail.com,Men,"Men, Master (35-49)",5,12,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,5,2,4 laps (02:36:08),0,-,-
+Jason D,Jason,D,Jdrumm1209@gmail.com,Men,"Men, Master (35-49)",5,12,1,7,00:38:35,1,8,00:34:41,1,8,00:32:37,1,7,00:25:08,0,-,-,1,6,3 laps (01:57:40),0,-,-
+Scott Hansen,Scott,Hansen,shansen_ii@hotmail.com,Men,"Men, Master (35-49)",5,12,1,18,00:44:52,1,12,00:35:59,1,17,00:43:14,1,13,00:33:36,1,6,1:05:42,0,-,-,0,-,-
+Al Taylor (USMES),Al,Taylor,altaylor4@gmail.com,Men,"Men, Master (35-49)",4,15,0,-,-,1,4,00:32:46,0,-,-,0,-,-,0,-,-,2,3,4 laps (02:41:18),1,8,3:51:23
+Micah Watts | UNIFIED,Micah,Watts,upstring808@gmail.com,Men,"Men, Master (35-49)",4,15,1,12,00:43:01,1,11,00:35:46,1,13,00:38:06,0,-,-,0,-,-,1,10,3 laps (02:21:49),0,-,-
+Michael DeCaprio,Michael,DeCaprio,mike.decaprio@gmail.com,Men,"Men, Master (35-49)",4,15,1,13,00:43:04,1,10,00:35:45,1,15,00:39:27,0,-,-,0,-,-,1,12,3 laps (02:29:35),0,-,-
+D. Ureña,D.,Ureña,cancerbero23@hotmail.com,Men,"Men, Master (35-49)",3,18,0,-,-,0,-,-,0,-,-,1,11,00:32:29,0,-,-,1,13,3 laps (02:37:54),1,14,4:43:45
+Daniel Otchere *USMES*,Daniel,Otchere,dnospot@gmail.com,Men,"Men, Master (35-49)",3,18,0,-,-,1,9,00:35:26,1,7,00:32:18,0,-,-,0,-,-,1,7,3 laps (02:08:45),0,-,-
+Timothy Howell,Timothy,Howell,thowell29@gmail.com,Men,"Men, Master (35-49)",3,18,1,4,00:37:02,0,-,-,0,-,-,1,6,00:24:22,1,4,0:57:59,0,-,-,0,-,-
+Shawndy Spencer| UNIFIED,Shawndy,Spencer,shawndyspencer@gmail.com,Men,"Men, Master (35-49)",2,21,1,9,00:40:02,1,6,00:33:51,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Jon L ⛰OuttaBoundsHawaii⛰,Jonathan,Laurion,Jonlaurion@gmail.com,Men,"Men, Master (35-49)",1,22,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,1,9,3:52:24
+Alex K Shin | 🐺,Alex,Shin,wawljedx@gmail.com,Men,"Men, Master (35-49)",1,22,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,1,11,3:56:40
+Tyler McNamee,Tyler,McNamee,tyler.mcnamee18@gmail.com,Men,"Men, Master (35-49)",1,22,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,1,12,4:12:39
+Jerry Freeman,Jerry,Freeman,jerryfree8@gmail.com,Men,"Men, Master (35-49)",1,22,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,1,13,4:36:54
+John Daly,John,Daly,jfdaly@live.com,Men,"Men, Master (35-49)",1,22,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,1,15,4:45:11
+🏃‍♂️🏊‍♂️🚴‍♀️ Lilmauwow | Velohana 🚴‍♀️🏊‍♂️🏃‍♂️,Lilmauwow,,lilmauwow@gmail.com,Men,"Men, Master (35-49)",1,22,0,-,-,0,-,-,1,12,00:34:57,0,-,-,0,-,-,0,-,-,0,-,-
+eddie maldo 3,eddie,maldo 3,Eddiemaldo3@gmail.com,Men,"Men, Master (35-49)",1,22,0,-,-,1,15,00:38:36,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Euan Beer,Euan,Beer,euanbeer@gmail.com,Men,"Men, Master (35-49)",1,22,1,17,00:43:48,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+gabriel nieves,gabriel,nieves,nieves.gabriel@yahoo.com,Men,"Men, Master (35-49)",1,22,1,19,00:54:07,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+James Andrew Sasiadek,James Andrew,Sasiadek,jamessasiadek@yahoo.com,Men,"Men, Master (35-49)",1,22,1,10,00:40:33,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+James Arnal,James,Arnal,jamesarnal@hotmail.com,Men,"Men, Master (35-49)",1,22,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,1,15,1 laps (00:38:30),0,-,-
+Jesse Lee,Jesse,Lee,psycoe@hotmail.com,Men,"Men, Master (35-49)",1,22,0,-,-,0,-,-,0,-,-,1,9,00:27:01,0,-,-,0,-,-,0,-,-
+John Hudson,John,Hudson,jhhonolulucl@outlook.com,Men,"Men, Master (35-49)",1,22,0,-,-,0,-,-,0,-,-,1,10,00:30:22,0,-,-,0,-,-,0,-,-
+Matt Novack,Matt,Novack,gti_83@yahoo.com,Men,"Men, Master (35-49)",1,22,1,21,1:07:21,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+michael prendergast,michael,prendergast,MPRENDERGAST2@mgh.harvard.edu,Men,"Men, Master (35-49)",1,22,0,-,-,0,-,-,1,10,00:34:26,0,-,-,0,-,-,0,-,-,0,-,-
+Nick Brown,Nick,Brown,ncb118@gmail.com,Men,"Men, Master (35-49)",1,22,0,-,-,0,-,-,1,9,00:32:58,0,-,-,0,-,-,0,-,-,0,-,-
+Victor Heung,Victor,Heung,vheung12@gmail.com,Men,"Men, Master (35-49)",1,22,1,20,00:57:55,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Carl Nethercutt | Velohana,Carl,Nethercutt,cnethercuttv@gmail.com,Men,"Men, Senior (23-34)",41,1,5,2,00:37:15,2,3,00:35:16,2,3,00:30:49,10,1,00:20:58,10,1,0:59:01,10,1,4 laps (02:33:09),2,3,3:25:45
+Everett Jellinek |BME|,Everett,Jellinek,jellinek@usc.edu,Men,"Men, Senior (23-34)",41,1,10,1,00:36:26,5,2,00:32:29,5,2,00:30:09,5,2,00:21:28,10,1,0:56:25,5,2,4 laps (02:39:27),1,5,3:41:21
+Joseph Kim,Joseph,Kim,joeizbizzin@gmail.com,Men,"Men, Senior (23-34)",15,3,0,-,-,0,-,-,10,1,00:28:05,0,-,-,0,-,-,0,-,-,5,2,3:23:13
+Drew Borrebach,Drew,Borrebach,drewborrebach@gmail.com,Men,"Men, Senior (23-34)",14,4,2,3,00:38:42,10,1,00:31:59,0,-,-,0,-,-,0,-,-,2,3,3 laps (02:16:22),0,-,-
+Connor Wernecke,Connor,Wernecke,connor.wernecke.cw@gmail.com,Men,"Men, Senior (23-34)",10,5,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,10,1,3:23:11
+Christopher Salas,Christopher,Salas,csalas_8@yahoo.com,Men,"Men, Senior (23-34)",10,5,1,5,00:40:48,1,4,00:36:16,1,4,00:38:11,2,3,00:25:52,5,2,1:02:48,0,-,-,0,-,-
+Peykai Respicio | UNIFIED,Peykai,Respicio,mr.respicio2612@gmail.com,Men,"Men, Senior (23-34)",2,7,1,6,00:47:13,1,5,00:38:43,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Victor Manuel Arenas,Victor,Arenas,itormanuel@gmail.com,Men,"Men, Senior (23-34)",1,8,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,1,4,3:40:48
+Bill Sumrow,Bill,Sumrow,goalie042001@gmail.com,Men,"Men, Senior (23-34)",1,8,0,-,-,0,-,-,1,5,00:43:33,0,-,-,0,-,-,0,-,-,0,-,-
+Fabrece Roup,Fabrece,Roup,sdfroup@gmail.com,Men,"Men, Senior (23-34)",1,8,0,-,-,0,-,-,0,-,-,1,4,00:27:09,0,-,-,0,-,-,0,-,-
+Jimmy O'Rourke,Jimmy,O'Rourke,orourke.jimmy7@gmail.com,Men,"Men, Senior (23-34)",1,8,1,4,00:39:40,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Ted Hebert,Ted,Hebert,hebert779@gmail.com,Men,"Men, Senior (23-34)",1,8,0,-,-,0,-,-,0,-,-,1,5,00:53:02,0,-,-,0,-,-,0,-,-
+Angel Rodriguez 🐺 | Velohana,Angel,Rodriguez,angelswimmer1999@gmail.com,Men,"Men, U23 (19-22)",60,1,10,1,00:35:47,10,1,00:31:23,10,1,00:28:04,10,1,00:20:24,10,1,0:57:08,10,1,4 laps (02:32:33),0,-,-
+Monique van der Aa,Monique,van der Aa,mvanderaa@yahoo.com,Women,"Women, Golden Master (50-59)",35,1,0,-,-,10,1,00:43:43,5,2,00:44:30,10,1,00:30:31,10,1,1:17:33,0,-,-,0,-,-
+Jo Cinter,Jo,Cinter,jocinter@hawaii.rr.com,Women,"Women, Golden Master (50-59)",25,2,0,-,-,0,-,-,10,1,00:40:43,5,2,00:30:43,10,1,1:17:17,0,-,-,0,-,-
+Denee Madamba,Denee,Madamba,deneehawaii@icloud.com,Women,"Women, Golden Master (60-69)",10,1,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,10,1,5:10:10
+Sharon Keith,Sharon,Keith,SHARONKEITH2@GMAIL.COM,Women,"Women, Golden Master (60-69)",10,1,0,-,-,10,1,00:42:01,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Mieko Takaku,Mieko,Takaku,msyz125@yahoo.com,Women,"Women, Master (35-49)",30,1,0,-,-,0,-,-,10,1,00:34:15,10,1,00:24:55,10,1,1:00:28,0,-,-,0,-,-
+Tiana Spencer | UNIFIED,Tiana,Spencer,tiana.spencer@gmail.com,Women,"Women, Master (35-49)",11,2,1,4,00:48:45,10,1,00:41:32,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Whitney Burdzilauskas/The Fitness Lab,Whitney,Burdzilauskas,wburdzil@gmail.com,Women,"Women, Master (35-49)",10,3,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,10,1,4:16:09
+Nikki Moreno,Nikki,Moreno,Nikki-moreno@hotmail.com,Women,"Women, Master (35-49)",10,3,0,-,-,0,-,-,5,2,00:36:00,5,2,00:28:54,0,-,-,0,-,-,0,-,-
+Nina D,Nina,D,ninasongdavidson@gmail.com,Women,"Women, Master (35-49)",10,3,10,1,00:44:57,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Marcie H |UNIFIED,Marcie,H,marciehoeke@gmail.com,Women,"Women, Master (35-49)",9,6,2,3,00:47:25,5,2,00:42:19,1,5,00:42:21,1,5,00:33:13,0,-,-,0,-,-,0,-,-
+Yun Yi,Yun,Yi,yun.yi@homeintheislands.com,Women,"Women, Master (35-49)",5,7,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,5,2,5:08:59
+McKenna Nieves,McKenna,Nieves,kenna1st@yahoo.com,Women,"Women, Master (35-49)",5,7,5,2,00:46:51,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Chris Tin Gah,Chris Tin,Gah,christyn4214@aol.com,Women,"Women, Master (35-49)",2,9,0,-,-,0,-,-,0,-,-,2,3,00:30:20,0,-,-,0,-,-,0,-,-
+Kimberly FUNASAKI,Kimberly,FUNASAKI,kfunasaki@gmail.com,Women,"Women, Master (35-49)",2,9,0,-,-,0,-,-,1,4,00:39:56,1,4,00:30:30,0,-,-,0,-,-,0,-,-
+Michelle Simmons,Michelle,Simmons,michelle.simmons08@yahoo.com,Women,"Women, Master (35-49)",2,9,0,-,-,0,-,-,2,3,00:36:29,0,-,-,0,-,-,0,-,-,0,-,-
+Jessica Grayson,Jessica,Grayson,jessicadgrayson@gmail.com,Women,"Women, Master (35-49)",1,12,0,-,-,0,-,-,1,7,00:48:03,0,-,-,0,-,-,0,-,-,0,-,-
+Kelly White,Kelly,White,whitekann@gmail.com,Women,"Women, Master (35-49)",1,12,0,-,-,0,-,-,1,6,00:47:59,0,-,-,0,-,-,0,-,-,0,-,-
+Becky Borrebach,Becky,Borrebach,rebecca.malone20@gmail.com,Women,"Women, Senior (23-34)",20,1,10,1,0:49:56,10,1,00:38:32,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
+Emily Reynolds,Emily,Reynolds,emmr127@gmail.com,Women,"Women, Senior (23-34)",10,2,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-,10,1,4:13:58
+Jonnah lashay Respicio | UNIFIED,Jonnah lashay,Respicio,jonnah.r@gmail.com,Women,"Women, Senior (23-34)",5,3,0,-,-,5,2,00:51:56,0,-,-,0,-,-,0,-,-,0,-,-,0,-,-
