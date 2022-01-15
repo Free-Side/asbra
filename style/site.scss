@@ -173,3 +173,12 @@ main {
 a {
   @extend %dark-color-link;
 }
+
+.no-top-margin {
+  margin-top: 0;
+}
+
+svg.inline-icon {
+  display: inline;
+  vertical-align: top;
+}

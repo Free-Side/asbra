@@ -4,11 +4,13 @@
   "description": "The Aloha State Bicycle Racing Association Website",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "eleventy --serve",
+    "build": "eleventy",
+    "deploy": "gsutil rsync -r -d -x '.DS_Store' ./_site gs://www.asbra.org"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sflanker/asbra.git"
+    "url": "git+https://github.com/free-side/asbra.git"
   },
   "keywords": [
     "Eleventy",
@@ -16,14 +18,16 @@
     "webpage"
   ],
   "author": "Paul Wheeler",
-  "license": "MIT",
+  "license": "Copyright",
   "bugs": {
-    "url": "https://github.com/sflanker/asbra/issues"
+    "url": "https://github.com/free-side/asbra/issues"
   },
-  "homepage": "http://www.paulwheeler.us/",
+  "homepage": "https://www.asbra.org/",
   "dependencies": {
-    "handlebars": "^4.7.6",
+    "@11ty/eleventy": "^1.0.0",
+    "handlebars": "^4.7.7",
+    "js-yaml": "^4.1.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.14.0"
+    "sass": "^1.48.0"
   }
 }

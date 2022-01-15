@@ -1,5 +1,9 @@
+const path = require("node:path");
+
 const moment = require('moment');
 const handlebars = require('handlebars');
+const yaml = require("js-yaml");
+const sass = require("sass");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
@@ -77,9 +81,11 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addHandlebarsHelper(
     "if-equal",
-    function(input, options) {
-      let val = options.hash["value"];
-      if (input == val) {
+    function() {
+      let values = Array.from(arguments).slice(0, -1);
+      let options = arguments[arguments.length - 1];
+      let val = values.length === 2 ? values[1] : options.hash["value"];
+      if (values[0] == val) {
         return options.fn(this);
       } else {
         return options.inverse(this);
@@ -89,9 +95,11 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addHandlebarsHelper(
     "if-not-equal",
-    function(input, options) {
-      let val = options.hash["value"];
-      if (input != val) {
+    function() {
+      let values = Array.from(arguments).slice(0, -1);
+      let options = arguments[arguments.length - 1];
+      let val = values.length === 2 ? values[1] : options.hash["value"];
+      if (values[0] == val) {
         return options.fn(this);
       } else {
         return options.inverse(this);
@@ -196,12 +204,28 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setDynamicPermalinks(true);
 
-  return {
-    templateFormats: [
-      "mustache",
-      "hbs",
-      "scss"
-    ],
-    passthroughFileCopy: true
-  };
+  eleventyConfig.addDataExtension("yml", contents => yaml.load(contents));
+
+  eleventyConfig.addTemplateFormats("scss");
+
+  // Creates the extension for use
+  eleventyConfig.addExtension("scss", {
+    outputFileExtension: "css", // optional, default: "html"
+
+    // `compile` is called once per .scss file in the input directory
+    compile: function(inputContent, inputPath) {
+      let parsed = path.parse(inputPath);
+
+      let result = sass.compileString(inputContent, {
+        loadPaths: [
+          parsed.dir || ".",
+          this.config.dir.includes
+        ]
+      });
+
+      return (data) => {
+        return result.css;
+      };
+    }
+  });
 };

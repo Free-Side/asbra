@@ -47,6 +47,13 @@
       {{/if-equal}}
     </li>
     <li>
+      {{#if-equal activePage value="archive"}}
+        Archive
+      {{else}}
+        <a href="/archive/2021/">Archive</a>
+      {{/if-equal}}
+    </li>
+    <li>
       {{#if-equal activePage value="newsletter"}}
         Newsletter
       {{else}}
@@ -73,7 +80,7 @@
 {{{content}}}
 </main>
 <footer>
-  &copy; 2021 Aloha State Bicycle Racing Association
+  &copy; 2022 Aloha State Bicycle Racing Association
 </footer>
 </body>
 </html>

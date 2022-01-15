@@ -1,0 +1,60 @@
+/*---
+layout: master.hbs
+pagination:
+  data: archives.years
+  size: 1
+  alias: year
+indirect: year
+title: ASBRA - Event Archive
+subtitle: Event Archive
+description: The Official Website of ASBRA, the USAC Local Association for the state of Hawaii.
+permalink: archive/{{year.name}}/
+activePage: archive
+head: |
+  <link href="/style/calendar.css" rel="stylesheet" type="text/css">
+---*/
+<section class="pagination-horizontal">
+  <ul>
+    {{#each pagination.pages as |page|}}
+      {{#if-equal page.name ../year.name}}
+        <li><a aria-current="true">{{page.name}}</a></li>
+      {{else}}
+        <li><a href="/archive/{{page.name}}">{{page.name}}</a></li>
+      {{/if-equal}}
+    {{/each}}
+  </ul>
+</section>
+<section class="page-title">
+  <h2 class="no-top-margin">Event Archive - {{year.name}}</h2>
+  {{#if year.overview}}
+    <p>
+      {{year.overview}}
+    </p>
+  {{/if}}
+</section>
+<div class="archive-event-list">
+{{#each year.events}}
+  <section id="{{id}}"
+           class="event-details {{#if background}}image-background{{/if}}"
+           style="{{#if background}}background-image: url('/images/{{background}}'){{/if}}">
+    <div>
+      <div class="event-header">
+        {{#if logo}}
+          <img src="/images/{{logo}}" alt="{{name}} Logo" width="150" height="150" />
+        {{/if}}
+        <h2>{{#if link}}<a href="{{link}}">{{name}}</a>{{else}}{{name}}{{/if}}</h2>
+      </div>
+      <ul>
+        <li><span class="info-label">Date:</span> {{day}} {{date}}</li>
+        <li><span class="info-label">Location:</span> {{location}} ({{island}})</li>
+        {{#if organizer}}
+          <li><span class="info-label">Organizer:</span> {{organizer}}</li>
+        {{/if}}
+        {{#if resultsLink}}
+          <li class="result-link"><a href="{{resultsLink}}" target="_blank">Results {{{../icons.external}}}</a></li>
+        {{/if}}
+      </ul>
+    </div>
+  </section>
+{{/each}}
+</div>
