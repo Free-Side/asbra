@@ -6,6 +6,7 @@ description: The Official Website of ASBRA, the USAC Local Association for the s
 activePage: calendar
 head: |
   <link href="/style/calendar.css" rel="stylesheet" type="text/css">
+  <script src="https://cdn.jsdelivr.net/npm/moment@2.29.3/moment.min.js"></script>
 ---*/
 {{#each sections}}
   <section class="calendar-section">
@@ -33,6 +34,10 @@ head: |
             {{#if organizer}}
               <li><span class="info-label">Organizer:</span> {{organizer}}</li>
             {{/if}}
+
+            {{#if registration}}
+              <li data-event-date="{{date}}" class="hide-past"><a href="{{registration}}">Register Now</a></li>
+            {{/if}}
           </ul>
           {{#if description}}
             <p>
@@ -44,3 +49,16 @@ head: |
     {{/each}}
   </section>
 {{/each}}
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    let timeDependentDisplayElements = document.getElementsByClassName('hide-past');
+    const now = moment();
+    for (const elem of [...timeDependentDisplayElements]) {
+      const eventDate = moment(elem.getAttribute('data-event-date'));
+      if (eventDate.isAfter(now)) {
+        elem.classList.remove('hide-past');
+      }
+    }
+  });
+</script>

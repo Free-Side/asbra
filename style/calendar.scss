@@ -93,6 +93,10 @@ body > section, body > main > section {
   }
 }
 
+.hide-past {
+  display: none;
+}
+
 .archive-event-list .event-details {
   &::before {
     content: ' ';

@@ -5,7 +5,7 @@ const handlebars = require('handlebars');
 const yaml = require("js-yaml");
 const sass = require("sass");
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
 
   eleventyConfig.addHandlebarsHelper(
@@ -72,7 +72,7 @@ module.exports = function(eleventyConfig) {
       let options = arguments[arguments.length - 1];
       let value = conditions.filter(v => v)[0];
       if (value) {
-        return options.fn({ ...this, value });
+        return options.fn({...this, value});
       } else if (options.inverse) {
         return options.inverse();
       }
@@ -81,7 +81,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addHandlebarsHelper(
     "if-equal",
-    function() {
+    function () {
       let values = Array.from(arguments).slice(0, -1);
       let options = arguments[arguments.length - 1];
       let val = values.length === 2 ? values[1] : options.hash["value"];
@@ -95,11 +95,22 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addHandlebarsHelper(
     "if-not-equal",
-    function() {
+    function () {
       let values = Array.from(arguments).slice(0, -1);
       let options = arguments[arguments.length - 1];
       let val = values.length === 2 ? values[1] : options.hash["value"];
       if (values[0] == val) {
+        return options.fn(this);
+      } else {
+        return options.inverse(this);
+      }
+    }
+  );
+
+  eleventyConfig.addHandlebarsHelper(
+    "if-future",
+    function (dateString, options) {
+      if (moment(dateString).isAfter(moment())) {
         return options.fn(this);
       } else {
         return options.inverse(this);
@@ -213,7 +224,7 @@ module.exports = function(eleventyConfig) {
     outputFileExtension: "css", // optional, default: "html"
 
     // `compile` is called once per .scss file in the input directory
-    compile: function(inputContent, inputPath) {
+    compile: function (inputContent, inputPath) {
       let parsed = path.parse(inputPath);
 
       let result = sass.compileString(inputContent, {
