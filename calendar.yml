@@ -103,7 +103,8 @@ sections:
         island: Oahu
         organizer: Hawaii Triathlon Center
         link: https://www.hitricenter.com/malaekahana-state-time-trial
-        description: Previously scheduled for May 7th, this event is now slated for mid July. The Malaekahana Time Trial is the State Time Trial Championship Race. It runs 40 kilometers out and back along Kamehameha Highway from Malaekahana Beach Campground.
+        registration: https://www.bikereg.com/malaekahana-state-time-trial
+        description: Previously scheduled for May 7th, this event is now slated for mid July. The Malaekahana Time Trial is the State Time Trial Championship Race. It runs 40 kilometers out and back along Kamehameha Highway from Malaekahana Beach Campground. <a href="https://www.strava.com/segments/1542829">View the course on Strava.</a>
       - name: 'Kalapawai Café Criterium #1'
         id: kapolei-crit-1
         date: TBD
