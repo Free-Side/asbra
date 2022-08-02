@@ -7,6 +7,7 @@ const sass = require("sass");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("files/**/*.pdf");
 
   eleventyConfig.addHandlebarsHelper(
     "traverse",
@@ -208,6 +209,13 @@ module.exports = function (eleventyConfig) {
       return value;
     }
   );
+
+  eleventyConfig.addHandlebarsHelper(
+    "$urlEncoded",
+    function (value) {
+      return value && encodeURIComponent(value);
+    }
+  )
 
   eleventyConfig.setFrontMatterParsingOptions({
     delimiters: ['/*---', '---*/']

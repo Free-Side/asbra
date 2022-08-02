@@ -133,7 +133,8 @@ sections:
         location: Kailua
         island: Oahu
         organizer: Tradewind Cycling Team
-        link: http://www.tradewindcyclingteam.com/races.html
+        link: https://www.tradewindcyclingteam.com/races
+        registration: https://www.bikereg.com/55990
         description: A multiple distance lap race making clockwise circuits of Old Kalanianaole Road and Kalanianaole Highway. This race is one of the most intense road races on Oahu, and a great run up to the Dick Evans.
       - name: Dick Evans Memorial Road Race
         id: dick-evans-rr
@@ -144,6 +145,8 @@ sections:
         island: Oahu
         organizer: Outta Bounds
         link: http://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
+        registration: https://www.bikereg.com/demrr
         description: The pinnacle of the Hawaii bike racing season, the Dick Evans Memorial Road Race follows a route similar to the original Around Oahu Race. Its distance, 112 miles, is the basis for the Iron Man distance Triathlon.
         background: DEMRR Trophy 2019.jpg
         logo: DEMRR Logo.png
+        flyerLink: /files/race-flyers/Dick%20Evans%20Flyer%202022.pdf
