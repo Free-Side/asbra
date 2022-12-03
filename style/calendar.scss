@@ -16,7 +16,17 @@ body > section, body > main > section {
   }
 }
 
+// Override site default margins, use padding for event details instead
+main > section > div:not(:first-child) {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .event-details {
+  &:not(.image-background) {
+    padding-left: 1em;
+  }
+
   * {
     box-sizing: border-box;
   }
@@ -43,7 +53,7 @@ body > section, body > main > section {
   }
 
   > div {
-    padding: 10px 0 10px 0;
+    padding: 10px 1em 10px 0;
 
     .event-header {
       display: flex;
@@ -212,5 +222,48 @@ body > section, body > main > section {
 
   > div {
     background: fade_out(lightgray, 0.3);
+  }
+}
+
+// Print layout
+
+@media only print {
+  body {
+    background-color: transparent;
+  }
+
+  body > header > ul.navigation {
+    display: none;
+  }
+
+  main > section > h1:first-child {
+    padding: 2px 10px 2px 10px;
+  }
+
+  .calendar-section {
+    break-inside: avoid-page;
+  }
+
+  .calendar-section-contents {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .event-details {
+    > div, > div:last-child {
+      padding: 5px 1em 5px 0;
+    }
+    ul.event-info {
+      flex-direction: column;
+      align-items: start;
+
+      li:not(:first-child):before {
+        display: none;
+      }
+    }
+
+    .event-info-extra, .event-description, .event-flyer-link {
+      display: none;
+    }
   }
 }

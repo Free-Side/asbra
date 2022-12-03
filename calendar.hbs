@@ -11,6 +11,7 @@ head: |
 {{#each sections}}
   <section class="calendar-section">
     <h1>{{section_title}}</h1>
+    <div class="calendar-section-contents">
     {{#each events}}
       <section id="{{id}}"
                class="event-details {{#if background}}image-background{{/if}}"
@@ -22,7 +23,7 @@ head: |
             {{/if}}
             <h2>{{#if link}}<a href="{{link}}">{{name}}</a>{{else}}{{name}}{{/if}}</h2>
           </div>
-          <ul>
+          <ul class="event-info">
             <li><span class="info-label">Date:</span> {{day}} {{date}}</li>
 
             {{#if time}}
@@ -32,26 +33,27 @@ head: |
             <li><span class="info-label">Location:</span> {{location}} ({{island}})</li>
 
             {{#if organizer}}
-              <li><span class="info-label">Organizer:</span> {{organizer}}</li>
+              <li class="event-info-extra"><span class="info-label">Organizer:</span> {{organizer}}</li>
             {{/if}}
 
             {{#if registration}}
-              <li data-event-date="{{date}}" class="hide-past"><a href="{{registration}}">Register Now</a></li>
+              <li data-event-date="{{date}}" class="event-info-extra hide-past"><a href="{{registration}}">Register Now</a></li>
             {{/if}}
           </ul>
           {{#if description}}
-            <p>
+            <p class="event-description">
               {{{description}}}
             </p>
           {{/if}}
           {{#if flyerLink}}
-            <p>
+            <p class="event-flyer-link">
               <a href="{{flyerLink}}">Race Info Flyer 🖨</a>
             </p>
           {{/if}}
         </div>
       </section>
     {{/each}}
+    </div>
   </section>
 {{/each}}
 
