@@ -182,3 +182,9 @@ svg.inline-icon {
   display: inline;
   vertical-align: top;
 }
+
+@media only screen {
+  .print-only {
+    display: none;
+  }
+}
