@@ -41,8 +41,8 @@ sections:
         location: Kailua
         island: Oahu
         organizer: Outta Bounds
-        link: http://www.outtaboundshawaii.com/races/castle-to-hanauma.html
-        registration_: https://www.bikereg.com/castle-to-hanauma-bay-tt
+        link: https://www.outtaboundshawaii.com/races/castle-to-hanauma.html
+        registration: https://www.bikereg.com/castle-to-hanauma-bay-tt
         description: The Castle to Hanauma TT is a 20K point to point individual time trial from Kailua to Hanauma Bay.
         background: Castle to Hanauma.jpg
   - section_title: April
@@ -55,6 +55,7 @@ sections:
         island: Oahu
         organizer: Tradewind Cycling Team
         link: http://www.tradewindcyclingteam.com/races.html
+        registration: https://www.bikereg.com/tantalus-time-trial
         description: This unique uphill time trial, which runs 4.4 miles up Makiki Heights drive and Tantalus drive, is one of the most iconic mainstays of Hawaii racing calendar.
         logo: Tantalus Logo.png
       - name: Kualoa Team Time Trial
@@ -62,8 +63,8 @@ sections:
         day: Sunday
         location: Windward Side
         island: Oahu
-        organizer: Cambio Core
-        link: https://www.facebook.com/cambiocore/
+        organizer: Wolfpack HI
+        link: https://www.instagram.com/wolfpackhi/?hl=en
   - section_title: May
     events:
       - name: Malaekahana State Time Trial Championship
@@ -74,7 +75,7 @@ sections:
         island: Oahu
         organizer: Hawaii Triathlon Center
         link: https://www.hitricenter.com/malaekahana-state-time-trial
-        registration_: https://www.bikereg.com/malaekahana-state-time-trial
+        registration: https://www.bikereg.com/malaekahana-time-trial
         description: The Malaekahana Time Trial is the State Time Trial Championship Race. It runs 40 kilometers out and back along Kamehameha Highway from Malaekahana Beach Campground. <a href="https://www.strava.com/segments/1542829">View the course on Strava.</a>
       - name: Pedal to the Meadow
         id: pedal-to-the-meadow
@@ -83,8 +84,8 @@ sections:
         location: Kekaha
         island: Kauaʻi
         organizer: Bicycle Racing Kauaʻi
-        link: http://pedaltothemeadow.com/
-        registration_: https://www.bikereg.com/p2m22
+        link: https://pedaltothemeadow.com/
+        registration: https://www.bikereg.com/p2m
         description: Pedal to the Meadow is a mass start hill climb race from sea-level Kekaha up to Kanaloahuluhulu Meadow in Koke`e State Park. Participants are encouraged to stay through Sunday for a relaxed group ride in eastern Kauaʻi.
         background: P2M Women Overall 2019.jpg
         logo: P2M Logo.gif
@@ -153,7 +154,7 @@ sections:
         location: Hawaii Kai
         island: Oahu
         organizer: Outta Bounds
-        link: http://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
+        link: https://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
         registration_: https://www.bikereg.com/demrr
         description: The pinnacle of the Hawaii bike racing season, the Dick Evans Memorial Road Race follows a route similar to the original Around Oahu Race. Its distance, 112 miles, is the basis for the Iron Man distance Triathlon.
         background: DEMRR Trophy 2019.jpg
