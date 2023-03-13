@@ -14,6 +14,28 @@ head: |
   </p>
 </section>
 
+<section id="sponsors">
+  <h1>Thank you to our Sponsors!</h1>
+  <div>
+   {{#each sponsors}}
+     <a href="{{link}}" target="_blank">
+       <figure>
+         <div>
+         <img src="{{logo}}" width="{{logoWidth}}" height="{{logoHeight}}" alt="{{name}}" />
+         </div>
+         <figcaption>{{name}}</figcaption>
+       </figure>
+     </a>
+   {{/each}}
+  </div>
+  <p>
+    ASBRA is 100% non-profit, volunteer operated, and donation funded. We would not be able to support local bike races or run our programs without the support of these sponsors as well as donations from members of the community. We would also to express our deep gratitude to individuals who have been generous enough to make donations.
+  </p>
+  <p>
+    If you would like to support ASBRA financially please consider making a donation trough PayPal: <a href="https://www.paypal.com/donate/?hosted_button_id=93WYJFCWH888S" class="donate-button">Donate</a>
+  </p>
+</section>
+
 <section id="about">
   <h2>About ASBRA</h2>
   <p>
