@@ -10,7 +10,7 @@ dynamicPermalink: false
     align-items: stretch;
     gap: 20px;
 
-    > a.sponsor-link {
+    > a.friend-link {
       border: 8px solid lightgray;
       border-radius: 16px;
       position: relative;
@@ -19,7 +19,7 @@ dynamicPermalink: false
       aspect-ratio: 1;
     }
 
-    figure.sponsor-tile {
+    figure.friend-tile {
       padding: 10px;
       margin: 0;
       height: 100%;
@@ -117,12 +117,12 @@ a.donate-button {
   }
 
   #sponsors {
-    > div.sponsor-logos {
+    > div.friend-logos {
       max-width: calc(50vw + 120px);
       margin-left: auto;
       margin-right: auto;
 
-      figure.sponsor-tile {
+      figure.friend-tile {
         min-width: 200px;
 
         figcaption {
