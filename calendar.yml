@@ -61,10 +61,12 @@ sections:
       - name: Kualoa Team Time Trial
         date: 4/23/2023
         day: Sunday
-        location: Windward Side
+        location: Kualoa Regional Park
         island: Oahu
         organizer: Wolfpack HI
         link: https://www.instagram.com/wolfpackhi/?hl=en
+        registration: https://www.bikereg.com/kualoa-team-time-trial
+        description: "New in 2023 and the state championship time trial, the Kualoa TTT is a point to point race from Kualoa Regional Park to Turtle Bay (race distance: 20.1 miles). Teams will consist of 4 riders with at least 3 required to finish. Categories are based on the combine age of all team members. See the registration page for details."
   - section_title: May
     events:
       - name: Malaekahana State Time Trial Championship

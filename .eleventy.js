@@ -100,7 +100,7 @@ module.exports = function (eleventyConfig) {
       let values = Array.from(arguments).slice(0, -1);
       let options = arguments[arguments.length - 1];
       let val = values.length === 2 ? values[1] : options.hash["value"];
-      if (values[0] == val) {
+      if (values[0] != val) {
         return options.fn(this);
       } else {
         return options.inverse(this);
