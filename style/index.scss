@@ -82,64 +82,6 @@ a.donate-button {
 }
 
 @media only print {
-  body {
-    background-color: transparent;
-  }
-
-  body > header {
-    ul.navigation {
-      display: none;
-    }
-
-    h1 {
-      margin-left: 1em;
-    }
-  }
-
-  main {
-    h1, h2, h3, h4 {
-      text-align: center;
-    }
-
-    display: flex;
-    flex-direction: column-reverse;
-  }
-
-  footer {
-    display: none;
-  }
-
-  #welcome, #links, #sign_up, #usac, #support {
-    display: none;
-  }
-
-  #about {
-    a {
-      display: none;
-    }
-
-    font-size: 130%;
-  }
-
-  #sponsors {
-    > div.friend-logos {
-      max-width: calc(50vw + 120px);
-      margin-left: auto;
-      margin-right: auto;
-
-      figure.friend-tile {
-        min-width: 200px;
-
-        figcaption {
-          font-size: 80%;
-        }
-      }
-    }
-
-    page-break-before: always;
-    font-size: 120%;
-  }
-
   a.donate-button {
     display: block;
     margin-left: auto;

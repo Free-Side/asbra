@@ -1,0 +1,84 @@
+/*---
+layout: master.hbs
+pagination:
+  data: pineappleHill
+  size: 1
+  alias: event
+title: Pineapple Hill Road Race
+subtitle: Pineapple Hill Road Race
+description: The Official Website of ASBRA, the Aloha State Bicycle Racing Association.
+permalink: "flyers/pineapple-hill-{{event.year}}/"
+head: |
+  <link href="/style/flyers.css" rel="stylesheet" type="text/css">
+---*/
+<div class="flyer">
+  <div class="flyer-background">
+    <img id="bgBaseLayer" src="/images/flyers/pineapple-hill/background.jpg" alt="Photograph of a sprint finish at pineapple hill" />
+    <div id="divBgOverlay" style="background-image:url(/images/flyers/pineapple-hill/pineapple.jpg)"></div>
+    <img id="bgLogo" src="/images/sponsors/Outta%20Bounds%20Logo%20Large.png" alt="The Outta Bounds Hawaii logo" />
+  </div>
+  <section class="title">
+    {{{event.title}}}
+  </section>
+  <section class="detail-row">
+    <img id="courseMap" src="{{event.courseMap}}" alt="A map of the Pineapple Hill Road Race course." />
+    <div>
+      <h1>Start Times</h1>
+      <h2>{{event.date}}</h2>
+      <ul>
+        {{#each event.startTimes}}
+          <li>{{time}} - {{category}}</li>
+        {{/each}}
+      </ul>
+    </div>
+    <div>
+      <h1 class="align-right">Awards</h1>
+      <p>
+        {{{event.awards}}}
+      </p>
+    </div>
+  </section>
+  <section class="detail-row">
+    <div>
+      <h1>Registration</h1>
+      <h2>Registration Fee: ${{event.registationFees.standard}}</h2>
+      <h2>Juniors: ${{event.registrationFees.junior}}</h2>
+      {{#if event.registrationFees.lateFee}}
+      <h4>Late fee of ${{event.registrationFees.lateFee}} after {{event.lateFeeDeadline}}</h4>
+      {{/if}}
+      {{#if event.registrationFees.swagDeadline}}
+      <h4>Register by {{event.registrationFees.swagDeadline}} to receive merch.</h4>
+      {{/if}}
+      <p>
+        Registration available online via BikeReg.com<br />
+        Registration Closes {{event.registrationClose}}<br />
+        <em>All participants must sign the USA Cycling Event Release form, and have a valid USAC License.</em>
+      </p>
+      <h2>Packet Pickup</h2>
+      <p>
+        {{event.packetPickupLocation}}<br />
+        {{event.packetPickupTime}}
+      </p>
+    </div>
+    <div class="align-right">
+      <h1>Contact</h1>
+      <p>
+        {{{event.contact}}}
+      </p>
+      <div id="qrCodeContainer">
+        <img src="{{ $qrCode event.registrationLink }}" alt="QR Code link to {{event.registrationLink}}" />
+      </div>
+    </div>
+  </section>
+  <section class="detail-row logo-row">
+    <img src="/images/sponsors/Outta%20Bounds%20Text.png" alt="Outta Bounds" />
+    <img id="usacLogo" src="/images/sponsors/USAC%20Logo.png" alt="USAC" />
+    <img src="/images/logo-horizontal.svg" alt="ASBRA" />
+  </section>
+  <section id="parkingInfo" class="detail-row">
+    <h2>Parking</h2>
+    <p>
+      {{event.parking}}
+    </p>
+  </section>
+</div>

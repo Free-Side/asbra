@@ -1,9 +1,11 @@
 const path = require("path");
 
-const moment = require('moment');
-const handlebars = require('handlebars');
+const moment = require("moment");
+const handlebars = require("handlebars");
 const yaml = require("js-yaml");
 const sass = require("sass");
+
+const { Encoder, ErrorCorrectionLevel, QRByte } = require("@nuintun/qrcode");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
@@ -214,6 +216,16 @@ module.exports = function (eleventyConfig) {
     "$urlEncoded",
     function (value) {
       return value && encodeURIComponent(value);
+    }
+  )
+
+  eleventyConfig.addHandlebarsHelper(
+    "$qrCode",
+    function(url) {
+      let encoder = new Encoder({errorCorrectionLevel: ErrorCorrectionLevel.M});
+      encoder.write(new QRByte(url));
+      encoder.make();
+      return encoder.toDataURL(5, 10);
     }
   )
 
