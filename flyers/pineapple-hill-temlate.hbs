@@ -41,7 +41,7 @@ head: |
   <section class="detail-row">
     <div>
       <h1>Registration</h1>
-      <h2>Registration Fee: ${{event.registationFees.standard}}</h2>
+      <h2>Registration Fee: ${{event.registrationFees.standard}}</h2>
       <h2>Juniors: ${{event.registrationFees.junior}}</h2>
       {{#if event.registrationFees.lateFee}}
       <h4>Late fee of ${{event.registrationFees.lateFee}} after {{event.lateFeeDeadline}}</h4>
@@ -60,7 +60,7 @@ head: |
         {{event.packetPickupTime}}
       </p>
     </div>
-    <div class="align-right">
+    <div id="contactInfo" class="align-right">
       <h1>Contact</h1>
       <p>
         {{{event.contact}}}

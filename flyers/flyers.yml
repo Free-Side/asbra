@@ -1,11 +1,9 @@
 pineappleHill:
   - year: 2022
-    leader: <span>Jochem</span> <span>Memorial</span>
-    title: <span>Pineapple</span> <span>Hill Road Race</span>
+    title: <div class="stretch-text"><span>Pineapple Hill</span></div> <div class="stack-text"><span>Jochem</span> <span>Memorial</span></div> <div class="stretch-text"><span>Road Race</span></div>
     date: June 12, 2022
     courseMap: /images/flyers/pineapple-hill/course-map.png
     startTimes:
-      - time: "7:30"
       - time: "7:30"
         category: Men's Cat 1/2/3
       - time: "7:35"
@@ -24,18 +22,17 @@ pineappleHill:
     awards: |
       Award ceremony will be held <strong>after the event at the start/finish
       line (10:30 am).</strong> Gift cards will be awarded to the top 3 places
-      in each categories.
+      in each category.
     parking: |
       Please do not park around the start- finish line! Kaukonahua Rd. will be
       closed to car traffic at 7:15. We suggest you park on Kamananui Rd. near
-      the entrance to Gree World Farms. Please reserve the parking lot for Cafe
+      the entrance to Green World Farms. Please reserve the parking lot for Cafe
       customers.
     contact: |
       Questions? Comments?<br />
-      Call: Carl Brooks (808) 375-0979<br />
-      Email: outtaboundshawaii@gmail.com
+      Call: Carl Brooks <strong>(808) 375-0979</strong><br />
+      Email: <strong>outtaboundshawaii@gmail.com</strong>
   - year: 2023
-    leader:
     title: <div class="stretch-text"><span>Pineapple Hill</span></div> <div class="stack-text"><span>Jochem</span> <span>Memorial</span></div> <div class="stretch-text"><span>Road Race</span></div>
     date: June 11, 2023
     courseMap: /images/flyers/pineapple-hill/course-map.png
@@ -57,13 +54,13 @@ pineappleHill:
     awards: |
       Award ceremony will be held <strong>after the event at the start/finish
       line (10:30 am).</strong> Gift cards will be awarded to the top 3 places
-      in each categories.
+      in each category.
     parking: |
       Please do not park around the start- finish line! Kaukonahua Rd. will be
       closed to car traffic at 7:15. We suggest you park on Kamananui Rd. near
-      the entrance to Gree World Farms. Please reserve the parking lot for Cafe
+      the entrance to Green World Farms. Please reserve the parking lot for Cafe
       customers.
     contact: |
       Questions? Comments?<br />
-      Call: Carl Brooks (808) 375-0979<br />
-      Email: outtaboundshawaii@gmail.com
+      Call: Carl Brooks <strong>(808) 375-0979</strong><br />
+      Email: <strong>outtaboundshawaii@gmail.com</strong>

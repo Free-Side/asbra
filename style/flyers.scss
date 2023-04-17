@@ -14,8 +14,8 @@
     width: 100%;
     height: auto;
     position: absolute;
-    bottom: 0;
-    filter: sepia(0.5);
+    bottom: -16px;
+    filter: url(/images/filters.svg#linear) sepia(0.5);
     opacity: 0.5;
   }
 
@@ -23,7 +23,7 @@
     width: 100%;
     position: absolute;
     height: 2.8in;
-    bottom: 0;
+    bottom: 36px;
     background-size: contain;
     filter: contrast(0.6) brightness(1.8);
     mix-blend-mode: darken;
@@ -127,6 +127,11 @@
   img#courseMap {
     width: calc(100% - 20px);
     height: auto;
+    mix-blend-mode: darken;
+  }
+
+  #contactInfo strong {
+    font-family: monospace;
   }
 
   #qrCodeContainer {
