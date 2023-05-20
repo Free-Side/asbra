@@ -78,7 +78,7 @@ sections:
         organizer: Hawaii Triathlon Center
         link: https://www.hitricenter.com/malaekahana-state-time-trial
         registration: https://www.bikereg.com/malaekahana-time-trial
-        description: The Malaekahana Time Trial is the State Time Trial Championship Race. It runs 40 kilometers out and back along Kamehameha Highway from Malaekahana Beach Campground. <a href="https://www.strava.com/segments/1542829">View the course on Strava.</a>
+        description: The Malaekahana Time Trial is the State Time Trial Championship Race. <strong>This year's event will cover a point to point course starting near Ahuimanu and finishing near Turtle Bay Resort.</strong> Youth atheltes will start near Kahana Bay. Adult course will be about 40 kilometers long, youth course will be about 20 kilometers long.
       - name: Pedal to the Meadow
         id: pedal-to-the-meadow
         date: 5/27/2023
@@ -102,6 +102,7 @@ sections:
         island: Oahu
         organizer: Outta Bounds
         link: https://www.outtaboundshawaii.com/races/pineapple-hill-road-race.html
+        flyerLink: https://asbra.org/flyers/pineapple-hill-2023/
         registration_: https://www.bikereg.com/pineapple-hill-rr
         description: 'The Greg Jochem Memorial Road Race, features the same climb past Dole Plantation as the Pineapple Sprint, the Road Race however features multiple laps. Starting on Kaukonahua road, proceeding down "Snake Road", and after a hard right turn at the bottom of the hill, back to the start on Kamehameha Highway.'
       - name: Cycle to the Sun
@@ -117,22 +118,22 @@ sections:
         description: The legendary Cycle to the Sun is one of the most difficult bike climbs in the world. From Pa'ia to the top of Haleakala, the race climbs 10,000 feet over 36 miles and reaches gradients up to 18%.
   - section_title: July
     events:
-      - name: 'TBD Criterium #1'
+      - name: 'Kapolei Criterium #1'
         id: crit-1
-        date: TBD
-        time:
+        date: 7/09/2023
+        time: 7:00 a.m.
         location: Kapolei
         island: Oahu
-        organizer:
+        organizer: ASBRA
         link:
         logo:
-      - name: 'TBD Criterium #2'
+      - name: 'Kapolei Criterium #2'
         id: crit-2
-        date: TBD
-        time:
+        date: 7/23/2023
+        time: 7:00 a.m.
         location: Kapolei
         island: Oahu
-        organizer:
+        organizer: ASBRA
         link:
         logo:
   - section_title: August
