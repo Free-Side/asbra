@@ -6,11 +6,14 @@ const yaml = require("js-yaml");
 const sass = require("sass");
 
 const { Encoder, ErrorCorrectionLevel, QRByte } = require("@nuintun/qrcode");
+const {parse} = require("csv-parse/sync");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("files/**/*.pdf");
+  eleventyConfig.addPassthroughCopy("files/*.woff2");
 
+  // Applies a template to all the nodes of a tree structure
   eleventyConfig.addHandlebarsHelper(
     "traverse",
     function (object, options) {
@@ -43,19 +46,36 @@ module.exports = function (eleventyConfig) {
     }
   }
 
+  function makeCompareFn(key, dir, ...rest) {
+    const dirCmp =
+      (dir && dir.toLowerCase() === 'desc') ?
+        (v1, v2) => cmp(v2 && v2[key], v1 && v1[key]) :
+        (v1, v2) => cmp(v1 && v1[key], v2 && v2[key]);
+
+    if (rest?.length) {
+      const restCmp = makeCompareFn(...rest);
+      return (v1, v2) => {
+        const c = dirCmp(v1, v2);
+        if (c === 0) {
+          return restCmp(v1, v2);
+        } else {
+          return c;
+        }
+      }
+    } else {
+      return dirCmp;
+    }
+  }
+
   eleventyConfig.addHandlebarsHelper(
     "sorted-each",
     function () {
-      let [list, key, desc] = Array.from(arguments).slice(0, -1);
+      let [list, ...ordering] = Array.from(arguments).slice(0, -1);
       let body = arguments[arguments.length - 1];
       if (list && list.length) {
         // sort list
         let sorted = [...list];
-        sorted.sort(
-          desc ?
-            (v1, v2) => cmp(v2 && v2[key], v1 && v1[key]) :
-            (v1, v2) => cmp(v1 && v1[key], v2 && v2[key])
-        );
+        sorted.sort(makeCompareFn(...ordering));
         return sorted.reduce(
           (result, value) => {
             return result + body.fn(value);
@@ -119,6 +139,38 @@ module.exports = function (eleventyConfig) {
         return options.inverse(this);
       }
     }
+  );
+
+  eleventyConfig.addHandlebarsHelper(
+    "$take",
+    (source, count) => source.slice(0, count)
+  );
+
+  eleventyConfig.addHandlebarsHelper(
+    "$filter-by",
+    (source, key, value) => source.filter(v => v && v[key] === value)
+  );
+
+  eleventyConfig.addHandlebarsHelper(
+    "$group-by",
+    (source, key) => {
+      const groups = [];
+      for (const v of source) {
+        const k = v[key];
+        let existing = groups.find(g => g.key === k);
+        if (!existing) {
+          groups.push(existing = { key: k, values: [] });
+        }
+        existing.values.push(v);
+      }
+
+      return groups;
+    }
+  );
+
+  eleventyConfig.addHandlebarsHelper(
+    "$not-empty",
+    (source) => !!(source?.length)
   );
 
   eleventyConfig.addHandlebarsHelper(
@@ -217,7 +269,7 @@ module.exports = function (eleventyConfig) {
     function (value) {
       return value && encodeURIComponent(value);
     }
-  )
+  );
 
   eleventyConfig.addHandlebarsHelper(
     "$qrCode",
@@ -227,7 +279,7 @@ module.exports = function (eleventyConfig) {
       encoder.make();
       return encoder.toDataURL(5, 10);
     }
-  )
+  );
 
   eleventyConfig.setFrontMatterParsingOptions({
     delimiters: ['/*---', '---*/']
@@ -237,6 +289,28 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addDataExtension("yml", contents => yaml.load(contents));
 
+  eleventyConfig.addDataExtension(
+    "csv",
+    contents => {
+      const records = parse(contents, {
+        columns: true,
+        skip_empty_lines: true,
+        cast: true,
+      });
+      // console.log(`${records.length} records found.`);
+      return records.map(row => {
+        const result = {};
+        for (const key of Object.keys(row)) {
+          if (row.hasOwnProperty(key)) {
+            result[key.replace(/ /g, '_')] = row[key];
+          }
+        }
+        return result;
+      });
+    }
+  )
+
+  eleventyConfig.addPassthroughCopy("style/*.css");
   eleventyConfig.addTemplateFormats("scss");
 
   // Creates the extension for use

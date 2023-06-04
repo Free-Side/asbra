@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/files/Titillium-Web-700.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Bungee Inline';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/files/Bungee-Inline.woff2) format('woff2');
+}
+
 $usac_blue: #031e41;
 $usac_red: #d60b30;
 

@@ -54,7 +54,7 @@ head: |
           <tr class="category-header table-header-row">
             <th colspan="3">{{Name}}</th>
           </tr>
-          {{#sorted-each Results "Points" true}}
+          {{#sorted-each Results "Points" "desc"}}
             <tr>
               <td>{{Place}}</td>
               <td>{{Name}}</td>
@@ -67,7 +67,7 @@ head: |
   </div>
 </section>
 
-{{#sorted-each Events "Date" true}}
+{{#sorted-each Events "Date" "desc"}}
   <section class="event-results">
     <h2>{{Name}}</h2>
     <div>

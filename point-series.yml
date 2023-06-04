@@ -1,0 +1,48 @@
+categories:
+  - name: Junior Women
+    sex: Female
+    maxAge: 18
+  - name: U23 Women
+    sex: Female
+    maxAge: 22
+  - name: Senior Women (23-34)
+    sex: Female
+    maxAge: 34
+  - name: Master Women (35-49)
+    sex: Female
+    maxAge: 49
+  - name: Golden Master Women (50-59)
+    sex: Female
+    maxAge: 59
+  - name: Golden Master Women (60-69)
+    sex: Female
+    maxAge: 69
+  - name: Golden Master Women (70+)
+    sex: Female
+    maxAge: 99
+  - name: Junior Men
+    sex: Male
+    maxAge: 18
+  - name: U23 Men
+    sex: Male
+    maxAge: 22
+  - name: Senior Men (23-34)
+    sex: Male
+    maxAge: 34
+  - name: Master Men (35-49)
+    sex: Male
+    maxAge: 49
+  - name: Golden Master Men (50-59)
+    sex: Male
+    maxAge: 59
+  - name: Golden Master Men (60-69)
+    sex: Male
+    maxAge: 69
+  - name: Golden Master Men (70+)
+    sex: Male
+    maxAge: 99
+
+events:
+  - name: Castle to Hanauma Bay
+  - name: Pineapple Sprint
+  - name: Makaha Time Trial

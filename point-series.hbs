@@ -16,28 +16,70 @@ head: |
     Beginning this year we are bringing back an old tradition with a new twist: the Best All 'Round Point Series.
   </p>
   <p>
-    For each participating event<sup><a href="#participating_events">*</a></sup> that racers compete in, they will be awarded points based on finishing order within their <strong>race category</strong> (see table below). Note that all riders who <strong>start</strong> are given at least one point. At the end of the year we will tally up the points all riders based on their <strong>age group</strong>, and award prizes to the top point scorers. <em>The more you race, the better your chances!</em> In addition to the prizes, all participants will receive 2023 race season T-Shirt and possibly other <abbr about="Stuff We All Get">SWAG</abbr> (assuming you respond to our end of season survey with your T-shirt size and attend our end of season gathering, or provide a mailing address).
+    For each participating event<sup><a href="#participating_events">*</a></sup> that racers compete in, they will be
+    awarded points based on finishing order within their <strong>race category</strong> (see table below). Note that all
+    riders who <strong>start</strong> are given at least one point. At the end of the year we will tally up the points
+    all riders based on their <strong>age group</strong>, and award prizes to the top point scorers. <em>The more you
+    race, the better your chances!</em> In addition to the prizes, all participants will receive 2023 race season
+    T-Shirt and possibly other <abbr about="Stuff We All Get">SWAG</abbr> (assuming you respond to our end of season
+    survey with your T-shirt size and attend our end of season gathering, or provide a mailing address).
   </p>
   <p>
     Questions? Contact <a href="mailto:paul@asbra.org">Paul Wheeler</a>.
   </p>
 
-  <section id="points_allotment">
-  <h2>Points Allotment</h2>
+  <section id="categories">
+    <h2>Categories</h2>
+    <p>While points in each race are based on finishing order in the race category entered. The end-of year rankings are
+      based on a standardized set of categories:</p>
+    <table>
+      <tbody>
+      {{#each categories }}
+        <tr>
+          <td>{{name}}</td>
+        </tr>
+      {{/each}}
+      </tbody>
+    </table>
+  </section>
 
-  <table>
-    <thead>
-    <tr><td>Place</td><td>Points</td></tr>
-    </thead>
-    <tbody>
-    <tr><td>1st</td><td>13</td></tr>
-    <tr><td>2nd</td><td>8</td></tr>
-    <tr><td>3rd</td><td>5</td></tr>
-    <tr><td>4th</td><td>3</td></tr>
-    <tr><td>5th</td><td>2</td></tr>
-    <tr><td>6th or lower</td><td>1</td></tr>
-    </tbody>
-  </table>
+  <section id="points_allotment">
+    <h2>Points Allotment</h2>
+
+    <table>
+      <thead>
+      <tr>
+        <td>Place</td>
+        <td>Points</td>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+        <td>1st</td>
+        <td>13</td>
+      </tr>
+      <tr>
+        <td>2nd</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <td>3rd</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>4th</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>5th</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>6th or lower</td>
+        <td>1</td>
+      </tr>
+      </tbody>
+    </table>
   </section>
 
   <section id="participating_events">
@@ -53,7 +95,8 @@ head: |
       <li>Olomana Road Race</li>
       <li>Dick Evans Memorial Road Race</li>
     </ul>
-    <p>More events, including some inter-island races, may still be added once we can confirm with the race directors.</p>
+    <p>More events, including some inter-island races, may still be added once we can confirm with the race
+      directors.</p>
   </section>
 </section>
 
@@ -66,11 +109,80 @@ head: |
 <section id="standings">
   <h1>Standings</h1>
 
-  <p>Coming Soon</p>
+  <details class="results overall-results">
+    <summary>Overall - Women</summary>
+
+    <table>
+      <tbody>
+      {{#sorted-each ($filter-by seriesPoints "Sex" "Female") "Points_Total" "desc" "Race_Age" "desc" "Gender" "asc"}}
+        <tr>
+          <td>{{Full_Name}}</td>
+          <td>{{Points_Total}}</td>
+        </tr>
+      {{/sorted-each}}
+      </tbody>
+    </table>
+  </details>
+
+  <details class="results overall-results">
+    <summary>Overall - Men</summary>
+
+    <table>
+      <tbody>
+      {{#sorted-each ($filter-by seriesPoints "Sex" "Male") "Points_Total" "desc" "Race_Age" "desc" "Gender" "asc"}}
+        <tr>
+          <td>{{Full_Name}}</td>
+          <td>{{Points_Total}}</td>
+        </tr>
+      {{/sorted-each}}
+      </tbody>
+    </table>
+  </details>
+
+  {{#each categories}}
+    {{#if ($not-empty ($filter-by ../seriesPoints "Series_Category" name ))}}
+      <details class="results category-results">
+        <summary>{{name}}</summary>
+
+        <table>
+          <tbody>
+          {{#sorted-each ($filter-by ../seriesPoints "Series_Category" name ) "Points_Total" "desc"}}
+
+            <tr>
+              <td>{{Full_Name}}</td>
+              <td>{{Points_Total}}</td>
+            </tr>
+          {{/sorted-each}}
+          </tbody>
+        </table>
+      </details>
+    {{/if}}
+  {{/each}}
 </section>
 
 <section id="event_results">
   <h1>Event Results</h1>
 
-  <p>Coming Soon</p>
+  {{#each seriesEventResults }}
+    <details class="results">
+      <summary>{{name}}</summary>
+
+      <table>
+        <tbody>
+        {{#each ($group-by results "Category") }}
+          <tr class="result-category-header table-header">
+            <td colspan="3">{{key}}</td>
+          </tr>
+          {{#each values}}
+            <tr>
+              <td>{{Place}}</td>
+              <td>{{Full_Name}}</td>
+              <td>{{Points}}</td>
+            </tr>
+          {{/each}}
+        {{/each}}
+        </tbody>
+      </table>
+    </details>
+  {{/each}}
 </section>

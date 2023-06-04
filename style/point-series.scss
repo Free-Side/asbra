@@ -5,17 +5,40 @@ dynamicPermalink: false
 
 @import '_theme.scss';
 
-#points_allotment table {
+table {
   border-collapse: collapse;
 
-  thead {
+  thead, tr.table-header {
+    font-family: $heading_font;
     font-weight: bold;
-    background-color: lightgray;
+    background-color: darken($light_background, 10%);
+  }
+
+  tbody > tr {
+    background-color: $light_background;
   }
 
   td {
-    border: 1px solid gray;
-    padding: 2px 9px;
+    border: 1.5px solid $dark_body_text;
+    padding: 0.2em 0.5em;
+  }
+}
+
+details.results {
+  margin-top: 0.5em;
+  padding-left: 0.5em;
+  padding-bottom: 0.5em;
+  background-color:darken($light_background, 10%);
+  border-left: 2px solid darken($light_background, 20%);
+
+  summary {
+    font-family: $heading_font;
+    margin-bottom: 0.5em;
+    cursor: pointer;
+  }
+
+  > :not(:first-child) {
+    margin-left: 2em;
   }
 }
 

@@ -159,6 +159,13 @@ main > section {
     font-family: $title_font;
     font-weight: normal;
   }
+
+  // nested section styling
+  > section {
+    h2, h3, h4, h5, h6 {
+      font-family: $heading_font;
+    }
+  }
 }
 
 main > section > *:not(:first-child), footer {
