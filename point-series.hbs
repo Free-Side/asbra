@@ -163,9 +163,11 @@ head: |
 <section id="event_results">
   <h1>Event Results</h1>
 
-  {{#each seriesEventResults }}
+  {{#each events }}
     <details class="results">
       <summary>{{name}}</summary>
+
+      {{#with ($get ../seriesEventResults name)}}
 
       <table>
         <tbody>
@@ -173,16 +175,17 @@ head: |
           <tr class="result-category-header table-header">
             <td colspan="3">{{key}}</td>
           </tr>
-          {{#each values}}
+          {{#sorted-each values "Place" "asc"}}
             <tr>
               <td>{{Place}}</td>
               <td>{{Full_Name}}</td>
               <td>{{Points}}</td>
             </tr>
-          {{/each}}
+          {{/sorted-each}}
         {{/each}}
         </tbody>
       </table>
+      {{/with}}
     </details>
   {{/each}}
 </section>

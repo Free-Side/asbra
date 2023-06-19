@@ -43,6 +43,7 @@ categories:
     maxAge: 99
 
 events:
+  - name: Tantalus TT
   - name: Castle to Hanauma Bay
   - name: Pineapple Sprint
   - name: Makaha Time Trial

@@ -24,10 +24,11 @@ module.exports = function () {
       .filter(k => k.endsWith('_Place'))
       .map(k => k.slice(0, -6));
 
-  let output = [];
+  let output = {};
   for (const e of events) {
-    output.push({
-      'name': e.replaceAll('_', ' '),
+    const name = e.replaceAll('_', ' ');
+    output[name] = {
+      'name': name,
       'results':
         allResults
           .filter(r => {
@@ -40,7 +41,7 @@ module.exports = function () {
             Place: r[e + '_Place'],
             Points: r[e + '_Points'],
           }))
-    });
+    };
   }
 
   return output;

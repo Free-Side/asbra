@@ -174,6 +174,14 @@ module.exports = function (eleventyConfig) {
   );
 
   eleventyConfig.addHandlebarsHelper(
+    "$get",
+    (obj, key) => {
+      console.log('trying to get ' + key + ' from ' + obj);
+      return obj[key];
+    }
+  );
+
+  eleventyConfig.addHandlebarsHelper(
     "$coalesce",
     function () {
       let ary = Array.from(arguments).slice(0, -1);
