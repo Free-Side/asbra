@@ -119,13 +119,15 @@ sections:
   - section_title: July
     events:
       - name: 'Kapolei Criterium #1'
+        description: Brought to you by <a href="https://freakytikihawaii.com/" target="_blank">Freaky Tiki Tropical Optical</a> and <a href="https://kalapawaimarket.com/" target="_blank">Kalapawai Cafe & Deli</a>, criteriums are returning to Kapolei! These to Sunday morning criteriums are beginner friendly and will be run in multiple heats ranging from 25 to 50 minutes per event. Registration fees are as low as we can get them thanks to generous sponsorship from Freaky Tiki and Kalapawai. Discounts are available for those participants who register for both events. Additional support provided by Tradewind Cycling Team and Hawaii Triathlon Center.
         id: crit-1
         date: 7/09/2023
         time: 7:00 a.m.
         location: Kapolei
         island: Oahu
-        organizer: ASBRA
-        link:
+        organizer: Outta Bounds Hawaii & Wolfpack HI
+        link: https://asbra.org/events/kapolei-crits/
+        registration: https://www.bikereg.com/kapolei-crits/
         logo:
       - name: 'Kapolei Criterium #2'
         id: crit-2
@@ -133,8 +135,9 @@ sections:
         time: 7:00 a.m.
         location: Kapolei
         island: Oahu
-        organizer: ASBRA
-        link:
+        organizer: Outta Bounds Hawaii & Wolfpack HI
+        link: https://asbra.org/events/kapolei-crits/
+        registration: https://www.bikereg.com/kapolei-crits/
         logo:
   - section_title: August
     events:

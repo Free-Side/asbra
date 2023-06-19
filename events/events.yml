@@ -10,7 +10,7 @@ events:
       - heading: Parking
         content: 'Please find legal and respectful parking. Many of the local parks including Mokulē‘ia Beach Park have ample parking.'
       - heading: Race Day Schedule
-        content: >-
+        content: |-
           <p>Saturday March 20th 2021
           <ul>
              <li>6:00 A.M. Challenge Window Opens</li>
@@ -19,11 +19,11 @@ events:
              <li>5:00 P.M. Pau Hana and Leaderboard Announcement via Google Meet (link to be posted).</li>
           </ul>
       - heading: Contact
-        content: >-
+        content: |-
           This event is is being organized by <a href="mailto:paul@asbra.org">Paul Wheeler</a> in cooperation with Hawaii Triathlon Center. For any questions or concerns please contact me at (808) 600-3598.
   - name: malaekahana-tt
     title: 2021 Mālaekahana Virtual TT
-    description: >-
+    description: |-
       <p>The Mālaekahana Virtual TT is a virtual challenge to ride the one-way Mālaekahana Time Trial route on the North Shore of Oahu. This is the same route that was used in 2020. The course starts just past the second Ahuimanu traffic light in Kaneohe and finishes a short distance beyond Turtle Bay. See the <a href="https://www.strava.com/segments/24367291">Virtual [Malaekahana] TT strava segment</a> for details. As a virtual challenge, this ride can be completed any time between 6:00 a.m. on Saturday May 1st and 3:00 p.m. on Sunday, May 9th. You are welcome to ride the course multiple times during this 8 day time window and your best time will count. To participate, register using the link below and you will receive instructions for submitting your results via Strava or GPX file upload. This ride is unsupported, so please ride safely, observing all rules of the road, and watching for cars and pedestrians, especially at the traffic signal in Hahuku. This challenge is sponsored by <a href="https://www.hitricenter.com/" target="_blank">Hawaii Triathlon Center</a> in Kailua!</p>
       <p>FYI: It's pronounced "Maa-lie-ka-ha-na" but the "lie" is slightly softened as "la-eh" smushed together.</p>
     registrationUrl:  https://www.bikereg.com/malaekahana-2021
@@ -33,6 +33,33 @@ events:
       - heading: Parking
         content: '<strong>Please do not park on the shoulder of Kahekili.</strong> There are plenty of big parking lots not too far away. Please be considerate of residents and/or any rules set forth for where you decide to park. Be especially mindful if it is early in the morning. We want to encourage support from the community, not cause trouble.'
       - heading: Contact
-        content: >-
+        content: |-
           This event is is being organized by <a href="mailto:paul@asbra.org">Paul Wheeler</a> in cooperation with Hawaii Triathlon Center. For any questions or concerns please contact me at (808) 600-3598.
-
+  - name: kapolei-crits
+    title: Kapolei Criterium Series
+    description: |-
+      <h3>Brought to you by Freaky Tiki Sunglasses and Kalapawai Cafe</h3>
+      <h4>Organized by Outta Bounds Hawaii and Wolfpack HI in partnership with Tradewind Cycling Team and Hawaii Triathlon Center</h4>
+      <ul>
+        <li>Sunday, July 9th, 2023</li>
+        <li>Sunday, July 23rd, 2023</li>
+      </ul>
+      <p>
+        <strong>The Kapolei Crit Series is back!</strong> These two criteriums will take place on the mornings of the second and third Sunday of July. We will run multiple heats on at 0.8 mile course along Kapolei Pkwy between Kamaaha Ave and Manawai St. This beginner friendly crit is open to riders of all skill levels on a course that will be completely closed to car traffic.
+      </p>
+    registrationUrl: https://www.bikereg.com/kapolei-crits
+    sections:
+      - heading: Schedule
+        content: |
+          <ul>
+            <li>Race day registration and packet pickup available until 6:30 a.m.</li>
+            <li>First heat at 7:10 a.m.</li>
+            <li>Heat schedule to be announced</li>
+            <li>Event ends at or before 11:00 a.m.</li>
+          </ul>
+          <em>Note: race director reserves the right to combine heats if the schedule demands it.</em>
+      - heading: Awards
+        content: The award ceremony will be held after the event at Kalapawai Cafe & Deli
+      - heading: Contact
+        content: |-
+          This event is is being organized by <a href="mailto:josh@asbra.org">Josh Gallardo (Wolfpack HI)</a> in partnership with Outta Bounds Hawaii, Tradewind Cycling Team, and Hawaii Triatlon Center. For any questions or concerns please contact us at (808) 724-8248.
