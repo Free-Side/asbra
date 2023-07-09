@@ -103,7 +103,18 @@ head: |
 <section id="sponsors">
   <h1>Sponsors</h1>
 
-  <p>To Be Announced...</p>
+  <div class="friend-logos">
+    {{#each sponsors}}
+      <a href="{{link}}" class="friend-link" target="_blank">
+        <figure class="friend-tile">
+          <div>
+            <img src="{{logo}}" width="{{logoWidth}}" height="{{logoHeight}}" alt="{{name}}" />
+          </div>
+          <figcaption>{{name}}</figcaption>
+        </figure>
+      </a>
+    {{/each}}
+  </div>
 </section>
 
 <section id="standings">
@@ -114,7 +125,7 @@ head: |
 
     <table>
       <tbody>
-      {{#sorted-each ($filter-by seriesPoints "Sex" "Female") "Points_Total" "desc" "Race_Age" "desc" "Gender" "asc"}}
+      {{#sorted-each ($filter-by seriesPoints "Gender" "Female") "Points_Total" "desc" "Race_Age" "desc" "Gender" "asc"}}
         <tr>
           <td>{{Full_Name}}</td>
           <td>{{Points_Total}}</td>
@@ -129,7 +140,7 @@ head: |
 
     <table>
       <tbody>
-      {{#sorted-each ($filter-by seriesPoints "Sex" "Male") "Points_Total" "desc" "Race_Age" "desc" "Gender" "asc"}}
+      {{#sorted-each ($filter-by seriesPoints "Gender" "Male") "Points_Total" "desc" "Race_Age" "desc" "Gender" "asc"}}
         <tr>
           <td>{{Full_Name}}</td>
           <td>{{Points_Total}}</td>

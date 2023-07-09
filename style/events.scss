@@ -33,3 +33,38 @@ main > section > * {
     font-family: $heading_font;
   }
 }
+
+#crit_schedule_table {
+  display: flex;
+  flex-direction: row;
+
+  .col-header {
+    overflow: hidden;
+    font-weight: bold;
+  }
+
+  #crit_times, #crit_categories, #crit_durations {
+    display: grid;
+  }
+
+  #crit_times {
+    grid-column: 1;
+    grid-template-rows: auto 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+
+  #crit_categories {
+    flex-grow: 1;
+    grid-column: 2;
+    grid-template-rows: auto 6fr 7fr 9fr 11fr 7fr 6fr 2fr;
+  }
+
+  #crit_durations {
+    grid-column: 3;
+    grid-template-rows: auto 6fr 7fr 9fr 11fr 7fr 6fr 2fr;
+  }
+
+  .crit-schedule-col > div {
+    border: 2px solid lightgray;
+    padding: 2px 6px;
+  }
+}
