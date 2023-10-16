@@ -235,23 +235,4 @@ svg.inline-icon {
 
     font-size: 130%;
   }
-
-  #sponsors {
-    > div.friend-logos {
-      max-width: calc(50vw + 120px);
-      margin-left: auto;
-      margin-right: auto;
-
-      figure.friend-tile {
-        min-width: 200px;
-
-        figcaption {
-          font-size: 80%;
-        }
-      }
-    }
-
-    page-break-before: always;
-    font-size: 120%;
-  }
 }

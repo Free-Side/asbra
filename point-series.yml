@@ -43,6 +43,12 @@ categories:
     maxAge: 99
 
 events:
+  - name: Olomana RR
+  - name: "Kapolei Crit #2"
+  - name: "Kapolei Crit #1"
+  - name: Pineapple Hill RR
+  - name: Malaekahana TT
+  - name: Kualoa Team TT
   - name: Tantalus TT
   - name: Castle to Hanauma Bay
   - name: Pineapple Sprint

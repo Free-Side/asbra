@@ -19,3 +19,18 @@ sponsors:
     logoWidth: 400
     logoHeight: 195
     link: https://www.bikefactoryhawaii.com/
+  - name: Surveyors Supply Company
+    link: https://www.surveyorshawaii.com/
+    logo: /images/sponsors/SSCI%20Logo.png
+    logoWidth: 400
+    logoHeight: 240
+  - name: Freaky Tiki Tropical Optical
+    link: https://freakytikihawaii.com/
+    logo: /images/sponsors/Freaky%20Tiki%20Hawaii%20Logo.png
+    logoWidth: 400
+    logoHeight: 248
+  - name: Equitable Advisors - Atomman Kimm
+    link: https://www1.equitable.com/equitable-advisors
+    logo: /images/sponsors/Equitable%20Advisors.png
+    logoWidth: 400
+    logoHeights: 240

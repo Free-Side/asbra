@@ -43,24 +43,30 @@ main > section > * {
     font-weight: bold;
   }
 
-  #crit_times, #crit_categories, #crit_durations {
+  #crit_times, #crit_categories, #crit_durations, #crit_starts {
     display: grid;
   }
 
   #crit_times {
     grid-column: 1;
-    grid-template-rows: auto 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   }
 
   #crit_categories {
     flex-grow: 1;
     grid-column: 2;
-    grid-template-rows: auto 6fr 7fr 9fr 11fr 7fr 6fr 2fr;
+    // Heats: 50m, 50m, 60m, 50m, 30m
+    grid-template-rows: auto 5fr 6fr 3fr 6fr 6fr 1fr;
+  }
+
+  #crit_starts {
+    grid-column: 3;
+    grid-template-rows: auto 5fr 6fr 3fr 6fr 6fr 1fr;
   }
 
   #crit_durations {
-    grid-column: 3;
-    grid-template-rows: auto 6fr 7fr 9fr 11fr 7fr 6fr 2fr;
+    grid-column: 4;
+    grid-template-rows: auto 5fr 6fr 3fr 6fr 6fr 1fr;
   }
 
   .crit-schedule-col > div {

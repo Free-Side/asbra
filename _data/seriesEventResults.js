@@ -33,7 +33,7 @@ module.exports = function () {
         allResults
           .filter(r => {
             const place = r[e + '_Place'];
-            return place != null && place !== '-';
+            return place != null && place !== '-' && place !== '';
           })
           .map(r => ({
             Full_Name: r['Full_Name'],

@@ -57,10 +57,11 @@ events:
             <li>Race day registration and packet pickup available until 6:30 a.m.</li>
             <li>Pre-race briefing and final heat schedule announcement 6:45 a.m.</li>
             <li>First heat at 7:00 a.m.</li>
-            <li>Event ends at or before 11:00 a.m.</li>
+            <li>Event ends at or before 11:30 a.m.</li>
             <li>Award ceremony at Kalapawai after the final race.</li>
           </ul>
           <h3>Preliminary Heat Schedule (subject to change!)</h3>
+          <strong>NOTE: Updated for July 9th Race. Subject to change for July 23rd.</strong>
           <div id="crit_schedule_table">
             <div id="crit_times" class="crit-schedule-col">
               <div class="col-header">Time</div>
@@ -72,24 +73,31 @@ events:
               <div>9:30 a.m.</div>
               <div>10:00 a.m.</div>
               <div>10:30 a.m.</div>
+              <div>11:00 a.m.</div>
             </div>
             <div id="crit_categories" class="crit-schedule-col">
               <div class="col-header">Categories</div>
-              <div class="crit-heat1">Beginner: Cat 5; U23, 23-35, 35-49</div>
-              <div class="crit-heat2">Golden Masters: All Cats; 50-59, 60-69, 70+</div>
-              <div class="crit-heat3">Intermediate: Cat 4; U2, 23-35, 35-49, 50-59, 60+</div>
-              <div class="crit-heat4">Elite: Cat 1/2/3; 23-35, 35-49, 50-59, 60+</div>
-              <div class="crit-heat5">Women: All Cats; All Ages (Other categories are Open<sup>*</sup>)</div>
+              <div class="crit-heat1">Beginner: Cat 5; All Ages</div>
+              <div class="crit-heat3">Intermediate: Cat 4/5; U23, 23-35, 35-49, 50-59, 60+</div>
               <div class="crit-heat6">Kids/Juniors; U13, 13-15, 16-18 </div>
+              <div class="crit-heat5">Women: All Cats; All Ages (Other categories are Open<sup>*</sup>)</div>
+              <div class="crit-heat4">Elite: Cat 1/2/3; 23-35, 35-49, 50+</div>
+            </div>
+            <div id="crit_starts" class="crit-schedule-col">
+              <div class="col-header">Est. Start Time</div>
+              <div class="crit-heat1">7:00 a.m.</div>
+              <div class="crit-heat3">7:50 a.m.</div>
+              <div class="crit-heat4">8:50 a.m.</div>
+              <div class="crit-heat5">9:20 a.m.</div>
+              <div class="crit-heat6">10:20 a.m.</div>
             </div>
             <div id="crit_durations" class="crit-schedule-col">
               <div class="col-header">Duration</div>
-              <div class="crit-heat1">25 + 1 Lap</div>
-              <div class="crit-heat2">30 + 1 Lap</div>
-              <div class="crit-heat3">40 + 1 Lap</div>
-              <div class="crit-heat4">50 + 1 Lap</div>
-              <div class="crit-heat5">30 + 1 Lap</div>
-              <div class="crit-heat6">25 + 1 Lap</div>
+              <div class="crit-heat1">40 + 1 Lap</div>
+              <div class="crit-heat3">50 + 1 Lap</div>
+              <div class="crit-heat4">20 + 1 Lap</div>
+              <div class="crit-heat5">50 + 1 Lap</div>
+              <div class="crit-heat6">50 + 1 Lap</div>
             </div>
           </div>
           <em><sup>*</sup>Women may elect on race day to either race in the separate women's heat, or in the Open heat for their age group and category.</em><br />

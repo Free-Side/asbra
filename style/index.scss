@@ -105,4 +105,34 @@ a.donate-button {
       display: none;
     }
   }
+
+  #sponsors {
+    > div.friend-logos {
+      max-width: 90vw;
+      margin-left: auto;
+      margin-right: auto;
+
+      a.friend-link {
+        border-width: 4px;
+      }
+
+      figure.friend-tile {
+        width: 15vw;
+        min-width: 200px;
+
+        figcaption {
+          margin-top: 10px;
+          font-size: 18px;
+          font-family: "Titillium Web", "Arial Black", Arial, sans-serif;
+        }
+      }
+    }
+
+    page-break-before: always;
+    font-size: 120%;
+
+    > p {
+      page-break-inside: avoid;
+    }
+  }
 }

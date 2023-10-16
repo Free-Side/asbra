@@ -92,6 +92,7 @@ head: |
       <li>Kualoa Team TT</li>
       <li>Malaekahana TT</li>
       <li>Pineapple Hill Road Race</li>
+      <li>Kapolei Criterium Series</li>
       <li>Olomana Road Race</li>
       <li>Dick Evans Memorial Road Race</li>
     </ul>
@@ -186,7 +187,7 @@ head: |
           <tr class="result-category-header table-header">
             <td colspan="3">{{key}}</td>
           </tr>
-          {{#sorted-each values "Place" "asc"}}
+          {{#sorted-each values "Place" "num_asc"}}
             <tr>
               <td>{{Place}}</td>
               <td>{{Full_Name}}</td>

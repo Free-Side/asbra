@@ -47,10 +47,61 @@ module.exports = function (eleventyConfig) {
   }
 
   function makeCompareFn(key, dir, ...rest) {
-    const dirCmp =
-      (dir && dir.toLowerCase() === 'desc') ?
-        (v1, v2) => cmp(v2 && v2[key], v1 && v1[key]) :
-        (v1, v2) => cmp(v1 && v1[key], v2 && v2[key]);
+    let dirCmp;
+
+    switch (dir) {
+      case 'desc':
+        dirCmp = (v1, v2) => cmp(v2 && v2[key], v1 && v1[key]);
+        break;
+      case 'num_desc':
+        dirCmp = (v1, v2) => {
+          let n1 = Number(v1 && v1[key]);
+          let n2 = Number(v2 && v2[key]);
+          if (!Number.isNaN(n1)) {
+            if (!Number.isNaN(n2)) {
+              // Both numbers
+              return cmp(n2, n1);
+            } else {
+              // Numbers first
+              return -1;
+            }
+          } else if (!Number.isNaN(n2)) {
+            // Numbers first
+            return 1;
+          } else {
+            // Both not numbers
+            return cmp(v2 && v2[key], v1 && v1[key]);
+          }
+        };
+
+        break;
+      case 'num_asc':
+        dirCmp = (v1, v2) => {
+          let n1 = Number(v1 && v1[key]);
+          let n2 = Number(v2 && v2[key]);
+          if (!Number.isNaN(n1)) {
+            if (!Number.isNaN(n2)) {
+              // Both numbers
+              return cmp(n1, n2);
+            } else {
+              // Numbers first
+              return -1;
+            }
+          } else if (!Number.isNaN(n2)) {
+            // Numbers first
+            return 1;
+          } else {
+            // Both not numbers
+            return cmp(v1 && v1[key], v2 && v2[key]);
+          }
+        };
+
+        break;
+      case 'asc':
+      default:
+        dirCmp = (v1, v2) => cmp(v1 && v1[key], v2 && v2[key])
+        break;
+    }
 
     if (rest?.length) {
       const restCmp = makeCompareFn(...rest);
