@@ -58,3 +58,25 @@ details.results {
     }
   }
 }
+
+.category-results > table {
+  float: left;
+}
+
+.points-chart{
+  position: relative;
+  float: right;
+  overflow-y: hidden;
+  margin-right: 100px;
+  max-width: calc(100% - 120px);
+
+  .tooltip {
+    position: absolute;
+    border: 1px solid gray;
+    border-radius: 4px;
+    background-color: lightgray;
+    padding: 5px;
+    margin-left: 10px;
+    transform: translateY(-50%);
+  }
+}

@@ -1,250 +1,291 @@
-Full Name,Gender,Race Age,Series Category,Makaha Time Trial Category,Makaha Time Trial Place,Makaha Time Trial Points,Pineapple Sprint Category,Pineapple Sprint Place,Pineapple Sprint Points,Castle to Hanauma Bay Category,Castle to Hanauma Bay Place,Castle to Hanauma Bay Points,Tantalus TT Category,Tantalus TT Place,Tantalus TT Points,Kualoa Team TT Category,Kualoa Team TT Team,Kualoa Team TT Place,Kualoa Team TT Points,Malaekahana TT Category,Malaekahana TT Place,Malaekahana TT Points,Pineapple Hill RR Category,Pineapple Hill RR Place,Pineapple Hill RR Points,Kapolei Crit #1 Category,Kapolei Crit #1 Place,Kapolei Crit #1 Points,Kapolei Crit #2 Category,Kapolei Crit #2 Place,Kapolei Crit #2 Points,Olomana RR Category,Olomana RR Place,Olomana RR Points,DEMRR Category,DEMRR Place,DEMRR Points,Points Total
-Kai Vondohlen,Male,15,Junior Men,Male Junior 14-18 - Male,1,13,Juniors 15-18 Cat 4-5 - Male,1,13,,-,0,,-,0,,,-,0,14-18 Male,1,13,,-,0,"Men/Open, Cat 4/5, Senior (23-34)",1,21,"Men/Open, Cat 4/5, Senior (23-34)",1,21,,-,0,,,,81
-Maika Eldredge,Male,14,Junior Men,Male Junior 14-18 - Male,2,8,,-,0,,-,0,Juniors Men U15 TT - Male,1,13,,,-,0,U14 Male,1,13,,-,0,,-,0,"Men/Open, Cat 4/5, Senior (23-34)",3,8,Juniors Men Cat 5,1,13,,,,55
-Aiden Vondohlen,Male,14,Junior Men,Male Junior U13 - Male,1,13,Juniors 10-14 Cat 4-5 - Male,1,13,,-,0,,-,0,,,-,0,U14 Male,2,8,,-,0,Kids (13-15),1,13,"Men/Open, Cat 5, Senior (23-49)",2,21,,-,0,,,,68
-Tyson Parker,Male,12,Junior Men,Male Junior U13 - Male,2,8,Juniors 10-14 Cat 4-5 - Male,2,8,,-,0,Juniors Men U15 TT - Male,2,8,,,-,0,U14 Male,3,5,,-,0,,-,0,Kids (U13),1,13,Juniors Men Cat 5,2,8,,,,50
-Elizabeth Gillaspie,Female,15,Junior Women,Female Junior 14-18 - Female,1,13,Juniors 15-18 Cat 4-5 - Female,1,13,,-,0,Juniors Women 15 - 18 TT - Female,1,13,,,-,0,14-18 Female,1,13,,-,0,Kids (13-15),3,5,Kids (13-15),3,5,Jun Women Cat 1/2/3/4/5,1,13,,,,75
-Titan Kane,Male,13,Junior Men,Male Junior U13 - Male,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,5
-Quinn Regula,Female,12,Junior Women,Female Junior U13 - Female,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,Kids (U13),2,8,Jun Women Cat 1/2/3/4/5,2,8,,,,29
-Alex Howell,Female,14,Junior Women,Female Junior U13 - Female,2,8,,-,0,,-,0,,-,0,,,-,0,U14 Female,1,13,,-,0,,-,0,,-,0,,-,0,,,,21
-Joseph Kim,Male,25,Senior Men (23-34),Male 19 - 29 - Male,1,13,Senior Men 23-34 Cat 1-4 - Male,-,0,,-,0,Senior Men 23-34 TT - Male,1,13,Mens (100-200),The Four Merckx-Men,1,4,,-,0,"M, Cat 1/2/3, Senior (23-34)",1,13,"Men/Open, Cat 1/2/3, Senior (23-34)",1,13,"Men/Open, Cat 1/2/3, Senior (23-34)",-,0,Open Men Cat 1/2/3/4,1,13,,,,69
-Amelia Joca,Female,12,Junior Women,Female Junior U13 - Female,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Jun Women Cat 1/2/3/4/5,4,3,,,,8
-Christian Perreira,Male,47,Master Men (35-49),Male 46 - 60 - Male,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,13
-Will Mather,Male,45,Master Men (35-49),Male 30 - 45 - Male,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 1/2/3, Master (35-49)",5,2,,-,0,,-,0,,-,0,,,,15
-Tyler Tsubota,Male,31,Senior Men (23-34),Male 30 - 45 - Male,2,8,,-,0,,-,0,,-,0,,,-,0,30-45 Male,2,8,,-,0,,-,0,,-,0,,-,0,,,,16
-Nicolas Escobar,Male,32,Senior Men (23-34),Male 30 - 45 - Male,3,5,Senior Men 23-34 Cat 1-4 - Male,3,5,,-,0,Senior Men 23-34 TT - Male,3,5,Mens (100-200),Spam Stampede,3,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,17
-Ray Brust,Male,62,Golden Master Men (60-69),Male 61 - 99 - Male,1,13,Golden Mstr Men 60-69 Cat 1-5 - Male,-,0,"Men, Golden Master (60-69)",1,13,Golden Master Men 60-69 TT - Male,1,13,Mens (200+),BME Racing,1,4,61-99 Male,1,13,"M, Cat 1/2/3, Golden Master (60+)",1,13,"Men/Open, Cat 1/2/3, Golden Master (50+)",1,13,"Men/Open, Cat 1/2/3, Golden Master (50+)",1,13,Open Men Cat 1/2/3/4,3,5,,,,100
-Bjorn Marsen,Male,53,Golden Master Men (50-59),Male 46 - 60 - Male,2,8,Golden Mstr Men 50-59 Cat 1-5 - Male,2,8,,-,0,Golden Master Men 50-59 TT - Male,1,13,,,-,0,46-60 Male,1,13,"M, Cat 1/2/3, Golden Master (50-59)",2,8,,-,0,,-,0,Open Men Cat 1/2/3/4,9,1,,,,51
-Korey Tsubota,Male,32,Senior Men (23-34),Male 30 - 45 - Male,4,3,,-,0,,-,0,,-,0,,,-,0,30-45 Male,-,0,,-,0,,-,0,,-,0,,-,0,,,,3
-Joshua Sappington,Male,28,Senior Men (23-34),Male 19 - 29 - Male,2,8,,-,0,,-,0,,-,0,,,-,0,24-29 Male,1,13,,-,0,,-,0,,-,0,,-,0,,,,21
-Jason Drummond,Male,42,Master Men (35-49),Male 30 - 45 - Male,5,2,,-,0,,-,0,,-,0,,,-,0,30-45 Male,-,0,"M, Cat 4/5, Master (35-49)",2,8,"Men/Open, Cat 1/2/3, Master (35-49)",3,5,"Men/Open, Cat 1/2/3, Master (35-49)",1,13,Open Men Cat 1/2/3/4,7,1,,,,29
-Mike Robson,Male,52,Golden Master Men (50-59),Male Mercx (No TT Bikes) - Male,1,13,,-,0,,-,0,,-,0,Mens (100-200),The Four Merckx-Men,1,4,,-,0,"M, Cat 1/2/3, Golden Master (50-59)",-,0,,-,0,,-,0,,-,0,,,,17
-Jan Kunst,Male,48,Master Men (35-49),Male Mercx (No TT Bikes) - Male,2,8,Master Men 35-49 Cat 1-4 - Male,1,13,"Men, Master (35-49)",1,13,Master Men 35-49 TT - Male,2,8,Mens (100-200),The Four Merckx-Men,1,4,Mercx Male,1,13,"M, Cat 1/2/3, Master (35-49)",2,8,"Men/Open, Cat 1/2/3, Master (35-49)",4,3,,-,0,,-,0,,,,70
-Dan Burris,Male,63,Golden Master Men (60-69),Male 61 - 99 - Male,2,8,,-,0,,-,0,Golden Master Men 60-69 TT - Male,4,3,Mens (200+),Wolfpack New Golden Elite,3,2,61-99 Male,2,8,,-,0,,-,0,,-,0,,-,0,,,,21
-Carl Nethercutt,Male,35,Master Men (35-49),Male Mercx (No TT Bikes) - Male,3,5,Master Men 35-49 Cat 1-4 - Male,-,0,,-,0,Master Men 35-49 TT - Male,1,13,Mens (100-200),The Four Merckx-Men,1,4,,-,0,"M, Cat 1/2/3, Master (35-49)",1,13,,-,0,,-,0,Open Men Cat 1/2/3/4,2,8,,,,43
-Timothy Howell,Male,45,Master Men (35-49),Male 30 - 45 - Male,6,1,Master Men 35-49 Cat 1-4 - Male,5,2,,-,0,,-,0,,,-,0,30-45 Male,3,5,"M, Cat 4/5, Master (35-49)",1,13,,-,0,,-,0,Open Men Cat 1/2/3/4,5,2,,,,23
-Matthew Chun,Male,38,Master Men (35-49),Male 30 - 45 - Male,7,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Michael Gannon,Male,30,Senior Men (23-34),Male 30 - 45 - Male,8,1,,-,0,,-,0,,-,0,,,-,0,30-45 Male,4,3,,-,0,,-,0,,-,0,,-,0,,,,4
-Stephen Hopkins,Male,39,Master Men (35-49),Male Mercx (No TT Bikes) - Male,4,3,Master Men 35-49 Cat 1-4 - Male,2,8,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 1/2/3, Senior (23-34)",5,2,"Men/Open, Cat 1/2/3, Master (35-49)",3,5,,-,0,,,,18
-Ian Rothwell,Male,32,Senior Men (23-34),Male Mercx (No TT Bikes) - Male,5,2,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,1,13,,-,0,Clydesdale 200 lbs+ 23+ TT - Male,1,13,,,-,0,,-,0,"M, Cat 4/5, Senior (23-34)",1,13,"Men/Open, Cat 1/2/3, Senior (23-34)",2,8,,-,0,Open Men Cat 1/2/3/4,10,1,,,,50
-Tony Kotas,Male,54,Golden Master Men (50-59),Male 46 - 60 - Male,3,5,,-,0,,-,0,,-,0,,,-,0,46-60 Male,3,5,,-,0,,-,0,,-,0,,-,0,,,,10
-Sadie Samson,Female,10,Junior Women,Female Junior U13 - Female,4,3,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,3
-Joshua Ludwig,Male,46,Master Men (35-49),Male 46 - 60 - Male,4,3,,-,0,"Men, Master (35-49)",3,5,,-,0,Mens (100-200),Bald Boyz 4 Life,5,1,46-60 Male,2,8,,-,0,"Men/Open, Cat 4/5, Master (35-49)",9,1,"Men/Open, Cat 4/5, Master (35-49)",4,3,,-,0,,,,21
-Ashley Maginot,Female,30,Senior Women (23-34),Female 30 - 45 - Female,1,13,Women 23-49 Cat 1-5 - Female,-,0,,-,0,,-,0,,,-,0,30-45 Female,1,13,,-,0,,-,0,,-,0,,-,0,,,,26
-Josh Gallardo,Male,42,Master Men (35-49),Male Mercx (No TT Bikes) - Male,6,1,,-,0,,-,0,,-,0,Mens (100-200),Zone 2? - Wolfpack,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,3
-Kevin Kawainui,Male,62,Golden Master Men (60-69),Male Mercx (No TT Bikes) - Male,7,1,Golden Mstr Men 60-69 Cat 1-5 - Male,1,13,,-,0,,-,0,Mens (200+),BME Racing,1,4,,-,0,"M, Cat 1/2/3, Golden Master (60+)",2,8,,-,0,,-,0,,-,0,,,,26
-Alvin Sapigao,Male,38,Master Men (35-49),Male Mercx (No TT Bikes) - Male,8,1,Master Men 35-49 Cat 1-4 - Male,6,1,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Master (35-49)",5,2,,-,0,"Men/Open, Cat 4/5, Master (35-49)",8,1,Open Men Cat 1/2/3/4,13,1,,,,6
-Scott Batula,Male,39,Master Men (35-49),Male 30 - 45 - Male,9,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Greg Wolf,Male,59,Golden Master Men (50-59),Male 46 - 60 - Male,5,2,Golden Mstr Men 50-59 Cat 1-5 - Male,9,1,"Men, Golden Master (50-59)",3,5,Golden Master Men 50-59 TT - Male,11,1,,,-,0,46-60 Male,-,0,"M, Cat 4/5, Golden Master (50-59)",-,0,,-,0,,-,0,,-,0,,,,9
-Garry Kirkland Ii,Male,45,Master Men (35-49),Male 30 - 45 - Male,10,1,,-,0,,-,0,,-,0,Mens (200+),Iron Wolf,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,3
-Matthew Helms,Male,24,Senior Men (23-34),Male Mercx (No TT Bikes) - Male,9,1,Senior Men 23-34 Cat 1-4 - Male,4,3,,-,0,,-,0,,,-,0,24-29 Male,2,8,,-,0,,-,0,,-,0,,-,0,,,,12
-Scott Hansen,Male,46,Master Men (35-49),Male Mercx (No TT Bikes) - Male,10,1,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,3,5,,-,0,Clydesdale 200 lbs+ 23+ TT - Male,3,5,Mens (100-200),Bald Boyz 4 Life,5,1,Mercx Male,8,1,,-,0,"Men/Open, Cat 4/5, Master (35-49)",8,2,"Men/Open, Cat 4/5, Master (35-49)",12,4,Open Men Cat 1/2/3/4,15,1,,,,20
-Kawika Samson,Male,41,Master Men (35-49),Male Fixed Gear (Front Brake Req) - Male,1,13,Senior/Master Men 19-49 Cat 5 - Male,1,13,,-,0,Master Men 35-49 TT - Male,4,3,,,-,0,,-,0,"M, Cat 4/5, Master (35-49)",DNF,1,"Men/Open, Cat 4/5, Master (35-49)",1,13,"Men/Open, Cat 4/5, Master (35-49)",1,13,,-,0,,,,56
-Wade Bannister,Male,48,Master Men (35-49),Male Mercx (No TT Bikes) - Male,11,1,Master Men 35-49 Cat 1-4 - Male,4,3,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,4
-Edward Birmingham,Male,60,Golden Master Men (60-69),Male 46 - 60 - Male,6,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Marlene Zeug,Female,50,Golden Master Women (50-59),Female 46 - 60 - Female,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,13
-Jeff Caeton,Male,52,Golden Master Men (50-59),Male 46 - 60 - Male,7,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Mike Abbott,Male,64,Golden Master Men (60-69),Male 61 - 99 - Male,3,5,Golden Mstr Men 60-69 Cat 1-5 - Male,5,2,,-,0,Golden Master Men 60-69 TT - Male,5,2,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,9
-Christopher Houghtling,Male,55,Golden Master Men (50-59),Male Mercx (No TT Bikes) - Male,12,1,Golden Mstr Men 50-59 Cat 1-5 - Male,7,1,,-,0,,-,0,,,-,0,Mercx Male,9,1,"M, Cat 4/5, Golden Master (50-59)",2,8,,-,0,,-,0,GM Men 50-59 Cat 4/5,8,1,,,,12
-Matt Shimada,Male,24,Senior Men (23-34),Male Fixed Gear (Front Brake Req) - Male,2,8,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,8
-Richard Burke,Male,32,Senior Men (23-34),Male 30 - 45 - Male,11,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Jimmy Orden,Male,50,Golden Master Men (50-59),Male Mercx (No TT Bikes) - Male,13,1,Golden Mstr Men 50-59 Cat 1-5 - Male,5,2,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,6,1,,,,4
-Tayro Acosta-Maeda,Male,42,Master Men (35-49),Male Mercx (No TT Bikes) - Male,14,1,Senior/Master Men 19-49 Cat 5 - Male,4,3,"Men, Master (35-49)",2,8,Master Men 35-49 TT - Male,7,1,,,-,0,Mercx Male,5,2,,-,0,,-,0,,-,0,,-,0,,,,15
-Jacqueline Bethel,Female,38,Master Women (35-49),Female 30 - 45 - Female,2,8,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,8
-Shawndy Soencer,Male,51,Golden Master Men (50-59),Male Mercx (No TT Bikes) - Male,15,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Mckenna Nieves,Female,40,Master Women (35-49),Female Mercx (No TT Bikes) - Female,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Women, Master (35-49)",2,8,"Women, Master (35-49)",2,8,Master Women 40-49 Cat 1/2/3/4/5,4,3,,,,32
-Matt Palermo,Male,50,Golden Master Men (50-59),Male 46 - 60 - Male,8,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Melissa Tallent,Female,49,Master Women (35-49),Female Mercx (No TT Bikes) - Female,2,8,Women 23-49 Cat 1-5 - Female,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Women, Master (35-49)",1,13,"Women, Master (35-49)",1,13,,-,0,,,,34
-Nathan Del Rosario,Male,24,Senior Men (23-34),Male Fixed Gear (Front Brake Req) - Male,3,5,Senior/Master Men 19-49 Cat 5 - Male,7,1,,-,0,Single Speed 19+ TT - Male,2,8,,,-,0,Fixed Male,1,13,,-,0,,-,0,,-,0,,-,0,,,,27
-Lorin Birmingham,Female,61,Golden Master Women (60-69),Female 46 - 60 - Female,2,8,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,8
-Brydon Spencer,Male,24,Senior Men (23-34),Male Mercx (No TT Bikes) - Male,16,1,,-,0,,-,0,Senior Men 23-34 TT - Male,5,2,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Senior (23-34)",5,2,,-,0,,,,5
-Carrie Caeton,Female,49,Master Women (35-49),Female 46 - 60 - Female,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Master Women 40-49 Cat 1/2/3/4/5,3,5,,,,10
-Nickolai Poole,Male,36,Master Men (35-49),Male Fixed Gear (Front Brake Req) - Male,4,3,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,3
-Atomman Kimm,Male,68,Golden Master Men (60-69),Male 61 - 99 - Male,4,3,,-,0,,-,0,,-,0,,,-,0,61-99 Male,-,0,"M, Cat 4/5, Golden Master (60-69)",-,0,,-,0,,-,0,,-,0,,,,3
-Amy Hanley,Female,25,Senior Women (23-34),Female 19 - 29 - Female,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,13
-Jason Gelles,Male,49,Master Men (35-49),Male 46 - 60 - Male,9,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Alexandra Michel,Female,52,Golden Master Women (50-59),Female 46 - 60 - Female,4,3,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,3
-Adam Shawger,Male,28,Senior Men (23-34),Male 19 - 29 - Male,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,5
-Matthew Asada,Male,36,Master Men (35-49),Male Mercx (No TT Bikes) - Male,17,1,Master Men 35-49 Cat 1-4 - Male,13,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-Wojciech Szymanski,Male,73,Golden Master Men (70+),Male 61 - 99 - Male,5,2,Golden Mstr Men 70+ Cat 1-5 - Male,1,13,"Men, Golden Master 70+",1,13,Golden Master Men 70+ TT - Male,1,13,,,-,0,61-99 Male,4,3,"M, 70+",1,13,,-,0,,-,0,,-,0,,,,57
-Eric Marsh,Male,48,Master Men (35-49),Male 46 - 60 - Male,10,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Alicia Shoulta,Female,47,Master Women (35-49),Female 46 - 60 - Female,5,2,,-,0,,-,0,,-,0,Womens - Overall,Fem Bats,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,4
-Malia K Harunaga,Female,32,Senior Women (23-34),Female Fixed Gear (Front Brake Req) - Female,1,13,Women 23-49 Cat 1-5 - Female,1,13,,-,0,Open Women 23-49 TT - Female,3,5,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,31
-Francesca Leonetti,Female,54,Golden Master Women (50-59),Female 46 - 60 - Female,6,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Jennifer Poepoe,Female,55,Golden Master Women (50-59),Female 46 - 60 - Female,7,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Michael Goss,Male,51,Golden Master Men (50-59),Male Mercx (No TT Bikes) - Male,18,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Pei Tung Wu,Female,52,Golden Master Women (50-59),Female 46 - 60 - Female,8,1,,-,0,,-,0,Women 50+ TT - Female,6,1,,,-,0,,-,0,"W, Golden Master (50-59)",-,0,,-,0,,-,0,,-,0,,,,2
-Leon Parker,Male,41,Master Men (35-49),Male Mercx (No TT Bikes) - Male,19,1,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,6,1,,-,0,,-,0,,,-,0,30-45 Male,5,2,,-,0,,-,0,,-,0,Masters Men 35-49 Cat 5,DNF,1,,,,5
-Paula Bender,Female,65,Golden Master Women (60-69),Female Mercx (No TT Bikes) - Female,3,5,,-,0,,-,0,Women 50+ TT - Female,8,1,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Women 50+ Cat 1/2/3/4/5,DNF,1,,,,7
-Paul Wheeler,Male,40,Master Men (35-49),Male Fixed Gear (Front Brake Req) - Male,5,2,,-,0,,-,0,Master Men 35-49 TT - Male,13,1,,,-,0,Mercx Male,11,1,"M, Cat 1/2/3, Master (35-49)",-,0,,-,0,,-,0,,-,0,,,,4
-Samuel Fesenmeier,Male,31,Senior Men (23-34),Male Mercx (No TT Bikes) - Male,20,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Sarah McNaboe,Female,39,Master Women (35-49),Female Mercx (No TT Bikes) - Female,4,3,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,3
-Tiana Spencer,Female,45,Master Women (35-49),Female Mercx (No TT Bikes) - Female,5,2,Women 23-49 Cat 1-5 - Female,2,8,,-,0,Open Women 23-49 TT - Female,5,2,,,-,0,,-,0,,-,0,"Women, Master (35-49)",6,1,"Women, Master (35-49)",7,1,,-,0,,,,14
-Jessica Chan,Female,27,Senior Women (23-34),Female 19 - 29 - Male,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,13
-William Turner,Male,54,Golden Master Men (50-59),Male 46 - 60 - Male,11,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Kevin Palmer,Male,32,Senior Men (23-34),Male Mercx (No TT Bikes) - Male,21,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Hannah Richards,Female,32,Senior Women (23-34),Female 30 - 45 - Female,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,5
-Mandi Jones,Female,44,Master Women (35-49),Female 30 - 45 - Female,4,3,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,3
-Don Eovino,Male,77,Golden Master Men (70+),Male 61 - 99 - Male,6,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Gary Dunn,Male,73,Golden Master Men (70+),Male 61 - 99 - Male,7,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Keith Minn,Male,73,Golden Master Men (70+),Male PC - Male,1,13,Golden Mstr Men 70+ Cat 1-5 - Male,3,5,,-,0,Golden Master Men 70+ TT - Male,3,5,,,-,0,PC Male,-,0,"M, 70+",-,0,,-,0,,-,0,,-,0,,,,23
-Danielle Rummler,Female,24,Senior Women (23-34),Female 19 - 29 - Female,2,8,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,8
-Lily Bakour,Female,23,Senior Women (23-34),Female 19 - 29 - Female,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,5
-Scott Gregoire,Male,30,Senior Men (23-34),Male Fixed Gear (Front Brake Req) - Male,DNF,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Douglas Baker,Male,55,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,1,13,,-,0,,-,0,,,-,0,,-,0,"M, Cat 1/2/3, Golden Master (50-59)",1,13,,-,0,,-,0,,-,0,,,,26
-Marcel Aguiar,Male,30,Senior Men (23-34),,-,0,Senior Men 23-34 Cat 1-4 - Male,1,13,,-,0,,-,0,Mens (100-200),Spam Stampede,3,2,,-,0,,-,0,"Men/Open, Cat 1/2/3, Senior (23-34)",3,5,"Men/Open, Cat 1/2/3, Senior (23-34)",-,0,,-,0,,,,20
-Joel Temple,Male,30,Senior Men (23-34),,-,0,Senior Men 23-34 Cat 1-4 - Male,2,8,,-,0,,-,0,Mens (100-200),Spam Stampede,3,2,Mercx Male,6,1,"M, Cat 4/5, Senior (23-34)",2,8,,-,0,,-,0,,-,0,,,,19
-John Proppe,Male,36,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,3,5,,-,0,,-,0,Mens (100-200),Four Lokos,4,1,,-,0,,-,0,"Men/Open, Cat 1/2/3, Master (35-49)",5,2,"Men/Open, Cat 1/2/3, Master (35-49)",DNF,1,,-,0,,,,9
-Conrad Newfield,Male,24,Senior Men (23-34),,-,0,Senior/Master Men 19-49 Cat 5 - Male,2,8,,-,0,Senior Men 23-34 TT - Male,2,8,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,16
-Tyler McNamee,Male,39,Master Men (35-49),,-,0,Senior/Master Men 19-49 Cat 5 - Male,3,5,,-,0,,-,0,,,-,0,Mercx Male,4,3,"M, Cat 4/5, Master (35-49)",3,5,,-,0,,-,0,Masters Men 35-49 Cat 5,1,13,,,,26
-Robert Graham,Male,38,Master Men (35-49),,-,0,Senior/Master Men 19-49 Cat 5 - Male,5,2,,-,0,,-,0,Mens (100-200),Bald Boyz 4 Life,5,1,Mercx Male,3,5,,-,0,,-,0,,-,0,Masters Men 35-49 Cat 5,4,3,,,,11
-Kyle Nakatsuka,Male,30,Senior Men (23-34),,-,0,Senior/Master Men 19-49 Cat 5 - Male,6,1,,-,0,Senior Men 23-34 TT - Male,4,3,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,4
-Timothy Kutara,Male,37,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,7,1,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Master (35-49)",4,3,"Men/Open, Cat 4/5, Master (35-49)",-,0,"Men/Open, Cat 4/5, Master (35-49)",2,16,Open Men Cat 1/2/3/4,8,1,,,,21
-Frank Dorn,Male,48,Master Men (35-49),,-,0,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,2,8,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,8
-Elliott Kujat,Male,42,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,8,1,,-,0,,-,0,Mixed - Overall,TCT Go Home,1,4,30-45 Male,-,0,,-,0,,-,0,,-,0,Open Men Cat 1/2/3/4,14,1,,,,6
-Mark Herrington,Male,51,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,3,5,,-,0,Golden Master Men 50-59 TT - Male,8,1,,,-,0,,-,0,"M, Cat 1/2/3, Golden Master (50-59)",-,0,"Men/Open, Cat 4/5, Golden Master (50+)",3,5,"Men/Open, Cat 4/5, Golden Master (50+)",8,1,,-,0,,,,12
-Cy Shimizu,Male,46,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,9,1,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Master (35-49)",6,1,"Men/Open, Cat 4/5, Master (35-49)",6,1,"Men/Open, Cat 4/5, Master (35-49)",7,1,,-,0,,,,4
-Cecil Ordono,Male,55,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,4,3,,-,0,Golden Master Men 50-59 TT - Male,7,1,,,-,0,,-,0,"M, Cat 4/5, Golden Master (50-59)",DNF,1,,-,0,,-,0,,-,0,,,,5
-Christopher Salas,Male,36,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,10,1,,-,0,Master Men 35-49 TT - Male,10,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-Daniel Otchere,Male,45,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,11,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-David Lower,Male,56,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,6,1,,-,0,,-,0,Mens (200+),Iron Wolf,2,2,,-,0,,-,0,"Men/Open, Cat 4/5, Golden Master (50+)",2,8,"Men/Open, Cat 4/5, Golden Master (50+)",2,8,GM Men 50-59 Cat 4/5,3,5,,,,24
-James Bos,Male,34,Senior Men (23-34),,-,0,Senior Men 23-34 Cat 1-4 - Male,5,2,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-John Selvaggio,Male,63,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,2,8,,-,0,Golden Master Men 60-69 TT - Male,7,1,Mixed - Overall,TCT Go Home,1,4,61-99 Male,3,5,"M, Cat 4/5, Golden Master (60-69)",1,13,"Men/Open, Cat 4/5, Golden Master (50+)",4,3,"Men/Open, Cat 4/5, Golden Master (50+)",6,1,GM Men 60+ Cat 4/5,1,13,,,,48
-Paul Escobar,Male,57,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,8,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Scott Daubert,Male,64,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,3,5,"Men, Golden Master (60-69)",2,8,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,13
-Mark Anderson,Male,60,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,4,3,,-,0,,-,0,Mens (200+),Wolfpack New Golden Elite,3,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,5
-Emi Thieme,Female,45,Master Women (35-49),,-,0,Women 23-49 Cat 1-5 - Female,-,0,,-,0,Open Women 23-49 TT - Female,2,8,Mixed - Overall,TCT Go Home,1,4,,-,0,,-,0,,-,0,,-,0,,-,0,,,,12
-Michael Inada,Male,49,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,12,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-James Reilly,Male,68,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,6,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 60+ Cat 4/5,2,8,,,,9
-Edgar Orden,Male,51,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,10,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Shandy Spencer,Male,51,Golden Master Men (50-59),,-,0,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,4,3,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,3
-Tom Delaney,Male,64,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,7,1,,-,0,Golden Master Men 60-69 TT - Male,6,1,,,-,0,61-99 Male,5,2,,-,0,,-,0,,-,0,GM Men 60+ Cat 4/5,4,3,,,,7
-Kimberly Funasaki,Female,51,Golden Master Women (50-59),,-,0,Women 50+ Cat 1-5 - Female,1,13,,-,0,Women 50+ TT - Female,1,13,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Women 50+ Cat 1/2/3/4/5,2,8,,,,34
-Michael Orr,Male,64,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,8,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Kenneth Lum,Male,51,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,11,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Zachary Metz,Male,35,Master Men (35-49),,-,0,Senior/Master Men 19-49 Cat 5 - Male,8,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Melanie Koehl,Female,54,Golden Master Women (50-59),,-,0,Women 50+ Cat 1-5 - Female,2,8,,-,0,Women 50+ TT - Female,3,5,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,13
-Brian Lum,Male,70,Golden Master Men (70+),,-,0,Golden Mstr Men 70+ Cat 1-5 - Male,2,8,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,8
-Litoray Olaes,Male,56,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,12,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 5, Golden Master (50+)",1,13,,-,0,,,,14
-Joseph Vaughan,Male,40,Master Men (35-49),,-,0,Senior/Master Men 19-49 Cat 5 - Male,9,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Neal Faradineh,Male,41,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,14,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-David Gutierrez,Male,31,Senior Men (23-34),,-,0,Senior/Master Men 19-49 Cat 5 - Male,10,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Derek Folkers,Male,36,Master Men (35-49),,-,0,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,5,2,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-Brandon Millichamp,Male,35,Master Men (35-49),,-,0,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,7,1,,-,0,,-,0,,,-,0,Mercx Male,10,1,,-,0,,-,0,,-,0,,-,0,,,,2
-Lou Ortiz,Male,54,Golden Master Men (50-59),,-,0,,-,0,"Men, Golden Master (50-59)",1,13,Golden Master Men 50-59 TT - Male,3,5,,,-,0,,-,0,"M, Cat 1/2/3, Golden Master (50-59)",3,5,,-,0,"Men/Open, Cat 4/5, Golden Master (50+)",1,13,Open Men Cat 1/2/3/4,6,1,,,,37
-Bryan Guenther,Male,58,Golden Master Men (50-59),,-,0,,-,0,"Men, Golden Master (50-59)",2,8,Golden Master Men 50-59 TT - Male,5,2,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,5,2,,,,12
-Louis Paolella,Male,38,Master Men (35-49),,-,0,,-,0,"Men, Master (35-49)",4,3,Master Men 35-49 TT - Male,8,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,4
-John Sage,Male,63,Golden Master Men (60-69),,-,0,,-,0,"Men, Golden Master (60-69)",3,5,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,5
-Sharon Keith,Female,71,Golden Master Women (70+),,-,0,,-,0,"Women, Golden Master 70+",1,13,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,13
-Shawn Brown,Male,38,Master Men (35-49),,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,3,5,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,5
-Patrick Ellison,Male,53,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,2,8,Mens (200+),BME Racing,1,4,,-,0,,-,0,,-,0,,-,0,,-,0,,,,12
-Nicholas Brown,Male,41,Master Men (35-49),Male 30 - 45 - Male,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,5,2,,,-,0,30-45 Male,1,13,,-,0,,-,0,,-,0,,-,0,,,,15
-Josh Dubois,Male,38,Master Men (35-49),,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,6,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Will Van Der Reis,Male,57,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,4,3,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,7,1,,,,4
-Carly Brown,Female,39,Master Women (35-49),Female 30 - 45 - Female,-,0,,-,0,,-,0,Open Women 23-49 TT - Female,1,13,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,13
-Gary Holton,Male,59,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,6,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Ed Price,Male,61,Golden Master Men (60-69),,-,0,,-,0,,-,0,Golden Master Men 60-69 TT - Male,2,8,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,8
-Kevin Yang,Male,36,Master Men (35-49),,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,9,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Thomas Williamson,Male,60,Golden Master Men (60-69),,-,0,,-,0,,-,0,Golden Master Men 60-69 TT - Male,3,5,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,5
-Burt Senas,Male,50,Golden Master Men (50-59),,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,11,1,,,-,0,,-,0,"M, Cat 4/5, Golden Master (50-59)",3,5,"Men/Open, Cat 4/5, Golden Master (50+)",1,13,"Men/Open, Cat 4/5, Golden Master (50+)",3,5,GM Men 50-59 Cat 4/5,1,13,,,,37
-Andrew McGowan,Male,35,Master Men (35-49),,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,12,1,,,-,0,,-,0,"M, Cat 1/2/3, Master (35-49)",4,3,"Men/Open, Cat 4/5, Master (35-49)",-,0,,-,0,,-,0,,,,4
-Mackenzie Yoshida,Male,34,Senior Men (23-34),Male Fixed Gear (Front Brake Req) - Male,-,0,,-,0,,-,0,Senior Men 23-34 TT - Male,6,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-James Edward Bos,Male,34,Senior Men (23-34),,-,0,,-,0,,-,0,Senior Men 23-34 TT - Male,7,1,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Senior (23-34)",2,8,"Men/Open, Cat 4/5, Senior (23-34)",4,3,,-,0,,,,12
-Cyrille Collard,Male,52,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,9,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Mike Taratko,Male,51,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,10,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Jo Cinter,Female,56,Golden Master Women (50-59),,-,0,,-,0,,-,0,Women 50+ TT - Female,2,8,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,8
-Craig McHenry,Male,52,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,12,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Shawndy Spencer,Male,51,Golden Master Men (50-59),,-,0,,-,0,,-,0,Clydesdale 200 lbs+ 23+ TT - Male,2,8,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Golden Master (50+)",5,2,"Men/Open, Cat 4/5, Golden Master (50+)",5,2,,-,0,,,,12
-Yun Yi,Female,42,Master Women (35-49),,-,0,,-,0,,-,0,Open Women 23-49 TT - Female,4,3,,,-,0,30-45 Female,3,5,"W, Master (35-49)",1,13,"Women, Master (35-49)",7,1,"Women, Master (35-49)",5,2,Master Women 40-49 Cat 1/2/3/4/5,1,13,,,,37
-Patricia Jennings,Female,54,Golden Master Women (50-59),,-,0,,-,0,,-,0,Women 50+ TT - Female,4,3,,,-,0,46-60 Female,1,13,,-,0,,-,0,,-,0,,-,0,,,,16
-Denee Madamba,Female,62,Golden Master Women (60-69),,-,0,,-,0,,-,0,Women 50+ TT - Female,5,2,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Women 50+ Cat 1/2/3/4/5,3,5,,,,7
-Andrew Gould,Male,68,Golden Master Men (60-69),,-,0,,-,0,,-,0,Golden Master Men 60-69 TT - Male,8,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Pamela Coleman,Female,42,Master Women (35-49),,-,0,,-,0,,-,0,Open Women 23-49 TT - Female,6,1,,,-,0,30-45 Female,4,3,,-,0,,-,0,,-,0,Master Women 40-49 Cat 1/2/3/4/5,2,8,,,,12
-Daniel Dickler,Male,53,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,13,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Cecile Chisholm,Female,61,Golden Master Women (60-69),,-,0,,-,0,,-,0,Women 50+ TT - Female,7,1,,,-,0,,-,0,"W, Golden Master (60-69)",2,8,,-,0,,-,0,,-,0,,,,9
-Justin Homma,Male,30,Senior Men (23-34),,-,0,,-,0,,-,0,Senior Men 23-34 TT - Male,8,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Bruce Wacker,Male,77,Golden Master Men (70+),,-,0,,-,0,,-,0,Golden Master Men 70+ TT - Male,2,8,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,,,8
-Kevin Taira,Male,55,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,14,1,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 5, Golden Master (50+)",4,3,,-,0,,,,4
-Matt Chun,Male,38,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Zone 2? - Wolfpack,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-Tim Howell,Male,45,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Zone 2? - Wolfpack,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-Steve Hopkins,Male,39,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Zone 2? - Wolfpack,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-Jake Rahlfs,Male,31,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Spam Stampede,3,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-Tyler Higgins,Male,33,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Four Lokos,4,1,,-,0,,-,0,"Men/Open, Cat 1/2/3, Senior (23-34)",4,3,"Men/Open, Cat 1/2/3, Senior (23-34)",-,0,,-,0,,,,4
-Jordan Schick,Male,38,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Four Lokos,4,1,,-,0,,-,0,"Men/Open, Cat 1/2/3, Master (35-49)",1,13,,-,0,,-,0,,,,14
-Jason Diaz,Male,39,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Four Lokos,4,1,,-,0,,-,0,,-,0,,-,0,,-,0,,,,1
-Ron Barber,Male,52,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,Mens (200+),Iron Wolf,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-Tony Lang,Male,56,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,Mens (200+),Wolfpack New Golden Elite,3,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-Robert Latour,Male,60,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,Mens (200+),Iron Wolf,2,2,,-,0,,-,0,,-,0,,-,0,GM Men 60+ Cat 4/5,3,5,,,,7
-Carly Killam,Female,39,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,Womens - Overall,TeamBSC,1,5,,-,0,,-,0,,-,0,,-,0,,-,0,,,,5
-Mieko Oschner,Female,46,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,Womens - Overall,TeamBSC,1,5,,-,0,,-,0,,-,0,,-,0,,-,0,,,,5
-Michelle Simmons,Female,49,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,Womens - Overall,TeamBSC,1,5,,-,0,,-,0,"Women, Master (35-49)",5,2,"Women, Master (35-49)",4,3,,-,0,,,,10
-John Lambert,Male,61,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,Mens (200+),Wolfpack New Golden Elite,3,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-Michael Moorehead,Male,52,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Bald Boyz 4 Life,5,1,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,4,3,,,,4
-Marcy Fleming,Female,62,Golden Master Women (60-69),,-,0,,-,0,,-,0,,-,0,Womens - Overall,Fem Bats,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,,,2
-Jennifer George,Female,50,Golden Master Women (50-59),,-,0,,-,0,,-,0,,-,0,Womens - Overall,Fem Bats,2,2,Mercx Female,3,5,"W, Golden Master (50-59)",2,8,"Women, Master (35-49)",-,0,,-,0,,-,0,,,,15
-Karen Gusmer,Female,26,Senior Women (23-34),,-,0,,-,0,,-,0,,-,0,Womens - Overall,Fem Bats,2,2,Mercx Female,2,8,"W, Senior (23-34)",1,13,,-,0,,-,0,,-,0,,,,23
-Jeff Ling,Male,43,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (200+),BME Racing,1,4,,-,0,,-,0,,-,0,,-,0,,-,0,,,,4
-Kim Funasaki,Female,51,Golden Master Women (50-59),,-,0,,-,0,,-,0,,-,0,Mixed - Overall,TCT Go Home,1,4,,-,0,"W, Golden Master (50-59)",1,13,,-,0,,-,0,,-,0,,,,17
-Zac Ooi,Male,?,#N/A,,-,0,,-,0,,-,0,,-,0,,,-,0,Mercx Male,2,8,,-,0,,-,0,,-,0,,-,0,,,,8
-Allyssa Bernhardt,Female,30-45,#N/A,,-,0,,-,0,,-,0,,-,0,,,-,0,30-45 Female,2,8,,-,0,,-,0,,-,0,,-,0,,,,8
-Lucas Tettamente,Male,46-60,#N/A,,-,0,,-,0,,-,0,,-,0,,,-,0,46-60 Male,4,3,,-,0,,-,0,,-,0,,-,0,,,,3
-Tim Connelly,Male,55,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,46-60 Male,5,2,,-,0,,-,0,"Men/Open, Cat 4/5, Golden Master (50+)",7,1,,-,0,,,,3
-Alix Toulier,Male,?,#N/A,,-,0,,-,0,,-,0,,-,0,,,-,0,Mercx Male,7,1,,-,0,,-,0,,-,0,,-,0,,,,1
-Ha Lisa,Female,38,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,Mercx Female,1,13,,-,0,,-,0,,-,0,,-,0,,,,13
-Lori McCarney,Female,69,Golden Master Women (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"W, Golden Master (60-69)",1,13,"Women, Master (35-49)",9,1,,-,0,GM Women 50+ Cat 1/2/3/4/5,1,13,,,,27
-Patrick Chung,Male,73,Golden Master Men (70+),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, 70+",DNF,1,,-,0,,-,0,,-,0,,,,1
-Geoff Hamilton,Male,81,Golden Master Men (70+),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, 70+",DNF,1,,-,0,,-,0,,-,0,,,,1
-Alison Hansen,Female,?,#N/A,,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"W, Master (35-49)",DNF,1,,-,0,,-,0,,-,0,,,,1
-Ben Holland,Male,57,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Golden Master (50-59)",1,13,,-,0,,-,0,,-,0,,,,13
-David Jantz,Male,28,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Senior (23-34)",3,5,,-,0,,-,0,,-,0,,,,5
-Cesar Guzman,Male,57,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Golden Master (50-59)",4,3,,-,0,,-,0,,-,0,,,,3
-Brian Yap,Male,26,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Senior (23-34)",4,3,"Men/Open, Cat 5, All Ages",3,5,,-,0,Senior Men 18-34 Cat 5,2,8,,,,16
-Jeffrey Reyes,Male,31,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Senior (23-34)",5,2,"Men/Open, Cat 4/5, Senior (23-34)",3,5,"Men/Open, Cat 4/5, Senior (23-34)",6,1,Senior Men 18-34 Cat 5,3,5,,,,13
-Edgardo Napana,Male,60,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Golden Master (60-69)",DNF,1,,-,0,,-,0,,-,0,,,,1
-Tyler Ramsbottom,Male,35,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 1/2/3, Master (35-49)",3,5,,-,0,,-,0,Open Men Cat 1/2/3/4,4,3,,,,8
-Aaron Sundberg,Male,50,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 1/2/3, Master (35-49)",6,1,,-,0,,-,0,,-,0,,,,1
-Whit Somerall,Male,35,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 1/2/3, Master (35-49)",DNF,1,"Men/Open, Cat 1/2/3, Master (35-49)",2,8,,-,0,,-,0,,,,9
-Michael Stewart,Male,46,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 5, All Ages",1,13,"Men/Open, Cat 4/5, Master (35-49)",10,1,,-,0,,,,14
-Brian Murakawa,Male,63,Golden Master Men (60-69),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 5, All Ages",2,8,"Men/Open, Cat 5, Golden Master (50+)",3,5,,-,0,,,,13
-Andrew Buehler,Male,21,U23 Men,,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 5, All Ages",4,3,,-,0,,-,0,,,,3
-Samson Ramirez,Male,61,Golden Master Men (60-69),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 5, All Ages",5,2,,-,0,,-,0,,,,2
-Jerry Freeman,Male,41,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Master (35-49)",2,8,"Men/Open, Cat 4/5, Master (35-49)",3,5,,-,0,,,,13
-Elliot Kujat,Male,42,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Master (35-49)",3,5,,-,0,,-,0,,,,5
-Micah Watts,Male,47,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Master (35-49)",4,3,"Men/Open, Cat 4/5, Master (35-49)",6,1,,-,0,,,,4
-Devin Lacrosse,Male,37,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Master (35-49)",5,2,"Men/Open, Cat 4/5, Master (35-49)",11,1,Masters Men 35-49 Cat 5,6,1,,,,4
-Adrian Preciado,Male,37,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Master (35-49)",7,1,,-,0,,-,0,,,,1
-Hiroyoshi Kitanishi,Male,56,Golden Master Men (50-59),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Golden Master (50+)",6,1,,-,0,,-,0,,,,1
-Darragh O'Carroll,Male,38,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Master (35-49)",10,1,"Men/Open, Cat 4/5, Master (35-49)",5,2,,-,0,,,,3
-Jeffery Dicho,Male,33,Senior Men (23-34),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Master (35-49)",11,1,"Men/Open, Cat 4/5, Senior (23-34)",7,1,,-,0,,,,2
-Andres Darnel,Male,44,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Master (35-49)",12,1,,-,0,,-,0,,,,1
-Joel Vowell,Male,54,Golden Master Men (50-59),,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 1/2/3, Golden Master (50+)",2,8,"Men/Open, Cat 1/2/3, Golden Master (50+)",2,8,,-,0,,,,16
-Christyn Gaa,Female,38,Master Women (35-49),,,,,,,,,,,,,,,,,,,,,,,"Women, Master (35-49)",3,5,"Women, Master (35-49)",3,5,,-,0,,,,10
-Nikki Medwetz,Female,43,Master Women (35-49),,,,,,,,,,,,,,,,,,,,,,,"Women, Master (35-49)",4,3,,-,0,,-,0,,,,3
-Desiree Varela,Female,42,Master Women (35-49),,,,,,,,,,,,,,,,,,,,,,,"Women, Master (35-49)",8,1,,-,0,,-,0,,,,1
-Christopher Murphy,Male,36,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 5, Senior (23-49)",1,13,,-,0,,,,13
-Ted Stimac,Male,59,Golden Master Men (50-59),,,,,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 5, Golden Master (50+)",2,8,,-,0,,,,8
-Elijah Flores,Male,24,Senior Men (23-34),,,,,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Senior (23-34)",2,8,,-,0,,,,8
-Tino Espiritu,Male,56,Golden Master Men (50-59),,,,,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Golden Master (50+)",4,3,GM Men 50-59 Cat 4/5,2,8,,,,11
-Shane Anzai,Male,36,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Master (35-49)",9,1,,-,0,,,,1
-Mclean Worsham,Male,35,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 4/5, Master (35-49)",DNF,1,,-,0,,,,1
-Danielle Nuszkowski,Female,28,Senior Women (23-34),,,,,,,,,,,,,,,,,,,,,,,,,,"Women, Golden Master (50+)",1,13,Sen Women 23-39 Cat 1/2/3/4/5,1,13,,,,26
-Lisa Ha,Female,38,Master Women (35-49),,,,,,,,,,,,,,,,,,,,,,,,,,"Women, Master (35-49)",6,1,Sen Women 23-39 Cat 1/2/3/4/5,2,8,,,,9
-Tiffany Drummond,Female,35,Master Women (35-49),,,,,,,,,,,,,,,,,,,,,,,,,,"Women, Master (35-49)",8,1,,-,0,,,,1
-Danny Garcia Mangual,Male,35,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,,,,"Men/Open, Cat 1/2/3, Master (35-49)",5,2,Open Men Cat 1/2/3/4,12,1,,,,3
-Evan Apana,Male,9,Junior Men,,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,Beginner Men Cat 5,1,13,,,,13
-Kyres Snyder,Male,11,Junior Men,,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,Beginner Men Cat 5,2,8,,,,8
-Jayden Parker,Female,10,Junior Women,,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,Beginner Women Cat 1/2/3/4/5,1,13,,,,13
-Gregg Roh,Male,59,Golden Master Men (50-59),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,Open Men Cat 1/2/3/4,11,1,,,,1
-Rio Williams,Female,14,Junior Women,,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,Jun Women Cat 1/2/3/4/5,3,5,,,,5
-Paul Wong,Male,55,Golden Master Men (50-59),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,GM Men 50-59 Cat 4/5,9,1,,,,1
-Amador Sadang Jr,Male,55,Golden Master Men (50-59),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,GM Men 50-59 Cat 4/5,10,1,,,,1
-Enrik Reyes,Male,56,Golden Master Men (50-59),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,GM Men 50-59 Cat 4/5,11,1,,,,1
-RC Anderson,Male,55,Golden Master Men (50-59),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,GM Men 50-59 Cat 4/5,12,1,,,,1
-John Hoffmann,Male,60,Golden Master Men (60-69),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,GM Men 60+ Cat 4/5,5,2,,,,2
-F. Kevin Aucello,Male,65,Golden Master Men (60-69),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,GM Men 60+ Cat 4/5,6,1,,,,1
-Ray Akins,Male,45,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,Masters Men 35-49 Cat 5,2,8,,,,8
-William Wong,Female,41,Master Women (35-49),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,Masters Men 35-49 Cat 5,3,5,,,,5
-Renier Castillo,Male,47,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,Masters Men 35-49 Cat 5,5,2,,,,2
-Brian Regula,Male,48,Master Men (35-49),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,Masters Men 35-49 Cat 5,7,1,,,,1
-Elijah Bernardo-Flores,Male,24,Senior Men (23-34),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,Senior Men 18-34 Cat 5,1,13,,,,13
-Alan Sleight,Male,28,Senior Men (23-34),,,,,,,,,,,,,,,,,,,,,,,,,,,-,0,Senior Men 18-34 Cat 5,4,3,,,,3
+Full Name,Gender,Race Age,Series Category,Makaha Time Trial Category,Makaha Time Trial Place,Makaha Time Trial Points,Pineapple Sprint Category,Pineapple Sprint Place,Pineapple Sprint Points,Castle to Hanauma Bay Category,Castle to Hanauma Bay Place,Castle to Hanauma Bay Points,Tantalus TT Category,Tantalus TT Place,Tantalus TT Points,Kualoa Team TT Category,Kualoa Team TT Team,Kualoa Team TT Place,Kualoa Team TT Points,Malaekahana TT Category,Malaekahana TT Place,Malaekahana TT Points,Pineapple Hill RR Category,Pineapple Hill RR Place,Pineapple Hill RR Points,Kapolei Crit #1 Category,Kapolei Crit #1 Place,Kapolei Crit #1 Points,Kapolei Crit #2 Category,Kapolei Crit #2 Place,Kapolei Crit #2 Points,Olomana RR Category,Olomana RR Place,Olomana RR Points,DEMRR Category,DEMRR Place,DEMRR Points,Points Total,Number of Races
+Kai Vondohlen,Male,15,Junior Men,Male Junior 14-18 - Male,1,13,Juniors 15-18 Cat 4-5 - Male,1,13,,-,0,,-,0,,,-,0,14-18 Male,1,13,,-,0,"Men/Open, Cat 4/5, Senior (23-34)",1,21,"Men/Open, Cat 4/5, Senior (23-34)",1,21,,-,0,,-,0,81,5
+Maika Eldredge,Male,14,Junior Men,Male Junior 14-18 - Male,2,8,,-,0,,-,0,Juniors Men U15 TT - Male,1,13,,,-,0,U14 Male,1,13,,-,0,,-,0,"Men/Open, Cat 4/5, Senior (23-34)",3,8,Juniors Men Cat 5,1,13,,-,0,55,5
+Aiden Vondohlen,Male,14,Junior Men,Male Junior U13 - Male,1,13,Juniors 10-14 Cat 4-5 - Male,1,13,,-,0,,-,0,,,-,0,U14 Male,2,8,,-,0,Kids (13-15),1,13,"Men/Open, Cat 5, Senior (23-49)",2,21,,-,0,,-,0,68,5
+Tyson Parker,Male,12,Junior Men,Male Junior U13 - Male,2,8,Juniors 10-14 Cat 4-5 - Male,2,8,,-,0,Juniors Men U15 TT - Male,2,8,,,-,0,U14 Male,3,5,,-,0,,-,0,Kids (U13),1,13,Juniors Men Cat 5,2,8,,-,0,50,6
+Elizabeth Gillaspie,Female,15,Junior Women,Female Junior 14-18 - Female,1,13,Juniors 15-18 Cat 4-5 - Female,1,13,,-,0,Juniors Women 15 - 18 TT - Female,1,13,,,-,0,14-18 Female,1,13,,-,0,Kids (13-15),3,5,Kids (13-15),3,5,Jun Women Cat 1/2/3/4/5,1,13,,-,0,75,7
+Titan Kane,Male,13,Junior Men,Male Junior U13 - Male,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,5,1
+Quinn Regula,Female,12,Junior Women,Female Junior U13 - Female,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,Kids (U13),2,8,Jun Women Cat 1/2/3/4/5,2,8,,-,0,29,3
+Alex Howell,Female,14,Junior Women,Female Junior U13 - Female,2,8,,-,0,,-,0,,-,0,,,-,0,U14 Female,1,13,,-,0,,-,0,,-,0,,-,0,,-,0,21,2
+Joseph Kim,Male,25,Senior Men (23-34),Male 19 - 29 - Male,1,13,Senior Men 23-34 Cat 1-4 - Male,1,13,,-,0,Senior Men 23-34 TT - Male,1,13,Mens (100-200),The Four Merckx-Men,1,4,,-,0,"M, Cat 1/2/3, Senior (23-34)",1,13,"Men/Open, Cat 1/2/3, Senior (23-34)",1,13,"Men/Open, Cat 1/2/3, Senior (23-34)",1,13,Open Men Cat 1/2/3/4,1,13,"Men, Senior (23 - 34)",2,8,103,9
+Amelia Joca,Female,12,Junior Women,Female Junior U13 - Female,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Jun Women Cat 1/2/3/4/5,4,3,,-,0,8,2
+Christian Perreira,Male,47,Master Men (35-49),Male 46 - 60 - Male,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,13,1
+Will Mather,Male,45,Master Men (35-49),Male 30 - 45 - Male,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 1/2/3, Master (35-49)",5,2,,-,0,,-,0,,-,0,,-,0,15,2
+Tyler Tsubota,Male,31,Senior Men (23-34),Male 30 - 45 - Male,2,8,,-,0,,-,0,,-,0,,,-,0,30-45 Male,2,8,,-,0,,-,0,,-,0,,-,0,,-,0,16,2
+Nicolas Escobar,Male,32,Senior Men (23-34),Male 30 - 45 - Male,3,5,Senior Men 23-34 Cat 1-4 - Male,4,3,,-,0,Senior Men 23-34 TT - Male,3,5,Mens (100-200),Spam Stampede,3,2,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,15,4
+Ray Brust,Male,62,Golden Master Men (60-69),Male 61 - 99 - Male,1,13,Golden Mstr Men 60-69 Cat 1-5 - Male,1,13,"Men, Golden Master (60-69)",1,13,Golden Master Men 60-69 TT - Male,1,13,Mens (200+),BME Racing,1,4,61-99 Male,1,13,"M, Cat 1/2/3, Golden Master (60+)",1,13,"Men/Open, Cat 1/2/3, Golden Master (50+)",1,13,"Men/Open, Cat 1/2/3, Golden Master (50+)",1,13,Open Men Cat 1/2/3/4,3,5,"Men, Golden Master (60 - 69)",1,13,126,11
+Bjorn Marsen,Male,53,Golden Master Men (50-59),Male 46 - 60 - Male,2,8,Golden Mstr Men 50-59 Cat 1-5 - Male,2,8,,-,0,Golden Master Men 50-59 TT - Male,1,13,,,-,0,46-60 Male,1,13,"M, Cat 1/2/3, Golden Master (50-59)",2,8,,-,0,,-,0,Open Men Cat 1/2/3/4,9,1,"Men, Golden Master (50 - 59)",1,13,64,7
+Korey Tsubota,Male,32,Senior Men (23-34),Male 30 - 45 - Male,4,3,,-,0,,-,0,,-,0,,,-,0,30-45 Male,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,3,1
+Joshua Sappington,Male,28,Senior Men (23-34),Male 19 - 29 - Male,2,8,,-,0,,-,0,,-,0,,,-,0,24-29 Male,1,13,,-,0,,-,0,,-,0,,-,0,,-,0,21,2
+Jason Drummond,Male,42,Master Men (35-49),Male 30 - 45 - Male,5,2,,-,0,,-,0,,-,0,,,-,0,30-45 Male,-,0,"M, Cat 4/5, Master (35-49)",2,8,"Men/Open, Cat 1/2/3, Master (35-49)",3,5,"Men/Open, Cat 1/2/3, Master (35-49)",1,13,Open Men Cat 1/2/3/4,7,1,"Men, Master (35 - 49)",7,1,30,6
+Mike Robson,Male,52,Golden Master Men (50-59),Male Mercx (No TT Bikes) - Male,1,13,,-,0,,-,0,,-,0,Mens (100-200),The Four Merckx-Men,1,4,,-,0,"M, Cat 1/2/3, Golden Master (50-59)",-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",-,0,17,2
+Jan Kunst,Male,48,Master Men (35-49),Male Mercx (No TT Bikes) - Male,2,8,Master Men 35-49 Cat 1-4 - Male,2,8,"Men, Master (35-49)",1,13,Master Men 35-49 TT - Male,2,8,Mens (100-200),The Four Merckx-Men,1,4,Mercx Male,1,13,"M, Cat 1/2/3, Master (35-49)",2,8,"Men/Open, Cat 1/2/3, Master (35-49)",4,3,,-,0,,-,0,,-,0,65,8
+Dan Burris,Male,63,Golden Master Men (60-69),Male 61 - 99 - Male,2,8,,-,0,,-,0,Golden Master Men 60-69 TT - Male,4,3,Mens (200+),Wolfpack New Golden Elite,3,2,61-99 Male,2,8,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",-,0,21,4
+Carl Nethercutt,Male,35,Master Men (35-49),Male Mercx (No TT Bikes) - Male,3,5,Master Men 35-49 Cat 1-4 - Male,1,13,,-,0,Master Men 35-49 TT - Male,1,13,Mens (100-200),The Four Merckx-Men,1,4,,-,0,"M, Cat 1/2/3, Master (35-49)",1,13,,-,0,,-,0,Open Men Cat 1/2/3/4,2,8,"Men, Master (35 - 49)",8,1,57,7
+Timothy Howell,Male,45,Master Men (35-49),Male 30 - 45 - Male,6,1,Master Men 35-49 Cat 1-4 - Male,6,1,,-,0,,-,0,,,-,0,30-45 Male,3,5,"M, Cat 4/5, Master (35-49)",1,13,,-,0,,-,0,Open Men Cat 1/2/3/4,5,2,"Men, Master (35 - 49)",12,1,23,6
+Matthew Chun,Male,38,Master Men (35-49),Male 30 - 45 - Male,7,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Michael Gannon,Male,30,Senior Men (23-34),Male 30 - 45 - Male,8,1,,-,0,,-,0,,-,0,,,-,0,30-45 Male,4,3,,-,0,,-,0,,-,0,,-,0,,-,0,4,2
+Stephen Hopkins,Male,39,Master Men (35-49),Male Mercx (No TT Bikes) - Male,4,3,Master Men 35-49 Cat 1-4 - Male,3,5,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 1/2/3, Senior (23-34)",5,2,"Men/Open, Cat 1/2/3, Master (35-49)",3,5,,-,0,"Men, Master (35 - 49)",5,2,17,5
+Ian Rothwell,Male,32,Senior Men (23-34),Male Mercx (No TT Bikes) - Male,5,2,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,1,13,,-,0,Clydesdale 200 lbs+ 23+ TT - Male,1,13,,,-,0,,-,0,"M, Cat 4/5, Senior (23-34)",1,13,"Men/Open, Cat 1/2/3, Senior (23-34)",2,8,,-,0,Open Men Cat 1/2/3/4,10,1,"Men, Senior (23 - 34)",6,1,51,7
+Tony Kotas,Male,54,Golden Master Men (50-59),Male 46 - 60 - Male,3,5,,-,0,,-,0,,-,0,,,-,0,46-60 Male,3,5,,-,0,,-,0,,-,0,,-,0,,-,0,10,2
+Sadie Samson,Female,10,Junior Women,Female Junior U13 - Female,4,3,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,3,1
+Joshua Ludwig,Male,46,Master Men (35-49),Male 46 - 60 - Male,4,3,,-,0,"Men, Master (35-49)",3,5,,-,0,Mens (100-200),Bald Boyz 4 Life,5,1,46-60 Male,2,8,,-,0,"Men/Open, Cat 4/5, Master (35-49)",9,1,"Men/Open, Cat 4/5, Master (35-49)",4,3,,-,0,,-,0,21,6
+Ashley Maginot,Female,30,Senior Women (23-34),Female 30 - 45 - Female,1,13,Women 23-49 Cat 1-5 - Female,1,13,,-,0,,-,0,,,-,0,30-45 Female,1,13,,-,0,,-,0,,-,0,,-,0,,-,0,39,3
+Josh Gallardo,Male,42,Master Men (35-49),Male Mercx (No TT Bikes) - Male,6,1,,-,0,,-,0,,-,0,Mens (100-200),Zone 2? - Wolfpack,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",14,1,4,3
+Kevin Kawainui,Male,62,Golden Master Men (60-69),Male Mercx (No TT Bikes) - Male,7,1,Golden Mstr Men 60-69 Cat 1-5 - Male,2,8,,-,0,,-,0,Mens (200+),BME Racing,1,4,,-,0,"M, Cat 1/2/3, Golden Master (60+)",2,8,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",4,3,24,5
+Alvin Sapigao,Male,38,Master Men (35-49),Male Mercx (No TT Bikes) - Male,8,1,Master Men 35-49 Cat 1-4 - Male,7,1,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Master (35-49)",5,2,,-,0,"Men/Open, Cat 4/5, Master (35-49)",8,1,Open Men Cat 1/2/3/4,13,1,"Men, Master (35 - 49)",21,1,7,6
+Scott Batula,Male,39,Master Men (35-49),Male 30 - 45 - Male,9,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Greg Wolf,Male,59,Golden Master Men (50-59),Male 46 - 60 - Male,5,2,Golden Mstr Men 50-59 Cat 1-5 - Male,9,1,"Men, Golden Master (50-59)",3,5,Golden Master Men 50-59 TT - Male,11,1,,,-,0,46-60 Male,-,0,"M, Cat 4/5, Golden Master (50-59)",-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",-,0,9,4
+Garry Kirkland Ii,Male,45,Master Men (35-49),Male 30 - 45 - Male,10,1,,-,0,,-,0,,-,0,Mens (200+),Iron Wolf,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,3,2
+Matthew Helms,Male,24,Senior Men (23-34),Male Mercx (No TT Bikes) - Male,9,1,Senior Men 23-34 Cat 1-4 - Male,5,2,,-,0,,-,0,,,-,0,24-29 Male,2,8,,-,0,,-,0,,-,0,,-,0,,-,0,11,3
+Scott Hansen,Male,46,Master Men (35-49),Male Mercx (No TT Bikes) - Male,10,1,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,3,5,,-,0,Clydesdale 200 lbs+ 23+ TT - Male,3,5,Mens (100-200),Bald Boyz 4 Life,5,1,Mercx Male,8,1,,-,0,"Men/Open, Cat 4/5, Master (35-49)",8,2,"Men/Open, Cat 4/5, Master (35-49)",12,4,Open Men Cat 1/2/3/4,15,1,"Men, Master (35 - 49)",25,1,21,9
+Kawika Samson,Male,41,Master Men (35-49),Male Fixed Gear (Front Brake Req) - Male,1,13,Senior/Master Men 19-49 Cat 5 - Male,1,13,,-,0,Master Men 35-49 TT - Male,4,3,,,-,0,,-,0,"M, Cat 4/5, Master (35-49)",DNF,1,"Men/Open, Cat 4/5, Master (35-49)",1,13,"Men/Open, Cat 4/5, Master (35-49)",1,13,,-,0,"Men, Master (35 - 49)",11,1,57,7
+Wade Bannister,Male,48,Master Men (35-49),Male Mercx (No TT Bikes) - Male,11,1,Master Men 35-49 Cat 1-4 - Male,5,2,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",13,1,4,3
+Edward Birmingham,Male,60,Golden Master Men (60-69),Male 46 - 60 - Male,6,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Marlene Zeug,Female,50,Golden Master Women (50-59),Female 46 - 60 - Female,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,13,1
+Jeff Caeton,Male,52,Golden Master Men (50-59),Male 46 - 60 - Male,7,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Mike Abbott,Male,64,Golden Master Men (60-69),Male 61 - 99 - Male,3,5,Golden Mstr Men 60-69 Cat 1-5 - Male,6,1,,-,0,Golden Master Men 60-69 TT - Male,5,2,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,8,3
+Christopher Houghtling,Male,55,Golden Master Men (50-59),Male Mercx (No TT Bikes) - Male,12,1,Golden Mstr Men 50-59 Cat 1-5 - Male,7,1,,-,0,,-,0,,,-,0,Mercx Male,9,1,"M, Cat 4/5, Golden Master (50-59)",2,8,,-,0,,-,0,GM Men 50-59 Cat 4/5,8,1,"Men, Golden Master (50 - 59)",DNF,1,13,6
+Matt Shimada,Male,24,Senior Men (23-34),Male Fixed Gear (Front Brake Req) - Male,2,8,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,8,1
+Richard Burke,Male,32,Senior Men (23-34),Male 30 - 45 - Male,11,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Jimmy Orden,Male,50,Golden Master Men (50-59),Male Mercx (No TT Bikes) - Male,13,1,Golden Mstr Men 50-59 Cat 1-5 - Male,5,2,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,6,1,,-,0,4,3
+Tayro Acosta-Maeda,Male,42,Master Men (35-49),Male Mercx (No TT Bikes) - Male,14,1,Senior/Master Men 19-49 Cat 5 - Male,4,3,"Men, Master (35-49)",2,8,Master Men 35-49 TT - Male,7,1,,,-,0,Mercx Male,5,2,,-,0,,-,0,,-,0,,-,0,,-,0,15,5
+Jacqueline Bethel,Female,38,Master Women (35-49),Female 30 - 45 - Female,2,8,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Women, Master (35 - 49)",9,1,9,2
+Shawndy Soencer,Male,51,Golden Master Men (50-59),Male Mercx (No TT Bikes) - Male,15,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Mckenna Nieves,Female,40,Master Women (35-49),Female Mercx (No TT Bikes) - Female,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Women, Master (35-49)",2,8,"Women, Master (35-49)",2,8,Master Women 40-49 Cat 1/2/3/4/5,4,3,"Women, Master (35 - 49)",1,13,45,5
+Matt Palermo,Male,50,Golden Master Men (50-59),Male 46 - 60 - Male,8,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Melissa Tallent,Female,49,Master Women (35-49),Female Mercx (No TT Bikes) - Female,2,8,Women 23-49 Cat 1-5 - Female,2,8,,-,0,,-,0,,,-,0,,-,0,,-,0,"Women, Master (35-49)",1,13,"Women, Master (35-49)",1,13,,-,0,"Women, Master (35 - 49)",4,3,45,5
+Nathan Del Rosario,Male,24,Senior Men (23-34),Male Fixed Gear (Front Brake Req) - Male,3,5,Senior/Master Men 19-49 Cat 5 - Male,7,1,,-,0,Single Speed 19+ TT - Male,2,8,,,-,0,Fixed Male,1,13,,-,0,,-,0,,-,0,,-,0,,-,0,27,4
+Lorin Birmingham,Female,61,Golden Master Women (60-69),Female 46 - 60 - Female,2,8,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,8,1
+Brydon Spencer,Male,24,Senior Men (23-34),Male Mercx (No TT Bikes) - Male,16,1,,-,0,,-,0,Senior Men 23-34 TT - Male,5,2,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Senior (23-34)",5,2,,-,0,,-,0,5,3
+Carrie Caeton,Female,49,Master Women (35-49),Female 46 - 60 - Female,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Master Women 40-49 Cat 1/2/3/4/5,3,5,,-,0,10,2
+Nickolai Poole,Male,36,Master Men (35-49),Male Fixed Gear (Front Brake Req) - Male,4,3,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,3,1
+Atomman Kimm,Male,68,Golden Master Men (60-69),Male 61 - 99 - Male,4,3,,-,0,,-,0,,-,0,,,-,0,61-99 Male,-,0,"M, Cat 4/5, Golden Master (60-69)",-,0,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",-,0,3,1
+Amy Hanley,Female,25,Senior Women (23-34),Female 19 - 29 - Female,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,13,1
+Jason Gelles,Male,49,Master Men (35-49),Male 46 - 60 - Male,9,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Alexandra Michel,Female,52,Golden Master Women (50-59),Female 46 - 60 - Female,4,3,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,3,1
+Adam Shawger,Male,28,Senior Men (23-34),Male 19 - 29 - Male,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,5,1
+Matthew Asada,Male,36,Master Men (35-49),Male Mercx (No TT Bikes) - Male,17,1,Master Men 35-49 Cat 1-4 - Male,14,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,2,2
+Wojciech Szymanski,Male,73,Golden Master Men (70+),Male 61 - 99 - Male,5,2,Golden Mstr Men 70+ Cat 1-5 - Male,1,13,"Men, Golden Master 70+",1,13,Golden Master Men 70+ TT - Male,1,13,,,-,0,61-99 Male,4,3,"M, 70+",1,13,,-,0,,-,0,,-,0,"Men, 70+",1,13,70,7
+Eric Marsh,Male,48,Master Men (35-49),Male 46 - 60 - Male,10,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Alicia Shoulta,Female,47,Master Women (35-49),Female 46 - 60 - Female,5,2,,-,0,,-,0,,-,0,Womens - Overall,Fem Bats,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,4,2
+Malia K Harunaga,Female,32,Senior Women (23-34),Female Fixed Gear (Front Brake Req) - Female,1,13,Women 23-49 Cat 1-5 - Female,4,3,,-,0,Open Women 23-49 TT - Female,3,5,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,21,3
+Francesca Leonetti,Female,54,Golden Master Women (50-59),Female 46 - 60 - Female,6,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Jennifer Poepoe,Female,55,Golden Master Women (50-59),Female 46 - 60 - Female,7,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Michael Goss,Male,51,Golden Master Men (50-59),Male Mercx (No TT Bikes) - Male,18,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Pei Tung Wu,Female,52,Golden Master Women (50-59),Female 46 - 60 - Female,8,1,,-,0,,-,0,Women 50+ TT - Female,6,1,,,-,0,,-,0,"W, Golden Master (50-59)",-,0,,-,0,,-,0,,-,0,"Women, Golden Master (50 - 59)",1,13,15,3
+Leon Parker,Male,41,Master Men (35-49),Male Mercx (No TT Bikes) - Male,19,1,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,6,1,,-,0,,-,0,,,-,0,30-45 Male,5,2,,-,0,,-,0,,-,0,Masters Men 35-49 Cat 5,DNF,1,,-,0,5,4
+Paula Bender,Female,65,Golden Master Women (60-69),Female Mercx (No TT Bikes) - Female,3,5,,-,0,,-,0,Women 50+ TT - Female,8,1,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Women 50+ Cat 1/2/3/4/5,DNF,1,,-,0,7,3
+Paul Wheeler,Male,40,Master Men (35-49),Male Fixed Gear (Front Brake Req) - Male,5,2,,-,0,,-,0,Master Men 35-49 TT - Male,13,1,,,-,0,Mercx Male,11,1,"M, Cat 1/2/3, Master (35-49)",-,0,,-,0,,-,0,,-,0,,-,0,4,3
+Samuel Fesenmeier,Male,31,Senior Men (23-34),Male Mercx (No TT Bikes) - Male,20,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Sarah McNaboe,Female,39,Master Women (35-49),Female Mercx (No TT Bikes) - Female,4,3,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,3,1
+Tiana Spencer,Female,45,Master Women (35-49),Female Mercx (No TT Bikes) - Female,5,2,Women 23-49 Cat 1-5 - Female,5,2,,-,0,Open Women 23-49 TT - Female,5,2,,,-,0,,-,0,,-,0,"Women, Master (35-49)",6,1,"Women, Master (35-49)",7,1,,-,0,,-,0,8,5
+Jessica Chan,Female,27,Senior Women (23-34),Female 19 - 29 - Male,1,13,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,13,1
+William Turner,Male,54,Golden Master Men (50-59),Male 46 - 60 - Male,11,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Kevin Palmer,Male,32,Senior Men (23-34),Male Mercx (No TT Bikes) - Male,21,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Hannah Richards,Female,32,Senior Women (23-34),Female 30 - 45 - Female,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,5,1
+Mandi Jones,Female,44,Master Women (35-49),Female 30 - 45 - Female,4,3,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,3,1
+Don Eovino,Male,77,Golden Master Men (70+),Male 61 - 99 - Male,6,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Gary Dunn,Male,73,Golden Master Men (70+),Male 61 - 99 - Male,7,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Keith Minn,Male,73,Golden Master Men (70+),Male PC - Male,1,13,Golden Mstr Men 70+ Cat 1-5 - Male,3,5,,-,0,Golden Master Men 70+ TT - Male,3,5,,,-,0,PC Male,-,0,"M, 70+",-,0,,-,0,,-,0,,-,0,,-,0,23,3
+Danielle Rummler,Female,24,Senior Women (23-34),Female 19 - 29 - Female,2,8,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,8,1
+Lily Bakour,Female,23,Senior Women (23-34),Female 19 - 29 - Female,3,5,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,5,1
+Scott Gregoire,Male,30,Senior Men (23-34),Male Fixed Gear (Front Brake Req) - Male,DNF,1,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Douglas Baker,Male,55,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,1,13,,-,0,,-,0,,,-,0,,-,0,"M, Cat 1/2/3, Golden Master (50-59)",1,13,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",3,5,31,3
+Marcel Aguiar,Male,30,Senior Men (23-34),,-,0,Senior Men 23-34 Cat 1-4 - Male,2,8,,-,0,,-,0,Mens (100-200),Spam Stampede,3,2,,-,0,,-,0,"Men/Open, Cat 1/2/3, Senior (23-34)",3,5,"Men/Open, Cat 1/2/3, Senior (23-34)",3,5,,-,0,,-,0,20,4
+Joel Temple,Male,30,Senior Men (23-34),,-,0,Senior Men 23-34 Cat 1-4 - Male,3,5,,-,0,,-,0,Mens (100-200),Spam Stampede,3,2,Mercx Male,6,1,"M, Cat 4/5, Senior (23-34)",2,8,,-,0,,-,0,,-,0,"Men, Senior (23 - 34)",1,13,29,5
+John Proppe,Male,36,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,4,3,,-,0,,-,0,Mens (100-200),Four Lokos,4,1,,-,0,,-,0,"Men/Open, Cat 1/2/3, Master (35-49)",5,2,"Men/Open, Cat 1/2/3, Master (35-49)",DNF,1,,-,0,,-,0,7,4
+Conrad Newfield,Male,24,Senior Men (23-34),,-,0,Senior/Master Men 19-49 Cat 5 - Male,2,8,,-,0,Senior Men 23-34 TT - Male,2,8,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,16,2
+Tyler McNamee,Male,39,Master Men (35-49),,-,0,Senior/Master Men 19-49 Cat 5 - Male,3,5,,-,0,,-,0,,,-,0,Mercx Male,4,3,"M, Cat 4/5, Master (35-49)",3,5,,-,0,,-,0,Masters Men 35-49 Cat 5,1,13,"Men, Master (35 - 49)",6,1,27,5
+Robert Graham,Male,38,Master Men (35-49),,-,0,Senior/Master Men 19-49 Cat 5 - Male,5,2,,-,0,,-,0,Mens (100-200),Bald Boyz 4 Life,5,1,Mercx Male,3,5,,-,0,,-,0,,-,0,Masters Men 35-49 Cat 5,4,3,,-,0,11,4
+Kyle Nakatsuka,Male,30,Senior Men (23-34),,-,0,Senior/Master Men 19-49 Cat 5 - Male,6,1,,-,0,Senior Men 23-34 TT - Male,4,3,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Senior (23 - 34)",5,2,6,3
+Timothy Kutara,Male,37,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,8,1,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Master (35-49)",4,3,"Men/Open, Cat 4/5, Master (35-49)",-,0,"Men/Open, Cat 4/5, Master (35-49)",2,16,Open Men Cat 1/2/3/4,8,1,,-,0,21,4
+Frank Dorn,Male,48,Master Men (35-49),,-,0,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,2,8,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,8,1
+Elliott Kujat,Male,42,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,9,1,,-,0,,-,0,Mixed - Overall,TCT Go Home,1,4,30-45 Male,-,0,,-,0,,-,0,,-,0,Open Men Cat 1/2/3/4,14,1,"Men, Master (35 - 49)",23,1,7,4
+Mark Herrington,Male,51,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,3,5,,-,0,Golden Master Men 50-59 TT - Male,8,1,,,-,0,,-,0,"M, Cat 1/2/3, Golden Master (50-59)",-,0,"Men/Open, Cat 4/5, Golden Master (50+)",3,5,"Men/Open, Cat 4/5, Golden Master (50+)",8,1,,-,0,,-,0,12,4
+Cy Shimizu,Male,46,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,10,1,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Master (35-49)",6,1,"Men/Open, Cat 4/5, Master (35-49)",6,1,"Men/Open, Cat 4/5, Master (35-49)",7,1,,-,0,"Men, Master (35 - 49)",24,1,5,5
+Cecil Ordono,Male,55,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,4,3,,-,0,Golden Master Men 50-59 TT - Male,7,1,,,-,0,,-,0,"M, Cat 4/5, Golden Master (50-59)",DNF,1,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",DNF,1,6,4
+Christopher Salas,Male,36,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,11,1,,-,0,Master Men 35-49 TT - Male,10,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,2,2
+Daniel Otchere,Male,45,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,12,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+David Lower,Male,56,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,6,1,,-,0,,-,0,Mens (200+),Iron Wolf,2,2,,-,0,,-,0,"Men/Open, Cat 4/5, Golden Master (50+)",2,8,"Men/Open, Cat 4/5, Golden Master (50+)",2,8,GM Men 50-59 Cat 4/5,3,5,"Men, Golden Master (50 - 59)",9,1,25,6
+James Bos,Male,34,Senior Men (23-34),,-,0,Senior Men 23-34 Cat 1-4 - Male,6,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+John Selvaggio,Male,63,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,3,5,,-,0,Golden Master Men 60-69 TT - Male,7,1,Mixed - Overall,TCT Go Home,1,4,61-99 Male,3,5,"M, Cat 4/5, Golden Master (60-69)",1,13,"Men/Open, Cat 4/5, Golden Master (50+)",4,3,"Men/Open, Cat 4/5, Golden Master (50+)",6,1,GM Men 60+ Cat 4/5,1,13,"Men, Golden Master (60 - 69)",6,1,46,9
+Paul Escobar,Male,57,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,8,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",12,1,2,2
+Scott Daubert,Male,64,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,4,3,"Men, Golden Master (60-69)",2,8,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",7,1,12,3
+Mark Anderson,Male,60,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,5,2,,-,0,,-,0,Mens (200+),Wolfpack New Golden Elite,3,2,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,4,2
+Emi Thieme,Female,45,Master Women (35-49),,-,0,Women 23-49 Cat 1-5 - Female,3,5,,-,0,Open Women 23-49 TT - Female,2,8,Mixed - Overall,TCT Go Home,1,4,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,17,3
+Michael Inada,Male,49,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,13,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",16,1,2,2
+James Reilly,Male,68,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,7,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 60+ Cat 4/5,2,8,,-,0,9,2
+Edgar Orden,Male,51,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,10,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Shandy Spencer,Male,51,Golden Master Men (50-59),,-,0,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,4,3,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,3,1
+Tom Delaney,Male,64,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,8,1,,-,0,Golden Master Men 60-69 TT - Male,6,1,,,-,0,61-99 Male,5,2,,-,0,,-,0,,-,0,GM Men 60+ Cat 4/5,4,3,,-,0,7,4
+Kim Funasaki,Female,51,Golden Master Women (50-59),,-,0,Women 50+ Cat 1-5 - Female,1,13,,-,0,Women 50+ TT - Female,1,13,Mixed - Overall,TCT Go Home,1,4,,-,0,"W, Golden Master (50-59)",1,13,,-,0,,-,0,GM Women 50+ Cat 1/2/3/4/5,2,8,"Women, Golden Master (50 - 59)",DNF,1,52,6
+Michael Orr,Male,64,Golden Master Men (60-69),,-,0,Golden Mstr Men 60-69 Cat 1-5 - Male,9,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Kenneth Lum,Male,51,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,11,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Zachary Metz,Male,35,Master Men (35-49),,-,0,Senior/Master Men 19-49 Cat 5 - Male,8,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Melanie Koehl,Female,54,Golden Master Women (50-59),,-,0,Women 50+ Cat 1-5 - Female,2,8,,-,0,Women 50+ TT - Female,3,5,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,13,2
+Brian Lum,Male,70,Golden Master Men (70+),,-,0,Golden Mstr Men 70+ Cat 1-5 - Male,2,8,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,8,1
+Litoray Olaes,Male,56,Golden Master Men (50-59),,-,0,Golden Mstr Men 50-59 Cat 1-5 - Male,12,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 5, Golden Master (50+)",1,13,,-,0,,-,0,14,2
+Joseph Vaughan,Male,40,Master Men (35-49),,-,0,Senior/Master Men 19-49 Cat 5 - Male,9,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Neal Faradineh,Male,41,Master Men (35-49),,-,0,Master Men 35-49 Cat 1-4 - Male,15,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+David Gutierrez,Male,31,Senior Men (23-34),,-,0,Senior/Master Men 19-49 Cat 5 - Male,10,1,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Derek Folkers,Male,36,Master Men (35-49),,-,0,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,5,2,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,2,1
+Brandon Millichamp,Male,35,Master Men (35-49),,-,0,Clydesdale Men 200 lbs+ 23+ Cat 1-5 - Male,7,1,,-,0,,-,0,,,-,0,Mercx Male,10,1,,-,0,,-,0,,-,0,,-,0,,-,0,2,2
+Lou Ortiz,Male,54,Golden Master Men (50-59),,-,0,,-,0,"Men, Golden Master (50-59)",1,13,Golden Master Men 50-59 TT - Male,3,5,,,-,0,,-,0,"M, Cat 1/2/3, Golden Master (50-59)",3,5,,-,0,"Men/Open, Cat 4/5, Golden Master (50+)",1,13,Open Men Cat 1/2/3/4,6,1,"Men, Golden Master (50 - 59)",2,8,45,6
+Bryan Guenther,Male,58,Golden Master Men (50-59),,-,0,,-,0,"Men, Golden Master (50-59)",2,8,Golden Master Men 50-59 TT - Male,5,2,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,5,2,,-,0,12,3
+Louis Paolella,Male,38,Master Men (35-49),,-,0,,-,0,"Men, Master (35-49)",4,3,Master Men 35-49 TT - Male,8,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,4,2
+John Sage,Male,63,Golden Master Men (60-69),,-,0,,-,0,"Men, Golden Master (60-69)",3,5,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,5,1
+Sharon Keith,Female,71,Golden Master Women (70+),,-,0,,-,0,"Women, Golden Master 70+",1,13,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,13,1
+Shawn Brown,Male,38,Master Men (35-49),,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,3,5,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",4,3,8,2
+Patrick Ellison,Male,53,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,2,8,Mens (200+),BME Racing,1,4,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",11,1,13,3
+Nicholas Brown,Male,41,Master Men (35-49),Male 30 - 45 - Male,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,5,2,,,-,0,30-45 Male,1,13,,-,0,,-,0,,-,0,,-,0,,-,0,15,2
+Josh Dubois,Male,38,Master Men (35-49),,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,6,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",15,1,2,2
+Will Van Der Reis,Male,57,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,4,3,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,7,1,,-,0,4,2
+Carly Brown,Female,39,Master Women (35-49),Female 30 - 45 - Female,-,0,,-,0,,-,0,Open Women 23-49 TT - Female,1,13,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,13,1
+Gary Holton,Male,59,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,6,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Ed Price,Male,61,Golden Master Men (60-69),,-,0,,-,0,,-,0,Golden Master Men 60-69 TT - Male,2,8,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,8,1
+Kevin Yang,Male,36,Master Men (35-49),,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,9,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Thomas Williamson,Male,60,Golden Master Men (60-69),,-,0,,-,0,,-,0,Golden Master Men 60-69 TT - Male,3,5,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,5,1
+Burt Senas,Male,50,Golden Master Men (50-59),,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,11,1,,,-,0,,-,0,"M, Cat 4/5, Golden Master (50-59)",3,5,"Men/Open, Cat 4/5, Golden Master (50+)",1,13,"Men/Open, Cat 4/5, Golden Master (50+)",3,5,GM Men 50-59 Cat 4/5,1,13,"Men, Golden Master (50 - 59)",7,1,38,6
+Andrew McGowan,Male,35,Master Men (35-49),,-,0,,-,0,,-,0,Master Men 35-49 TT - Male,12,1,,,-,0,,-,0,"M, Cat 1/2/3, Master (35-49)",4,3,"Men/Open, Cat 4/5, Master (35-49)",-,0,,-,0,,-,0,,-,0,4,2
+Mackenzie Yoshida,Male,34,Senior Men (23-34),Male Fixed Gear (Front Brake Req) - Male,-,0,,-,0,,-,0,Senior Men 23-34 TT - Male,6,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+James Edward Bos,Male,34,Senior Men (23-34),,-,0,,-,0,,-,0,Senior Men 23-34 TT - Male,7,1,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Senior (23-34)",2,8,"Men/Open, Cat 4/5, Senior (23-34)",4,3,,-,0,"Men, Senior (23 - 34)",8,1,13,4
+Cyrille Collard,Male,52,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,9,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Mike Taratko,Male,51,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,10,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",16,1,2,2
+Jo Cinter,Female,56,Golden Master Women (50-59),,-,0,,-,0,,-,0,Women 50+ TT - Female,2,8,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,8,1
+Craig McHenry,Male,52,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,12,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Shawndy Spencer,Male,51,Golden Master Men (50-59),,-,0,,-,0,,-,0,Clydesdale 200 lbs+ 23+ TT - Male,2,8,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Golden Master (50+)",5,2,"Men/Open, Cat 4/5, Golden Master (50+)",5,2,,-,0,,-,0,12,3
+Yun Yi,Female,42,Master Women (35-49),,-,0,,-,0,,-,0,Open Women 23-49 TT - Female,4,3,,,-,0,30-45 Female,3,5,"W, Master (35-49)",1,13,"Women, Master (35-49)",7,1,"Women, Master (35-49)",5,2,Master Women 40-49 Cat 1/2/3/4/5,1,13,"Women, Master (35 - 49)",10,1,38,7
+Patricia Jennings,Female,54,Golden Master Women (50-59),,-,0,,-,0,,-,0,Women 50+ TT - Female,4,3,,,-,0,46-60 Female,1,13,,-,0,,-,0,,-,0,,-,0,,-,0,16,2
+Denee Madamba,Female,62,Golden Master Women (60-69),,-,0,,-,0,,-,0,Women 50+ TT - Female,5,2,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Women 50+ Cat 1/2/3/4/5,3,5,,-,0,7,2
+Andrew Gould,Male,68,Golden Master Men (60-69),,-,0,,-,0,,-,0,Golden Master Men 60-69 TT - Male,8,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Pamela Coleman,Female,42,Master Women (35-49),,-,0,,-,0,,-,0,Open Women 23-49 TT - Female,6,1,,,-,0,30-45 Female,4,3,,-,0,,-,0,,-,0,Master Women 40-49 Cat 1/2/3/4/5,2,8,"Women, Master (35 - 49)",7,1,13,4
+Daniel Dickler,Male,53,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,13,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Cecile Chisholm,Female,61,Golden Master Women (60-69),,-,0,,-,0,,-,0,Women 50+ TT - Female,7,1,,,-,0,,-,0,"W, Golden Master (60-69)",2,8,,-,0,,-,0,,-,0,,-,0,9,2
+Justin Homma,Male,30,Senior Men (23-34),,-,0,,-,0,,-,0,Senior Men 23-34 TT - Male,8,1,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Bruce Wacker,Male,77,Golden Master Men (70+),,-,0,,-,0,,-,0,Golden Master Men 70+ TT - Male,2,8,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,8,1
+Kevin Taira,Male,55,Golden Master Men (50-59),,-,0,,-,0,,-,0,Golden Master Men 50-59 TT - Male,14,1,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 5, Golden Master (50+)",4,3,,-,0,,-,0,4,2
+Matt Chun,Male,38,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Zone 2? - Wolfpack,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,2,1
+Tim Howell,Male,45,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Zone 2? - Wolfpack,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,2,1
+Steve Hopkins,Male,39,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Zone 2? - Wolfpack,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,2,1
+Jake Rahlfs,Male,31,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Spam Stampede,3,2,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,2,1
+Tyler Higgins,Male,33,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Four Lokos,4,1,,-,0,,-,0,"Men/Open, Cat 1/2/3, Senior (23-34)",4,3,"Men/Open, Cat 1/2/3, Senior (23-34)",2,8,,-,0,"Men, Senior (23 - 34)",-,0,12,3
+Jordan Schick,Male,38,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Four Lokos,4,1,,-,0,,-,0,"Men/Open, Cat 1/2/3, Master (35-49)",1,13,,-,0,,-,0,,-,0,14,2
+Jason Diaz,Male,39,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Four Lokos,4,1,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",18,1,2,2
+Ron Barber,Male,52,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,Mens (200+),Iron Wolf,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,2,1
+Tony Lang,Male,56,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,Mens (200+),Wolfpack New Golden Elite,3,2,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,2,1
+Robert Latour,Male,60,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,Mens (200+),Iron Wolf,2,2,,-,0,,-,0,,-,0,,-,0,GM Men 60+ Cat 4/5,3,5,,-,0,7,2
+Carly Killam,Female,39,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,Womens - Overall,TeamBSC,1,5,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,5,1
+Mieko Oschner,Female,46,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,Womens - Overall,TeamBSC,1,5,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,5,1
+Michelle Simmons,Female,49,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,Womens - Overall,TeamBSC,1,5,,-,0,,-,0,"Women, Master (35-49)",5,2,"Women, Master (35-49)",4,3,,-,0,,-,0,10,3
+John Lambert,Male,61,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,Mens (200+),Wolfpack New Golden Elite,3,2,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",2,8,10,2
+Michael Moorehead,Male,52,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,Mens (100-200),Bald Boyz 4 Life,5,1,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,4,3,,-,0,4,2
+Marcy Fleming,Female,62,Golden Master Women (60-69),,-,0,,-,0,,-,0,,-,0,Womens - Overall,Fem Bats,2,2,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,2,1
+Jennifer George,Female,50,Golden Master Women (50-59),,-,0,,-,0,,-,0,,-,0,Womens - Overall,Fem Bats,2,2,Mercx Female,3,5,"W, Golden Master (50-59)",2,8,"Women, Master (35-49)",-,0,,-,0,,-,0,,-,0,15,3
+Karen Gusmer,Female,26,Senior Women (23-34),,-,0,,-,0,,-,0,,-,0,Womens - Overall,Fem Bats,2,2,Mercx Female,2,8,"W, Senior (23-34)",1,13,,-,0,,-,0,,-,0,,-,0,23,3
+Jeff Ling,Male,43,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,Mens (200+),BME Racing,1,4,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,4,1
+Zac Ooi,Male,26,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,Mercx Male,2,8,,-,0,,-,0,,-,0,,-,0,,-,0,8,1
+Allyssa Bernhardt,Female,38,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,30-45 Female,2,8,,-,0,,-,0,,-,0,,-,0,,-,0,8,1
+Lucas Tettamente,Male,52,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,46-60 Male,4,3,,-,0,,-,0,,-,0,,-,0,,-,0,3,1
+Tim Connelly,Male,55,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,46-60 Male,5,2,,-,0,,-,0,"Men/Open, Cat 4/5, Golden Master (50+)",7,1,,-,0,,-,0,3,2
+Alix Toulier,Male,32,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,Mercx Male,7,1,,-,0,,-,0,,-,0,,-,0,,-,0,1,1
+Ha Lisa,Female,38,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,Mercx Female,1,13,,-,0,,-,0,,-,0,,-,0,,-,0,13,1
+Lori McCarney,Female,69,Golden Master Women (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"W, Golden Master (60-69)",1,13,"Women, Master (35-49)",9,1,,-,0,GM Women 50+ Cat 1/2/3/4/5,1,13,,-,0,27,3
+Patrick Chung,Male,73,Golden Master Men (70+),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, 70+",DNF,1,,-,0,,-,0,,-,0,"Men, 70+",-,0,1,1
+Geoff Hamilton,Male,70,Golden Master Men (70+),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, 70+",DNF,1,,-,0,,-,0,,-,0,,-,0,1,1
+Alison Hansen,Female,35,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"W, Master (35-49)",DNF,1,,-,0,,-,0,,-,0,,-,0,1,1
+Ben Holland,Male,57,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Golden Master (50-59)",1,13,,-,0,,-,0,,-,0,,-,0,13,1
+David Jantz,Male,28,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Senior (23-34)",3,5,,-,0,,-,0,,-,0,,-,0,5,1
+Cesar Guzman,Male,57,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Golden Master (50-59)",4,3,,-,0,,-,0,,-,0,,-,0,3,1
+Brian Yap,Male,26,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Senior (23-34)",4,3,"Men/Open, Cat 5, All Ages",3,5,,-,0,Senior Men 18-34 Cat 5,2,8,,-,0,16,3
+Jeffrey Reyes,Male,31,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Senior (23-34)",5,2,"Men/Open, Cat 4/5, Senior (23-34)",3,5,"Men/Open, Cat 4/5, Senior (23-34)",6,1,Senior Men 18-34 Cat 5,3,5,"Men, Senior (23 - 34)",9,1,14,5
+Edgardo Napana,Male,60,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 4/5, Golden Master (60-69)",DNF,1,,-,0,,-,0,,-,0,,-,0,1,1
+Tyler Ramsbottom,Male,35,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 1/2/3, Master (35-49)",3,5,,-,0,,-,0,Open Men Cat 1/2/3/4,4,3,"Men, Master (35 - 49)",3,5,13,3
+Aaron Sundberg,Male,50,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 1/2/3, Master (35-49)",6,1,,-,0,,-,0,,-,0,,-,0,1,1
+Whit Somerall,Male,35,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,"M, Cat 1/2/3, Master (35-49)",DNF,1,"Men/Open, Cat 1/2/3, Master (35-49)",2,8,,-,0,,-,0,,-,0,9,2
+Michael Stewart,Male,46,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 5, All Ages",1,13,"Men/Open, Cat 4/5, Master (35-49)",10,1,,-,0,,-,0,14,2
+Brian Murakawa,Male,63,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 5, All Ages",2,8,"Men/Open, Cat 5, Golden Master (50+)",3,5,,-,0,,-,0,13,2
+Andrew Buehler,Male,21,U23 Men,,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 5, All Ages",4,3,,-,0,,-,0,,-,0,3,1
+Samson Ramirez,Male,61,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 5, All Ages",5,2,,-,0,,-,0,,-,0,2,1
+Jerry Freeman,Male,41,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Master (35-49)",2,8,"Men/Open, Cat 4/5, Master (35-49)",3,5,,-,0,,-,0,13,2
+Elliot Kujat,Male,42,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Master (35-49)",3,5,,-,0,,-,0,,-,0,5,1
+Micah Watts,Male,47,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Master (35-49)",4,3,"Men/Open, Cat 4/5, Master (35-49)",6,1,,-,0,,-,0,4,2
+Devin Lacrosse,Male,37,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Master (35-49)",5,2,"Men/Open, Cat 4/5, Master (35-49)",11,1,Masters Men 35-49 Cat 5,6,1,"Men, Master (35 - 49)",-,0,4,3
+Adrian Preciado,Male,37,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Master (35-49)",7,1,,-,0,,-,0,,-,0,1,1
+Hiroyoshi Kitanishi,Male,56,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Golden Master (50+)",6,1,,-,0,,-,0,,-,0,1,1
+Darragh O'Carroll,Male,38,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Master (35-49)",10,1,"Men/Open, Cat 4/5, Master (35-49)",5,2,,-,0,,-,0,3,2
+Jeffery Dicho,Male,33,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Master (35-49)",11,1,"Men/Open, Cat 4/5, Senior (23-34)",7,1,,-,0,,-,0,2,2
+Andres Darnel,Male,44,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Master (35-49)",12,1,,-,0,,-,0,,-,0,1,1
+Joel Vowell,Male,54,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Men/Open, Cat 1/2/3, Golden Master (50+)",2,8,"Men/Open, Cat 1/2/3, Golden Master (50+)",2,8,,-,0,,-,0,16,2
+Christyn Gaa,Female,38,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Women, Master (35-49)",3,5,"Women, Master (35-49)",3,5,,-,0,"Women, Master (35 - 49)",5,2,12,3
+Nikki Medwetz,Female,43,Master Women (35-49),Female 30 - 45 - Female,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Women, Master (35-49)",4,3,,-,0,,-,0,,-,0,3,1
+Desiree Varela,Female,42,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,"Women, Master (35-49)",8,1,,-,0,,-,0,,-,0,1,1
+Christopher Murphy,Male,36,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 5, Senior (23-49)",1,13,,-,0,,-,0,13,1
+Ted Stimac,Male,59,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 5, Golden Master (50+)",2,8,,-,0,,-,0,8,1
+Elijah Flores,Male,24,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Senior (23-34)",2,8,,-,0,,-,0,8,1
+Tino Espiritu,Male,56,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Golden Master (50+)",4,3,GM Men 50-59 Cat 4/5,2,8,,-,0,11,2
+Shane Anzai,Male,36,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Master (35-49)",9,1,,-,0,,-,0,1,1
+Mclean Worsham,Male,35,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 4/5, Master (35-49)",DNF,1,,-,0,,-,0,1,1
+Danielle Nuszkowski,Female,28,Senior Women (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Women, Golden Master (50+)",1,13,Sen Women 23-39 Cat 1/2/3/4/5,1,13,"Women, Senior (23 - 34)",1,13,39,3
+Lisa Ha,Female,38,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Women, Master (35-49)",6,1,Sen Women 23-39 Cat 1/2/3/4/5,2,8,"Women, Master (35 - 49)",DNF,1,10,3
+Tiffany Drummond,Female,35,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Women, Master (35-49)",8,1,,-,0,,-,0,1,1
+Danny Garcia Mangual,Male,35,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,"Men/Open, Cat 1/2/3, Master (35-49)",5,2,Open Men Cat 1/2/3/4,12,1,"Men, Master (35 - 49)",10,1,4,3
+Evan Apana,Male,9,Junior Men,,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Beginner Men Cat 5,1,13,,-,0,13,1
+Kyres Snyder,Male,11,Junior Men,,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Beginner Men Cat 5,2,8,,-,0,8,1
+Jayden Parker,Female,10,Junior Women,,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Beginner Women Cat 1/2/3/4/5,1,13,,-,0,13,1
+Gregg Roh,Male,59,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Open Men Cat 1/2/3/4,11,1,"Men, Golden Master (50 - 59)",6,1,2,2
+Rio Williams,Female,14,Junior Women,,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Jun Women Cat 1/2/3/4/5,3,5,,-,0,5,1
+Paul Wong,Male,55,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,9,1,,-,0,1,1
+Amador Sadang Jr,Male,55,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,10,1,,-,0,1,1
+Enrik Reyes,Male,56,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,11,1,"Men, Golden Master (50 - 59)",-,0,1,1
+RC Anderson,Male,55,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 50-59 Cat 4/5,12,1,,-,0,1,1
+John Hoffmann,Male,60,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 60+ Cat 4/5,5,2,,-,0,2,1
+F. Kevin Aucello,Male,65,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,GM Men 60+ Cat 4/5,6,1,,-,0,1,1
+Ray Akins,Male,45,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Masters Men 35-49 Cat 5,2,8,,-,0,8,1
+William Wong,Female,41,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Masters Men 35-49 Cat 5,3,5,,-,0,5,1
+Renier Castillo,Male,47,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Masters Men 35-49 Cat 5,5,2,,-,0,2,1
+Brian Regula,Male,48,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Masters Men 35-49 Cat 5,7,1,,-,0,1,1
+Elijah Bernardo-Flores,Male,24,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Senior Men 18-34 Cat 5,1,13,,-,0,13,1
+Alan Sleight,Male,28,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,Senior Men 18-34 Cat 5,4,3,,-,0,3,1
+Peter Lombard,Male,47,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",2,8,8,1
+Pete Dunne,Male,43,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",9,1,1,1
+Florentino Espiritu,Male,56,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",4,3,3,1
+Edward Oingerang,Male,32,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Senior (23 - 34)",3,5,5,1
+Jacob Rahlfs,Male,31,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Senior (23 - 34)",4,3,3,1
+Jeff Lassle,Male,64,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",3,5,5,1
+Eric Sugiyama,Male,56,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",5,2,2,1
+Philip Campos,Male,47,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",17,1,1,1
+Henry Eby,Male,66,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",5,2,2,1
+Maysoun Geizer,Female,44,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Women, Master (35 - 49)",2,8,8,1
+Soroush Shahriari,Male,21,U23 Men,,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,U23 Men (19 - 22),2,8,8,1
+Everett Sakai,Male,51,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",8,1,1,1
+Ferenc Jacso,Male,53,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",10,1,1,1
+Mieko Ochsner,Female,46,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Women, Master (35 - 49)",3,5,5,1
+Daniel Cheung,Male,46,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",19,1,1,1
+Jamss Gnocchi,Male,34,Senior Men (23-34),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Senior (23 - 34)",7,1,1,1
+Samuel Moore,Male,38,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",20,1,1,1
+Brian Cunningham,Male,43,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",22,1,1,1
+Brad Curtis,Male,49,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",26,1,1,1
+Jay Miller,Male,51,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",13,1,1,1
+Joshua Stinson,Male,50,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",14,1,1,1
+Stella Hartman,Female,22,U23 Women,,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,U23 Women (19 - 22),1,13,13,1
+Mikey Brown,Male,45,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",27,1,1,1
+Deborah Weber,Female,48,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Women, Master (35 - 49)",6,1,1,1
+Jon Giese,Male,59,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",15,1,1,1
+Jordan Torres,Male,38,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",28,1,1,1
+David Amster,Male,73,Golden Master Men (70+),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, 70+",2,8,8,1
+Charles Calvet,Male,64,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",8,1,1,1
+Andrew Ferguson,Male,37,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",29,1,1,1
+Katelyn Alexander,Female,37,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Women, Master (35 - 49)",8,1,1,1
+Tim Gill,Male,65,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",9,1,1,1
+Bryant Natividad,Male,54,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",17,1,1,1
+Marc Decosta,Male,48,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",DNF,1,1,1
+Blayde Blas,Male,21,U23 Men,,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,U23 Men (19 - 22),DNF,1,1,1
+Fritz Johnson,Male,56,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",-,0,0,0
+Yuko Nakai,Female,49,Master Women (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Women, Master (35 - 49)",DNF,1,1,1
+Constantine Sinnis,Male,63,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",DNF,1,1,1
+Patrick James,Male,60,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",DNF,1,1,1
+Kyle Mitchell,Male,20,U23 Men,,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,U23 Men (19 - 22),DNF,1,1,1
+David Power,Male,47,Master Men (35-49),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Master (35 - 49)",-,0,0,0
+Elliot Block,Male,63,Golden Master Men (60-69),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (60 - 69)",-,0,0,0
+Mallory Hart,Male,56,Golden Master Men (50-59),,-,0,,-,0,,-,0,,-,0,,,-,0,,-,0,,-,0,,-,0,,-,0,,-,0,"Men, Golden Master (50 - 59)",-,0,0,0

@@ -43,16 +43,28 @@ categories:
     maxAge: 99
 
 events:
+  - name: DEMRR
+    date: '2023-08-27'
   - name: Olomana RR
+    date: '2023-08-13'
   - name: "Kapolei Crit #2"
+    date: '2023-07-23'
   - name: "Kapolei Crit #1"
+    date: '2023-07-09'
   - name: Pineapple Hill RR
+    date: '2023-06-11'
   - name: Malaekahana TT
+    date: '2023-05-06'
   - name: Kualoa Team TT
+    date: '2023-04-23'
   - name: Tantalus TT
+    date: '2023-04-09'
   - name: Castle to Hanauma Bay
+    date: '2023-03-19'
   - name: Pineapple Sprint
+    date: '2023-03-05'
   - name: Makaha Time Trial
+    date: '2023-02-11'
 
 sponsors:
   - name: Hawaii Triathlon Center

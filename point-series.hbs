@@ -5,8 +5,9 @@ subtitle: Point Series
 description: The Official Website of ASBRA, the Aloha State Bicycle Racing Association.
 activePage: point-series
 head: |
-  <link href="/style/index.css" rel="stylesheet" type="text/css">
-  <link href="/style/point-series.css" rel="stylesheet" type="text/css">
+  <link href="/style/index.css" rel="stylesheet" type="text/css" />
+  <link href="/style/point-series.css" rel="stylesheet" type="text/css" />
+  <script src="/js/d3.min.js"></script>
 ---*/
 
 <section id="overview">
@@ -151,6 +152,15 @@ head: |
     </table>
   </details>
 
+  <script>
+    const eventInfo = {
+      {{#each events }}
+      '{{name}}': {
+        date: new Date('{{date}}')
+      },
+      {{/each}}
+    };
+  </script>
   {{#each categories}}
     {{#if ($not-empty ($filter-by ../seriesPoints "Series_Category" name ))}}
       <details class="results category-results">
@@ -167,6 +177,146 @@ head: |
           {{/sorted-each}}
           </tbody>
         </table>
+
+        <div id="{{ $replaceAll ($replaceAll ($replaceAll name "(" "") ")" "") " " "_"}}_chart" class="points-chart"></div>
+
+        <script>
+          (function makeChart() {
+            const participants = [
+              {{#each ($filter-by ../seriesPoints "Series_Category" name )}}
+                {
+                  name: '{{Full_Name}}',
+                  totalPoints: {{Points_Total}},
+                  results: [
+                    {{#each ../../events }}
+                      {
+                        event: '{{name}}',
+                        points: {{ $get ../. ($concat ($replaceAll name " " "_") "_Points")}}
+                      },
+                    {{/each}}
+                  ]
+                },
+              {{/each}}
+            ];
+
+            for (const p of participants) {
+              const sum = p.results.map(e => e.points).reduce((v1, v2) => v1 + v2);
+              if (sum !== p.totalPoints) {
+                console.warn(`${p.name}: ${p.totalPoints} ${sum}`)
+              }
+            }
+
+            const container = d3.select('#{{ $replaceAll ($replaceAll ($replaceAll name "(" "") ")" "") " " "_"}}_chart');
+
+            const dim = {
+              width: 640,
+              height: 480,
+              padding: {
+                top: 20,
+                right: 20,
+                bottom: 20,
+                left: 20
+              }
+            };
+
+            const eventDates = Object.getOwnPropertyNames(eventInfo).map(e => eventInfo[e].date);
+
+            const xAxis =
+              d3.scaleTime()
+                .domain(d3.extent(eventDates))
+                .range([dim.padding.left, dim.width - dim.padding.right]);
+            const yAxis =
+              d3.scaleLinear()
+                .domain([0, Math.max(...participants.map(p => p.totalPoints))])
+                .range([dim.height - dim.padding.bottom, dim.padding.top]);
+
+            const svg = container.append('svg')
+              .attr('width', dim.width)
+              .attr('height', dim.height);
+
+            const tooltip = container
+              .append('div')
+              .style('display', 'none')
+              .attr('class', 'tooltip');
+
+            // Add the x-axis.
+            svg.append('g')
+              .attr('transform', `translate(0,${dim.height - dim.padding.bottom})`)
+              .call(d3.axisBottom(xAxis));
+
+            // Add the y-axis.
+            svg.append('g')
+              .attr('transform', `translate(${dim.padding.left},0)`)
+              .call(d3.axisLeft(yAxis));
+
+            function mouseover(e, c) {
+              tooltip.style('display', 'block');
+              d3.select(this)
+                .style('stroke', c);
+            }
+            function mousemove(e, p, d) {
+              const [x, y] = d3.pointer(e);
+              tooltip
+                .html(d?.event ? `${p.name}<br />${d.event}: ${d.points}` : p.name)
+                .style('left', `${x}px`)
+                .style('top', `${y}px`);
+            }
+            function mouseleave() {
+              tooltip.style('display', 'none');
+              d3.select(this)
+                .style('stroke', 'transparent');
+            }
+
+            let nextColor = 1;
+            function selectColor() {
+              const hue = nextColor++ * 137.508;
+              return [`hsl(${hue},60%,35%)`, `hsla(${hue},60%,35%,50%)`];
+            }
+            for (const p of participants) {
+              // Update results with cumulative sum
+              let s = 0;
+              for (const e of p.results) {
+                e.date = eventInfo[e.event].date;
+              }
+              p.results.sort((e1, e2) => e1.date < e2.date ? -1 : (e1.date > e2.date ? 1 : 0));
+              for (const e of p.results) {
+                e.sum = s = s + e.points;
+              }
+              const [solid, translucent] = selectColor();
+              svg.append('path')
+                .datum(p.results)
+                .attr('d', d3.line().x(d => xAxis(d.date)).y(d => yAxis(d.sum)))
+                .attr('stroke', solid)
+                .attr('fill', 'none')
+                .attr('stroke-width', 1.5);
+              svg.append('path')
+                .datum(p.results)
+                .attr('d', d3.line().x(d => xAxis(d.date)).y(d => yAxis(d.sum)))
+                .attr('stroke', 'transparent')
+                .attr('fill', 'none')
+                .attr('stroke-width', 4)
+                .on("mouseover", function (e) { mouseover.call(this, e, translucent) })
+                .on("mousemove", function (e, d) { mousemove.call(this, e, p, d) })
+                .on("mouseleave", function (e) { mouseleave.call(this, e, 'transparent') });
+            }
+            for (const p of participants) {
+              svg.append('g')
+                .selectAll('dot')
+                .data(p.results)
+                .enter()
+                .append('circle')
+                .attr('cx', d => xAxis(d.date))
+                .attr('cy', d => yAxis(d.sum))
+                .attr('r', 3)
+                .attr('fill', 'rgba(20, 20, 20, 60%)')
+                .on("mouseover", function (e) { mouseover.call(this, e, 'black') })
+                .on("mousemove", function (e, d) { mousemove.call(this, e, p, d) })
+                .on("mouseleave", function (e) { mouseleave.call(this, e, 'rgba(20, 20, 20, 60%)') });
+            }
+
+          })();
+        </script>
+        <div style="clear: both;"></div>
       </details>
     {{/if}}
   {{/each}}

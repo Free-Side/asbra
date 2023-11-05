@@ -10,6 +10,7 @@ const {parse} = require("csv-parse/sync");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("files/**/*.pdf");
   eleventyConfig.addPassthroughCopy("files/*.woff2");
 
@@ -227,6 +228,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addHandlebarsHelper(
     "$get",
     (obj, key) => {
+      return obj[key];
+    }
+  );
+
+  eleventyConfig.addHandlebarsHelper(
+    "$getLogged",
+    (obj, key) => {
       console.log('trying to get ' + key + ' from ' + obj);
       return obj[key];
     }
@@ -311,6 +319,26 @@ module.exports = function (eleventyConfig) {
       } else {
         return obj;
       }
+    }
+  );
+
+  eleventyConfig.addHandlebarsHelper(
+    "$concat",
+    function () {
+      let ary = Array.from(arguments).slice(0, -1);
+      let str = ary[0];
+      for (const val of ary.slice(1)) {
+        str += val;
+      }
+
+      return str;
+    }
+  );
+
+  eleventyConfig.addHandlebarsHelper(
+    "$replaceAll",
+    function (str, search, replace) {
+      return str.replaceAll(search, replace);
     }
   );
 
