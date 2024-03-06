@@ -1,7 +1,7 @@
 /*---
 layout: master.hbs
-title: ASBRA - 2023 Event Calendar
-subtitle: 2023 Calendar
+title: ASBRA - 2024 Event Calendar
+subtitle: 2024 Calendar
 description: The Official Website of ASBRA, the Aloha State Bicycle Racing Association.
 activePage: calendar
 head: |
@@ -56,7 +56,11 @@ head: |
     </div>
   </section>
 {{/each}}
-<div id="calendar_qr_code" class="print-only">
+<div id="calendar_qr_code_header" class="print-only calendar-qr-code">
+  <p>asbra.org/calendar</p>
+  <img src="/images/CalendarQRCode.svg" width="481" height="481" alt="A QR code linking to this webpage." />
+</div>
+<div id="calendar_qr_code_footer" class="print-only calendar-qr-code">
   <p>asbra.org/calendar</p>
   <img src="/images/CalendarQRCode.svg" width="481" height="481" alt="A QR code linking to this webpage." />
 </div>

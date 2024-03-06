@@ -82,6 +82,10 @@ a.donate-button {
 }
 
 @media only print {
+  main {
+    flex-direction: column-reverse;
+  }
+
   a.donate-button {
     display: block;
     margin-left: auto;

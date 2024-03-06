@@ -143,6 +143,10 @@ body > header {
   }
 }
 
+body > main {
+  flex-direction: column;
+}
+
 body > header + section h1 {
   margin-top: 0;
 }
@@ -217,7 +221,6 @@ svg.inline-icon {
     }
 
     display: flex;
-    flex-direction: column-reverse;
   }
 
   footer {

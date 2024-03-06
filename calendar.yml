@@ -3,7 +3,7 @@ sections:
     events:
       - name: Oahu Hill Climb Challenge
         id: ohcc
-        date: 1/1/2023 - 2/28/2023
+        date: 1/1/2024 - 2/29/2024
         day: January & February
         island: Oahu
         organizer: Tradewind Cycling Team
@@ -11,7 +11,7 @@ sections:
         description: Ride 8 road climbs on the Island of Oahu. A Strava based virtual challenge.
       - name: Makaha Time Trial
         id: makaha-mokuleia-tt
-        date: 2/11/2023
+        date: 2/10/2024
         day: Saturday
         time: 7:00 a.m.
         location: Makaha
@@ -20,12 +20,12 @@ sections:
         link: https://www.hitricenter.com/makaha-time-trial
         registration: https://www.bikereg.com/makaha-time-trial
         description: The first race of the year and the first in a series of three individual time trials, the Makaha Time Trial is a 9 mile out and back course on the beautiful Waianae coast. The course starts just south of the Keawaula Beach parking lot and proceeds out and back along the freshly repaved Farrington Highway.
-        logo: Makaha Time Trial Logo.png
+        # logo: Makaha Time Trial Logo.png
   - section_title: March
     events:
       - name: Pineapple Sprint
         id: pineapple-sprint
-        date: 3/5/2023
+        date: 3/10/2024
         day: Sunday
         location: Haleiwa
         island: Oahu
@@ -33,23 +33,34 @@ sections:
         link: http://www.tradewindcyclingteam.com/races.html
         registration: https://www.bikereg.com/pineapple-sprint
         description: The first mass start race of the season, the Pineapple Sprint goes from Haleiwa south on Kamehameha Highway, to an exciting sprint finish on Kaukonahua Rd.
-      - name: Castle to Hanauma Time Trial
-        id: castle-to-hanauma-tt
-        date: 3/19/2023
-        day: Sunday
-        time: 7:00 a.m.
-        location: Kailua
+      # - name: Castle to Hanauma Time Trial
+      #   id: castle-to-hanauma-tt
+      #   date: _/_/2024
+      #   day: Sunday
+      #   time: 7:00 a.m.
+      #   location: Kailua
+      #   island: Oahu
+      #   organizer: Outta Bounds
+      #   link: https://www.outtaboundshawaii.com/races/castle-to-hanauma.html
+      #   registration: https://www.bikereg.com/castle-to-hanauma-bay-tt
+      #   description: The Castle to Hanauma TT is a 20K point to point individual time trial from Kailua to Hanauma Bay.
+      #   background: Castle to Hanauma.jpg
+      - name: 'Aloha Stadium Crit #1'
+        description: We're adding a new venue to the calendar with a Criterium series at Aloha Stadium! This will be our first year trying this, so please bear with us as we iron out any kinks.
+        id: crit-1
+        date: 3/23/2024
+        day: Saturday
+        time: 3:30 p.m.
+        location: Halawa
         island: Oahu
-        organizer: Outta Bounds
-        link: https://www.outtaboundshawaii.com/races/castle-to-hanauma.html
-        registration: https://www.bikereg.com/castle-to-hanauma-bay-tt
-        description: The Castle to Hanauma TT is a 20K point to point individual time trial from Kailua to Hanauma Bay.
-        background: Castle to Hanauma.jpg
+        organizer: HTC, TCT, & Wolfpack HI
+        logo:
+        registration: https://www.bikereg.com/asc
   - section_title: April
     events:
       - name: Tantalus Time Trial
         id: tantalus-tt
-        date: 4/9/2023
+        date: 4/7/2024
         day: Sunday
         location: Honolulu
         island: Oahu
@@ -58,111 +69,135 @@ sections:
         registration: https://www.bikereg.com/tantalus-time-trial
         description: This unique uphill time trial, which runs 4.4 miles up Makiki Heights drive and Tantalus drive, is one of the most iconic mainstays of Hawaii racing calendar.
         logo: Tantalus Logo.png
-      - name: Kualoa Team Time Trial
-        date: 4/23/2023
-        day: Sunday
-        location: Kualoa Regional Park
-        island: Oahu
-        organizer: Wolfpack HI
-        link: https://www.instagram.com/wolfpackhi/?hl=en
-        registration: https://www.bikereg.com/kualoa-team-time-trial
-        description: "New in 2023 and the state championship time trial, the Kualoa TTT is a point to point race from Kualoa Regional Park to Turtle Bay (race distance: 20.1 miles). Teams will consist of 4 riders with at least 3 required to finish. Categories are based on the combine age of all team members. See the registration page for details."
   - section_title: May
     events:
       - name: Malaekahana State Time Trial Championship
         id: malaekahana-tt
-        date: 5/6/2023
-        day: Saturday
+        date: 5/5/2024
+        day: Sunday
         location: Malaekahana Beach
         island: Oahu
         organizer: Hawaii Triathlon Center
         link: https://www.hitricenter.com/malaekahana-state-time-trial
-        registration: https://www.bikereg.com/malaekahana-time-trial
+        _registration: https://www.bikereg.com/malaekahana-time-trial
         description: The Malaekahana Time Trial is the State Time Trial Championship Race. <strong>This year's event will cover a point to point course starting near Ahuimanu and finishing near Turtle Bay Resort.</strong> Youth atheltes will start near Kahana Bay. Adult course will be about 40 kilometers long, youth course will be about 20 kilometers long.
       - name: Pedal to the Meadow
         id: pedal-to-the-meadow
-        date: 5/27/2023
-        day: Saturday
+        date: 5/26/2024
+        day: Sunday
         location: Kekaha
         island: Kauaʻi
         organizer: Bicycle Racing Kauaʻi
         link: https://pedaltothemeadow.com/
-        registration: https://www.bikereg.com/p2m
-        description: Pedal to the Meadow is a mass start hill climb race from sea-level Kekaha up to Kanaloahuluhulu Meadow in Koke`e State Park. Participants are encouraged to stay through Sunday for a relaxed group ride in eastern Kauaʻi.
+        _registration: https://www.bikereg.com/p2m
+        description: Pedal to the Meadow is a mass start hill climb race from sea-level Kekaha up to Kanaloahuluhulu Meadow in Koke`e State Park. Participants are encouraged to stay through Monday for a relaxed group ride in eastern Kauaʻi.
         background: P2M Women Overall 2019.jpg
         logo: P2M Logo.gif
   - section_title: June
     events:
       - name: Pineapple Hill Road Race Championship
         id: pineapple-hill-rr
-        date: 6/11/2023
+        date: 6/9/2024
         day: Sunday
         time: 7:00 a.m.
         location: Haleiwa
         island: Oahu
         organizer: Outta Bounds
         link: https://www.outtaboundshawaii.com/races/pineapple-hill-road-race.html
-        flyerLink: https://asbra.org/flyers/pineapple-hill-2023/
-        registration_: https://www.bikereg.com/pineapple-hill-rr
+        _flyerLink: https://asbra.org/flyers/pineapple-hill-2024/
+        _registration: https://www.bikereg.com/pineapple-hill-rr
         description: 'The Greg Jochem Memorial Road Race, features the same climb past Dole Plantation as the Pineapple Sprint, the Road Race however features multiple laps. Starting on Kaukonahua road, proceeding down "Snake Road", and after a hard right turn at the bottom of the hill, back to the start on Kamehameha Highway.'
       - name: Cycle to the Sun
         id: cycle-to-the-sun
-        date: 6/24/2023
+        date: 6/22/2024
         day: Saturday
         time: 6:30 a.m.
         location: Paia
         island: Maui
         organizer:
         link: http://cycletothesun.com/
-        registration: https://www.bikereg.com/cycle-to-the-sun
+        _registration: https://www.bikereg.com/cycle-to-the-sun
         description: The legendary Cycle to the Sun is one of the most difficult bike climbs in the world. From Pa'ia to the top of Haleakala, the race climbs 10,000 feet over 36 miles and reaches gradients up to 18%.
   - section_title: July
     events:
-      - name: 'Kapolei Criterium #1'
-        description: Brought to you by <a href="https://freakytikihawaii.com/" target="_blank">Freaky Tiki Tropical Optical</a> and <a href="https://kalapawaimarket.com/" target="_blank">Kalapawai Cafe & Deli</a>, criteriums are returning to Kapolei! These to Sunday morning criteriums are beginner friendly and will be run in multiple heats ranging from 25 to 50 minutes per event. Registration fees are as low as we can get them thanks to generous sponsorship from Freaky Tiki and Kalapawai. Discounts are available for those participants who register for both events. Additional support provided by Tradewind Cycling Team and Hawaii Triathlon Center.
-        id: crit-1
-        date: 7/09/2023
-        time: 7:00 a.m.
-        location: Kapolei
-        island: Oahu
-        organizer: Outta Bounds Hawaii & Wolfpack HI
-        link: https://asbra.org/events/kapolei-crits/
-        registration: https://www.bikereg.com/kapolei-crits/
-        logo:
-      - name: 'Kapolei Criterium #2'
+      # - name: 'Kapolei Criterium #1'
+      #   description: Brought to you by <a href="https://freakytikihawaii.com/" target="_blank">Freaky Tiki Tropical Optical</a> and <a href="https://kalapawaimarket.com/" target="_blank">Kalapawai Cafe & Deli</a>, criteriums are returning to Kapolei! These to Sunday morning criteriums are beginner friendly and will be run in multiple heats ranging from 25 to 50 minutes per event. Registration fees are as low as we can get them thanks to generous sponsorship from Freaky Tiki and Kalapawai. Discounts are available for those participants who register for both events. Additional support provided by Tradewind Cycling Team and Hawaii Triathlon Center.
+      #   id: crit-1
+      #   date: 7/07/2024
+      #   day: Sunday
+      #   time: 7:00 a.m.
+      #   location: Kapolei
+      #   island: Oahu
+      #   organizer: Outta Bounds Hawaii & Wolfpack HI
+      #   link: https://asbra.org/events/kapolei-crits/
+      #   registration: https://www.bikereg.com/kapolei-crits/
+      #   logo:
+      - name: '[Tentative] Aloha Stadium Crit #2'
+        description: We're adding a new venue to the calendar with a Criterium series at Aloha Stadium! This will be our first year trying this, so please bear with us as we iron out any kinks.
         id: crit-2
-        date: 7/23/2023
-        time: 7:00 a.m.
-        location: Kapolei
+        date: 7/13/2024
+        day: Saturday
+        time: 6:00 p.m.
+        location: Halawa
         island: Oahu
-        organizer: Outta Bounds Hawaii & Wolfpack HI
-        link: https://asbra.org/events/kapolei-crits/
-        registration: https://www.bikereg.com/kapolei-crits/
+        organizer: HTC, TCT, & Wolfpack HI
+        logo:
+      # - name: 'Kapolei Criterium #2'
+      #   id: crit-2
+      #   date: 7/21/2024
+      #   day: Sunday
+      #   time: 7:00 a.m.
+      #   location: Kapolei
+      #   island: Oahu
+      #   organizer: Outta Bounds Hawaii & Wolfpack HI
+      #   link: https://asbra.org/events/kapolei-crits/
+      #   registration: https://www.bikereg.com/kapolei-crits/
+      #   logo:
+      - name: '[Tentative] Aloha Stadium Crit #3'
+        description: We're adding a new venue to the calendar with a Criterium series at Aloha Stadium! This will be our first year trying this, so please bear with us as we iron out any kinks.
+        id: crit-3
+        date: 7/27/2024
+        day: Saturday
+        time: 6:00 p.m.
+        location: Halawa
+        island: Oahu
+        organizer: HTC, TCT, & Wolfpack HI
         logo:
   - section_title: August
     events:
       - name: Olomana Road Race
         id: olomana-rr
-        date: 8/13/2023
+        date: 8/11/2024
         day: Sunday
         time: 7:00 a.m.
         location: Kailua
         island: Oahu
         organizer: Tradewind Cycling Team
         link: https://www.tradewindcyclingteam.com/races
-        registration: https://www.bikereg.com/olomana-road-race
+        _registration: https://www.bikereg.com/olomana-road-race
         description: A multiple distance lap race making clockwise circuits of Old Kalanianaole Road and Kalanianaole Highway. This race is one of the most intense road races on Oahu, and a great run up to the Dick Evans.
       - name: Dick Evans Memorial Road Race
         id: dick-evans-rr
-        date: 8/27/2023
+        date: 8/25/2024
         day: Sunday
         time: 5:45 a.m.
         location: Hawaii Kai
         island: Oahu
         organizer: Outta Bounds
         link: https://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
-        registration: https://www.bikereg.com/demrr
+        _registration: https://www.bikereg.com/demrr
         description: The pinnacle of the Hawaii bike racing season, the Dick Evans Memorial Road Race follows a route similar to the original Around Oahu Race. Its distance, 112 miles, is the basis for the Iron Man distance Triathlon.
         background: DEMRR Trophy 2019.jpg
         logo: DEMRR Logo.png
-        flyerLink: /files/race-flyers/Dick%20Evans%20Flyer%202023.pdf
+        _flyerLink: /files/race-flyers/Dick%20Evans%20Flyer%202024.pdf
+  - section_title: September
+    events:
+      - name: Kualoa Team Time Trial
+        date: 9/15/2024
+        day: Sunday
+        location: Kualoa Regional Park
+        island: Oahu
+        organizer: Wolfpack HI
+        link: https://www.instagram.com/wolfpackhi/?hl=en
+        registration: https://www.bikereg.com/kualoa-team-time-trial
+        description: "Back for a second year as the state championship team time trial, the Kualoa TTT is a point to point race from Kualoa Regional Park to Turtle Bay (race distance: 20.1 miles). Teams will consist of 4 riders with at least 3 required to finish. Categories are based on the combine age of all team members. See the registration page for details."
