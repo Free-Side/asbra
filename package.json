@@ -4,7 +4,7 @@
   "description": "The Aloha State Bicycle Racing Association Website",
   "private": true,
   "scripts": {
-    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
     "build": "eleventy",
     "deploy": "gsutil rsync -r -x '.DS_Store' -x images ./_site gs://www.asbra.org",
     "deploy-images": "gsutil rsync -r -x '.DS_Store' ./images gs://www.asbra.org/images"
