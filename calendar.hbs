@@ -36,7 +36,9 @@ head: |
               <li class="event-info-extra"><span class="info-label">Organizer:</span> {{organizer}}</li>
             {{/if}}
 
-            {{#if registration}}
+            {{#if results}}
+              <li class="event-info-extra"><a href="{{results}}">View Results</a></li>
+            {{else if registration}}
               <li data-event-date="{{date}}" class="event-info-extra hide-past"><a href="{{registration}}">Register Now</a></li>
             {{/if}}
           </ul>
