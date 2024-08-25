@@ -215,7 +215,7 @@ sections:
         logo:
   - section_title: August
     events:
-      - name: Olomana Road Race
+      - name: '[Canceled] Olomana Road Race'
         type: race
         id: olomana-rr
         date: 8/11/2024
@@ -255,3 +255,25 @@ sections:
         link: https://www.instagram.com/wolfpackhi/?hl=en
         registration: https://www.bikereg.com/kualoa-team-time-trial
         description: "Back for a second year as the state championship team time trial, the Kualoa TTT is a point to point race from Kualoa Regional Park to Turtle Bay (race distance: 20.1 miles). Teams will consist of 4 riders with at least 3 required to finish. Categories are based on the combine age of all team members. See the registration page for details."
+      - name: Honolulu Century Ride
+        type: ride
+        id: honolulu-century
+        date: 9/29/2024
+        day: Sunday
+        location: Kapiolani Regional Park, Honolulu
+        island: Oahu
+        organizer: HBL
+        link: https://hbl.org/hcr/
+        registration: https://hbl.redpodium.com/hcr24
+  - section_title: October
+    events:
+      - name: Hawaii Criterium State Championship
+        type: race
+        id: hawaii-state-crit
+        date: 10/20/2024
+        time: 8:00 a.m.
+        day: Dunday
+        location: Mililani Tech Park
+        island: Oahu
+        organizer: ASBRA
+
