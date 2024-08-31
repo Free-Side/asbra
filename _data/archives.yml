@@ -29,7 +29,7 @@ years:
         location: Haleiwa
         island: Oahu
         organizer: Tradewind Cycling Team
-        link: http://www.tradewindcyclingteam.com/races.html
+        link: https://www.tradewindcyclingteam.com/races
         resultsLink: https://www.webscorer.com/race?raceid=307440
         description: The first mass start race of the season, the Pineapple Sprint goes from Haleiwa south on Kamehameha Highway, to an exciting sprint finish on Kaukonahua Rd.
       - name: Castle to Hanauma Time Trial
@@ -51,7 +51,7 @@ years:
         location: Honolulu
         island: Oahu
         organizer: Tradewind Cycling Team
-        link: http://www.tradewindcyclingteam.com/races.html
+        link: https://www.tradewindcyclingteam.com/races
         resultsLink: https://www.webscorer.com/race?raceid=311050
         description: This unique uphill time trial, which runs 4.4 miles up Makiki Heights drive and Tantalus drive, is one of the most iconic mainstays of Hawaii racing calendar.
         logo: Tantalus Logo.png
@@ -106,7 +106,7 @@ years:
         location: Paia
         island: Maui
         organizer:
-        link: http://cycletothesun.com/
+        link: https://cycletothesun.com/
         description: The legendary Cycle to the Sun is one of the most difficult bike climbs in the world. From Pa'ia to the top of Haleakala, the race climbs 10,000 feet over 36 miles and reaches gradients up to 18%.
       - name: 'Kapolei Criterium #1'
         description: Brought to you by <a href="https://freakytikihawaii.com/" target="_blank">Freaky Tiki Tropical Optical</a> and <a href="https://kalapawaimarket.com/" target="_blank">Kalapawai Cafe & Deli</a>, criteriums are returning to Kapolei! These to Sunday morning criteriums are beginner friendly and will be run in multiple heats ranging from 25 to 50 minutes per event. Registration fees are as low as we can get them thanks to generous sponsorship from Freaky Tiki and Kalapawai. Discounts are available for those participants who register for both events. Additional support provided by Tradewind Cycling Team and Hawaii Triathlon Center.
@@ -185,7 +185,7 @@ years:
         location: Haleiwa
         island: Oahu
         organizer: Tradewind Cycling Team
-        link: http://www.tradewindcyclingteam.com/races.html
+        link: https://www.tradewindcyclingteam.com/races
         registration: https://www.bikereg.com/pineapple-sprint
         description: The first mass start race of the season, the Pineapple Sprint goes from Haleiwa south on Kamehameha Highway, to an exciting sprint finish on Kaukonahua Rd.
         resultsLink: https://www.webscorer.com/race?raceid=270052
@@ -197,7 +197,7 @@ years:
         location: Kailua
         island: Oahu
         organizer: Outta Bounds
-        link: http://www.outtaboundshawaii.com/races/castle-to-hanauma.html
+        link: https://www.outtaboundshawaii.com/races/castle-to-hanauma.html
         registration: https://www.bikereg.com/castle-to-hanauma-bay-tt
         description: The Castle to Hanauma TT is a 20K point to point individual time trial from Kailua to Hanauma Bay.
         background: Castle to Hanauma.jpg
@@ -209,7 +209,7 @@ years:
         location: Honolulu
         island: Oahu
         organizer: Tradewind Cycling Team
-        link: http://www.tradewindcyclingteam.com/races.html
+        link: https://www.tradewindcyclingteam.com/races
         description: This unique uphill time trial, which runs 4.4 miles up Makiki Heights drive and Tantalus drive, is one of the most iconic mainstays of Hawaii racing calendar.
         logo: Tantalus Logo.png
         resultsLink: https://www.webscorer.com/race?raceid=273529
@@ -220,12 +220,12 @@ years:
         location: Kekaha
         island: Kauaʻi
         organizer: Bicycle Racing Kauaʻi
-        link: http://pedaltothemeadow.com/
+        link: https://pedaltothemeadow.com/
         registration: https://www.bikereg.com/p2m22
         description: Pedal to the Meadow is a mass start hill climb race from sea-level Kekaha up to Kanaloahuluhulu Meadow in Koke`e State Park. This year it will be a single event only rather than the three event omnium. However, participants are encouraged to stay through Sunday for a relaxed group ride in eastern Kauaʻi.
         background: P2M Women Overall 2019.jpg
         logo: P2M Logo.gif
-        resultsLink: http://pedaltothemeadow.com/wp-content/uploads/2011/03/2022-Pedal-to-the-Meadow-2022Overall-Results-PDF.pdf
+        resultsLink: https://pedaltothemeadow.com/wp-content/uploads/2011/03/2022-Pedal-to-the-Meadow-2022Overall-Results-PDF.pdf
       - name: Pineapple Hill Road Race Championship
         id: pineapple-hill-rr
         date: 6/12/2022
@@ -246,9 +246,9 @@ years:
         location: Paia
         island: Maui
         organizer:
-        link: http://cycletothesun.com/
+        link: https://cycletothesun.com/
         description: The legendary Cycle to the Sun is one of the most difficult bike climbs in the world. From Pa'ia to the top of Haleakala, the race climbs 10,000 feet over 36 miles and reaches gradients up to 18%.
-        resultsLink: http://cycletothesun.com/wp-content/uploads/2012/09/2022-Cycle-to-the-Sun-Results.jpg
+        resultsLink: https://cycletothesun.com/wp-content/uploads/2012/09/2022-Cycle-to-the-Sun-Results.jpg
       - name: Malaekahana State Time Trial Championship
         id: malaekahana-tt
         date: 7/16/2022
@@ -280,7 +280,7 @@ years:
         location: Hawaii Kai
         island: Oahu
         organizer: Outta Bounds
-        link: http://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
+        link: https://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
         registration: https://www.bikereg.com/demrr
         description: The pinnacle of the Hawaii bike racing season, the Dick Evans Memorial Road Race follows a route similar to the original Around Oahu Race. Its distance, 112 miles, is the basis for the Iron Man distance Triathlon.
         background: DEMRR Trophy 2019.jpg
@@ -309,7 +309,7 @@ years:
         location: Kailua
         island: Oahu
         organizer: Outta Bounds
-        link: http://www.outtaboundshawaii.com/races/castle-to-hanauma.html
+        link: https://www.outtaboundshawaii.com/races/castle-to-hanauma.html
         description: 'Traditionally the Castle to Hanauma TT is a 20K point to point individual time trial from Kailua to Hanauma Bay. For 2021 this event will be a one day virtual challenge for the best elapsed time of the <a href="https://www.strava.com/segments/23101100" target="_blank">Castle to Hanauma Alternate Route</a> Strava segment. Brought to you by <a href="https://www.bikefactoryhawaii.com/" target="_blank">BIKEFACTORY HAWAII</a>.'
         background: Castle to Hanauma.jpg
         resultsLink: https://challenge.asbra.org/challenge/castle-to-hanauma-2021
@@ -343,7 +343,7 @@ years:
         location: Haleiwa
         island: Oahu
         organizer: Tradewind Cycling Team
-        link: http://www.tradewindcyclingteam.com/races.html
+        link: https://www.tradewindcyclingteam.com/races
         description: This year's Pineapple Sprint will be a single segment challenge based on competitors single best time during the challenge window. Check the website for segment detail.
         resultsLink: https://challenge.asbra.org/challenge/pineapple-sprint-2021
       - name: Tantalus Time Trial
@@ -353,7 +353,7 @@ years:
         location: Honolulu
         island: Oahu
         organizer: Tradewind Cycling Team
-        link: http://www.tradewindcyclingteam.com/races.html
+        link: https://www.tradewindcyclingteam.com/races
         description: This unique uphill time trial, which runs 4.4 miles up Makiki Heights drive and Tantalus drive, is one of the most iconic mainstays of Hawaii racing calendar. This year's event will be a single segment challenge based on competitors single best time during the challenge window. Check the website for segment detail.
         logo: Tantalus Logo.png
         resultsLink: https://challenge.asbra.org/challenge/tantalus-tt-2021
@@ -374,11 +374,11 @@ years:
         location: Kekaha
         island: Kauaʻi
         organizer: Bicycle Racing Kauaʻi
-        link: http://pedaltothemeadow.com/p2m-2021/
+        link: https://pedaltothemeadow.com/p2m-2021/
         description: A month long virtual challenge to climb the Pedal to the Meadow route on Kauaʻi, or an approved route of equivalent elevation and distance on neighbor islands. Details to be announced.
         background: P2M Women Overall 2019.jpg
         logo: P2M Logo.gif
-        resultsLink: http://pedaltothemeadow.com/wp-content/uploads/2011/03/P2M-2021-RESULTS.pdf
+        resultsLink: https://pedaltothemeadow.com/wp-content/uploads/2011/03/P2M-2021-RESULTS.pdf
       - name: Pineapple Hill Road Race Challenge
         id: pineapple-hill-rr
         date: 6/12/2021
@@ -407,7 +407,7 @@ years:
         location: Hawaii Kai
         island: Oahu
         organizer: Outta Bounds
-        link: http://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
+        link: https://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
         description: 'The pinnacle of the Hawaii bike racing season, the Dick Evans Memorial Road Race follows a route similar to the original Around Oahu Race. Its distance, 112 miles, is the basis for the Iron Man distance Triathlon. This year (2021) the event will be a virtual challenge based on <strong>moving time</strong>, allowing riders to safely stop for all traffic signals without impacting their time, as well as stop for refreshments as needed. The <a href="https://www.strava.com/segments/28990637">challenge segment</a> is a subset of the traditional route starting on Kunia Rd. after the end of the neutral section.'
         background: DEMRR Trophy 2019.jpg
         logo: DEMRR Logo.png
@@ -444,7 +444,7 @@ years:
         location: Kailua
         island: Oahu
         organizer: Outta Bounds
-        link: http://www.outtaboundshawaii.com/races/castle-to-hanauma.html
+        link: https://www.outtaboundshawaii.com/races/castle-to-hanauma.html
         background: Castle to Hanauma.jpg
         resultsLink: https://strava.outtaboundshawaii.com/challenge/castle_to_hanauma
       - name: Kapolei in May TT
@@ -472,7 +472,7 @@ years:
         location: Hawaii Kai
         island: Oahu
         organizer: Outta Bounds
-        link: http://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
+        link: https://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
         resultsLink: https://strava.outtaboundshawaii.com/challenge/demrr2020
   - name: 2019
     overview: 'A great year of racing during which Caleb Barville took the scene by storm and won a hat trick of major events: Pedal to the Meadow, Cycle to the Sun, and the Dick Evans Memorial Road Race!'
@@ -484,10 +484,10 @@ years:
         location: Kekaha
         island: Kauaʻi
         organizer: Bicycle Racing Kauaʻi
-        link: http://pedaltothemeadow.com/p2m-2021/
+        link: https://pedaltothemeadow.com/p2m-2021/
         background: P2M Women Overall 2019.jpg
         logo: P2M Logo.gif
-        resultsLink: http://pedaltothemeadow.com/wp-content/uploads/2011/03/Pedal-to-the-Meadow-2019-Results-for-posting.pdf
+        resultsLink: https://pedaltothemeadow.com/wp-content/uploads/2011/03/Pedal-to-the-Meadow-2019-Results-for-posting.pdf
       - name: Cycle to the Sun
         id: cycle-to-the-sun
         date: 6/29/2019
@@ -496,9 +496,9 @@ years:
         location: Paia
         island: Maui
         organizer:
-        link: http://cycletothesun.com/
+        link: https://cycletothesun.com/
         description: The legendary Cycle to the Sun is one of the most difficult bike climbs in the world. From Pa'ia to the top of Haleakala, the race climbs 10,000 feet over 36 miles and reaches gradients up to 18%.
-        resultsLink: http://cycletothesun.com/wp-content/uploads/2019/06/CTTS-2019-Overall.pdf
+        resultsLink: https://cycletothesun.com/wp-content/uploads/2019/06/CTTS-2019-Overall.pdf
       - name: Dick Evans Memorial Road Race
         id: dick-evans-rr
         date: 8/25/2019
@@ -507,7 +507,7 @@ years:
         location: Hawaii Kai
         island: Oahu
         organizer: Outta Bounds
-        link: http://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
+        link: https://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
         description: The pinnacle of the Hawaii bike racing season, the Dick Evans Memorial Road Race follows a route similar to the original Around Oahu Race. Its distance, 112 miles, is the basis for the Iron Man distance Triathlon.
         background: DEMRR Trophy 2019.jpg
         logo: DEMRR Logo.png

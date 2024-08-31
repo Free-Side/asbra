@@ -33,7 +33,7 @@ sections:
         location: Haleiwa
         island: Oahu
         organizer: Tradewind Cycling Team
-        link: http://www.tradewindcyclingteam.com/races.html
+        link: https://www.tradewindcyclingteam.com/races
         registration: https://www.bikereg.com/pineapple-sprint
         results: https://www.webscorer.com/race?raceid=345188
         description: The first mass start race of the season, the Pineapple Sprint goes from Haleiwa south on Kamehameha Highway, to an exciting sprint finish on Kaukonahua Rd.
@@ -72,7 +72,7 @@ sections:
         location: Honolulu
         island: Oahu
         organizer: Tradewind Cycling Team
-        link: http://www.tradewindcyclingteam.com/races.html
+        link: https://www.tradewindcyclingteam.com/races
         registration: https://www.bikereg.com/tantalus-time-trial
         description: This unique uphill time trial, which runs 4.4 miles up Makiki Heights drive and Tantalus drive, is one of the most iconic mainstays of Hawaii racing calendar.
         logo: Tantalus Logo.png
@@ -154,7 +154,7 @@ sections:
         location: Paia
         island: Maui
         organizer:
-        link: http://cycletothesun.com/
+        link: https://cycletothesun.com/
         _registration: https://www.bikereg.com/cycle-to-the-sun
         description: The legendary Cycle to the Sun is one of the most difficult bike climbs in the world. From Pa'ia to the top of Haleakala, the race climbs 10,000 feet over 36 miles and reaches gradients up to 18%.
   - section_title: July
