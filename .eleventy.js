@@ -11,8 +11,7 @@ const {parse} = require("csv-parse/sync");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("js");
-  eleventyConfig.addPassthroughCopy("files/**/*.pdf");
-  eleventyConfig.addPassthroughCopy("files/*.woff2");
+  eleventyConfig.addPassthroughCopy("files/**/*.*");
 
   // Applies a template to all the nodes of a tree structure
   eleventyConfig.addHandlebarsHelper(

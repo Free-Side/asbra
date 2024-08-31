@@ -253,8 +253,18 @@ sections:
         island: Oahu
         organizer: Wolfpack HI
         link: https://www.instagram.com/wolfpackhi/?hl=en
-        registration: https://www.bikereg.com/kualoa-team-time-trial
+        registration: https://www.bikereg.com/alohattt
         description: "Back for a second year as the state championship team time trial, the Kualoa TTT is a point to point race from Kualoa Regional Park to Turtle Bay (race distance: 20.1 miles). Teams will consist of 4 riders with at least 3 required to finish. Categories are based on the combine age of all team members. See the registration page for details."
+        flyerLink: /files/race-flyers/Kualoa-Team-TT-2024.png
+      - name: Patricio's Kua Bay Training Time Trial
+        type: race
+        id: kua-bay-training-tt
+        date: 9/21/2024
+        day: Saturday
+        location: Waikoloa
+        island: Big Island
+        organizer: Hawaii Cycling Club
+        description: The PKBTTT is a southbound, 12.19 mile road course along the Queen Ka'ahumanu Highway, between Waikoloa Road and the Kua Bay turnoff. Registration open soon
       - name: Honolulu Century Ride
         type: ride
         id: honolulu-century
@@ -267,13 +277,35 @@ sections:
         registration: https://hbl.redpodium.com/hcr24
   - section_title: October
     events:
-      - name: Hawaii Criterium State Championship
+      - name: '[Canceled] Hawaii Criterium State Championship'
+        description: "Unfortunately we have been prevented from getting a permit for the planned location."
         type: race
         id: hawaii-state-crit
         date: 10/20/2024
         time: 8:00 a.m.
-        day: Dunday
+        day: Sunday
         location: Mililani Tech Park
         island: Oahu
         organizer: ASBRA
-
+  - section_title: November
+    events:
+      - name: Lavaman Waikoloa Hill Climb
+        type: race
+        id: lavaman-waikoloa-hc
+        date: 11/17/2024
+        day: Sunday
+        location: Waikoloa
+        island: Big Island
+        organizer: Hawaii Cycling Club
+        description: The LMHC is an 11.8 mile x 2,442 vertical foot hill climb challenge along Waikoloa Road between the Queen Ka’ahumanu Highway and the Hawaii Belt Road/190. Registration open soon.
+  - section_title: December
+    events:
+      - name: Bike Works Big Island Time Trial Championship
+        type: race
+        id: big-island-tt-championship
+        date: 12/21/2024
+        day: Saturday
+        location: Kailua Kona
+        island: Big Island
+        organizer: Hawaii Cycling Club
+        description: The BITTC is a northbound, 15.8 mile road course along the Queen Ka'ahumanu Highway, from Kaimanani Rd to Pu’uanahulu turnoff. Registration open soon.
