@@ -106,7 +106,7 @@ sections:
         location: Kohala
         island: Big Island
         organizer: Hawaii Cycling Club
-        description: The Bike Works Beach & Sports Big Island Century (Gran Fondo format) features a very challenging century course in the Kohala district with 9,000 feet of elevation, a full metric century of similar difficulty, a 45-mile out and back and a fun ride. The Big Island Century is HCC’s only charity fundraising event, with net proceeds donated to Hospice of Kona.
+        description: Big Island Gran Fondo featuring the Big Island Century, a Super Metric Century, a 40-mile loop, and family fun ride. The longer distances will cover a new route in 2025 passing along rural roads to the Hawaii Vanilla Company and Waipio Valley Overlook before returning to the Leeward side, promising a variety of landscapes and terrain and a challenge for riders of all skill levels. The Big Island Gran Fondo is HCC’s only charity fund raising event with proceeds donated to Hospice of Kona.
       - name: Hale‘iwa Metric Century
         type: ride
         id: haleiwa-metric-century
@@ -132,7 +132,7 @@ sections:
       - name: Ride of Silence
         type: ride
         id: ride-of-slience
-        date: 5/17/2025
+        date: 5/24/2025
         day: Saturday
         location: Kailua Kona
         island: Big Island
@@ -171,12 +171,12 @@ sections:
       - name: Hilo Hill Climb Training Time Trial
         type: race
         id: hilo-hill-climb-ttt
-        date: 7/5/2025
-        day: Sunday
+        date: 7/12/2025
+        day: Saturday
         location: Hilo
         island: Big Island
         organizer: Hawaii Cycling Club
-        description: The 12-mile HHCTTT gains 2,521 feet elevation, starting with a 393 foot gain in the first 2 miles and finishing with a gain in elevation of 2123 feet over the last 10. This event goes on rain or shine!
+        description: The Hilo Hill Climb Training Time Trial rides straight up Saddle Road from the Hilo side with 2 rides in one. A 12-mile x 2,500 foot vertical gain course for the less enthusiastic, and a 26-mile x 6,200 foot gain for the most skilled riders. Take your pick! This ride goes off rain or shine!!
       - name: Kualoa Team Time Trial
         type: race
         id: kualoa-ttt
@@ -224,8 +224,8 @@ sections:
       - name: Patricio's Kua Bay Training Time Trial
         type: race
         id: kua-bay-training-tt
-        date: 9/20/2025
-        day: Saturday
+        date: 9/21/2025
+        day: Sunday
         location: Waikoloa
         island: Big Island
         organizer: Hawaii Cycling Club
