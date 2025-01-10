@@ -255,6 +255,14 @@ main > section > div:not(:first-child) {
   }
 
   .event-details {
+    &.non-race {
+      display: none;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
     > div, > div:last-child {
       padding: 5px 1em 5px 0;
     }

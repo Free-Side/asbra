@@ -1,7 +1,7 @@
 /*---
 layout: master.hbs
-title: ASBRA - 2024 Event Calendar
-subtitle: 2024 Calendar
+title: ASBRA - 2025 Event Calendar
+subtitle: 2025 Calendar
 description: The Official Website of ASBRA, the Aloha State Bicycle Racing Association.
 activePage: calendar
 head: |
@@ -9,12 +9,12 @@ head: |
   <script src="https://cdn.jsdelivr.net/npm/moment@2.29.3/moment.min.js"></script>
 ---*/
 {{#each sections}}
-  <section class="calendar-section">
+  <section class="calendar-section {{css_classes}}">
     <h1>{{section_title}}</h1>
     <div class="calendar-section-contents">
     {{#each events}}
       <section id="{{id}}"
-               class="event-details {{#if background}}image-background{{/if}}"
+               class="event-details {{#if background}}image-background{{/if}} {{#if-not-equal type "race"}}non-race{{/if-not-equal}}"
                style="{{#if background}}background-image: url('/images/{{background}}'){{/if}}">
         <div>
           <div class="event-header">

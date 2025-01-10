@@ -201,6 +201,10 @@ svg.inline-icon {
 }
 
 @media only print {
+  .screen-only {
+    display: none;
+  }
+
   body {
     background-color: transparent;
   }

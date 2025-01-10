@@ -19,7 +19,7 @@
     "webpage"
   ],
   "author": "Paul Wheeler",
-  "license": "Copyright",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/free-side/asbra/issues"
   },
@@ -30,7 +30,6 @@
     "csv-parse": "^5.3.10",
     "handlebars": "^4.7.7",
     "js-yaml": "^4.1.0",
-    "minimatch": "^3.0.8",
     "moment": "^2.29.4",
     "sass": "^1.62.0"
   }
