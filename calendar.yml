@@ -57,6 +57,19 @@ sections:
         description: The first mass start race of the season, the Pineapple Sprint goes from Haleiwa south on Kamehameha Highway, to an exciting sprint finish on Kaukonahua Rd.
   - section_title: March
     events:
+      - name: North Shore Time Trial
+        type: race
+        id: north-shore-tt
+        date: 3/16/2025
+        day: Sunday
+        location: Mokulēʻia
+        island: Oahu
+        organizer: North Shore Triathlon
+        description: |
+          Run in conjunction with the North Shore Triathlon, this year you have the option of testing yourself on the freshly paved road to Mokulēʻia! 11 miles of flat and fast riding. 
+          Make a whole weekend of it by choosing to stay at Camp Mokulēʻia - special pricing available!
+        registration: https://www.bikereg.com/north-shore-time-trial-2025
+        link: https://www.hitriseries.com/northshoretriathlon
       - name: The Kiser DRAGON
         type: ride
         id: kiser-dragon
