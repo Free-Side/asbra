@@ -109,8 +109,17 @@ sections:
         description: This unique uphill time trial, which runs 4.4 miles up Makiki Heights drive and Tantalus drive, is one of the most iconic mainstays of Hawaii racing calendar.
         logo: Tantalus Logo.png
   - section_title: April
-    css_classes: screen-only
     events:
+      - name: Hawaii Championship Crit at KIP
+        type: race
+        id: hawaii-championship-crit
+        date: 4/19/2025
+        time: 3:00 p.m.
+        day: Saturday
+        location: Kapolei, HI
+        island: Oahu
+        description: The Hawaii State Championship Criterium at the Kenai Industrial Park (KIP) will feature Oahu's fastest crit on a fast smooth 1km (.6 mile) circuit.
+        registration: https://www.bikereg.com/asbra-hawaii-championship-crit-at-kip
       - name: Big Island Century
         type: ride
         id: big-island-century
