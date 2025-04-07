@@ -22,19 +22,17 @@ events:
         content: |-
           This event is is being organized by <a href="mailto:paul@asbra.org">Paul Wheeler</a> in cooperation with Hawaii Triathlon Center. For any questions or concerns please contact me at (808) 600-3598.
   - name: malaekahana-tt
-    title: 2021 Mālaekahana Virtual TT
+    title: 2025 Mālaekahana TT
     description: |-
-      <p>The Mālaekahana Virtual TT is a virtual challenge to ride the one-way Mālaekahana Time Trial route on the North Shore of Oahu. This is the same route that was used in 2020. The course starts just past the second Ahuimanu traffic light in Kaneohe and finishes a short distance beyond Turtle Bay. See the <a href="https://www.strava.com/segments/24367291">Virtual [Malaekahana] TT strava segment</a> for details. As a virtual challenge, this ride can be completed any time between 6:00 a.m. on Saturday May 1st and 3:00 p.m. on Sunday, May 9th. You are welcome to ride the course multiple times during this 8 day time window and your best time will count. To participate, register using the link below and you will receive instructions for submitting your results via Strava or GPX file upload. This ride is unsupported, so please ride safely, observing all rules of the road, and watching for cars and pedestrians, especially at the traffic signal in Hahuku. This challenge is sponsored by <a href="https://www.hitricenter.com/" target="_blank">Hawaii Triathlon Center</a> in Kailua!</p>
-      <p>FYI: It's pronounced "Maa-lie-ka-ha-na" but the "lie" is slightly softened as "la-eh" smushed together.</p>
-    registrationUrl:  https://www.bikereg.com/malaekahana-2021
+      <p>
+        The 2025 Mālaekahana State Time Trial Championship is a 40K out-and-back time trial route on the North Shore of Oahu.
+        See the <a href="https://www.strava.com/segments/20510931">Malaekahana 40k State Time Trial Championship strava segment</a> for an approximate map of the course.</p>
     sections:
       - heading: Route Map
-        content: '<a href="/images/Malaekahana-Route-Map.png"><img src="/images/Malaekahana-Route-Map.png" width="400" height="400" alt="A map of the 2021 Malaekahana TT course." /></a>'
-      - heading: Parking
-        content: '<strong>Please do not park on the shoulder of Kahekili.</strong> There are plenty of big parking lots not too far away. Please be considerate of residents and/or any rules set forth for where you decide to park. Be especially mindful if it is early in the morning. We want to encourage support from the community, not cause trouble.'
+        content: '<a href="/images/events/malaekahana-tt-route-map.png"><img src="/images/events/malaekahana-tt-route-map.png" width="430" height="310" alt="A map of the Malaekahana TT course." /></a>'
       - heading: Contact
         content: |-
-          This event is is being organized by <a href="mailto:paul@asbra.org">Paul Wheeler</a> in cooperation with Hawaii Triathlon Center. For any questions or concerns please contact me at (808) 600-3598.
+          This event is is being organized by ASBRA in cooperation with Wolfpack HI. For any questions or concerns please contact <a href="mailto:josh@asbra.org">Josh Gallardo</a>.
   - name: kapolei-crits
     title: Kapolei Criterium Series
     description: |-

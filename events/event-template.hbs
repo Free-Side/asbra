@@ -21,6 +21,7 @@ head: |
 <section class="event-registration">
   <h3><a href="{{event.registrationUrl}}">Register Now via BikeReg</a></h3>
 </section>
+{{/if}}
 {{#each event.sections}}
   <section class="event-subsection">
     <h3>{{heading}}</h3>
@@ -29,4 +30,3 @@ head: |
     </div>
   </section>
 {{/each}}
-{{/if}}

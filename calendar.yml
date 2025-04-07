@@ -140,17 +140,15 @@ sections:
         link: https://hbl.org/hmc/
   - section_title: May
     events:
-      - name: Malaekahana State Time Trial Championship
+      - name: '[RESCHEDULED: June] Malaekahana State Time Trial Championship'
         type: race
-        id: malaekahana-tt
-        date: 5/4/2025
-        day: Sunday
+        id: malaekahana-tt-old
+        css_classes: screen-only
         location: Malaekahana Beach
         island: Oahu
-        organizer: ASBRA
-        link: https://www.hitricenter.com/events.html
-        registration: https://www.bikereg.com/mtt
-        description: The Malaekahana Time Trial is the State Time Trial Championship Race. This year's event will cover an <strong>out and back</strong> course.
+        date: 5/4/2025
+        day: Sunday
+        description: See the entry Saturday June 21st
       - name: Ride of Silence
         type: ride
         id: ride-of-slience
@@ -175,9 +173,10 @@ sections:
         logo: P2M Logo.gif
   - section_title: June
     events:
-      - name: Pineapple Hill Road Race Championship
+      - name: "[CANCELLED] Pineapple Hill Road Race"
         type: race
         id: pineapple-hill-rr
+        css_classes: screen-only
         date: 6/15/2025
         day: Sunday
         time: 7:00 a.m.
@@ -188,6 +187,17 @@ sections:
         flyerLink: https://asbra.org/flyers/pineapple-hill-2025/
         registration: https://www.bikereg.com/pineapple-hill-rr
         description: 'The Greg Jochem Memorial Road Race, features the same climb past Dole Plantation as the Pineapple Sprint, the Road Race however features multiple laps. Starting on Kaukonahua road, proceeding down "Snake Road", and after a hard right turn at the bottom of the hill, back to the start on Kamehameha Highway.'
+      - name: Malaekahana State Time Trial Championship
+        type: race
+        id: malaekahana-tt
+        date: 6/21/2025
+        day: Saturday
+        location: Malaekahana Beach
+        island: Oahu
+        organizer: ASBRA & Wolfpack HI
+        link: https://asbra.org/events/malaekahana-tt/
+        registration_: https://www.bikereg.com/mtt
+        description: The Malaekahana Time Trial is the State Time Trial Championship Race. This year's event will cover an <strong>out and back</strong> course.
   - section_title: July
     events:
       - name: Hilo Hill Climb Training Time Trial

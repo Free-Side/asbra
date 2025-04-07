@@ -14,7 +14,7 @@ head: |
     <div class="calendar-section-contents">
     {{#each events}}
       <section id="{{id}}"
-               class="event-details {{#if background}}image-background{{/if}} {{#if-not-equal type "race"}}non-race{{/if-not-equal}}"
+               class="event-details {{#if background}}image-background{{/if}} {{#if-not-equal type "race"}}non-race{{/if-not-equal}} {{css_classes}}"
                style="{{#if background}}background-image: url('/images/{{background}}'){{/if}}">
         <div>
           <div class="event-header">
