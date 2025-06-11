@@ -244,9 +244,9 @@ sections:
         time: 5:45 a.m.
         location: Hawaii Kai
         island: Oahu
-        organizer: Outta Bounds
-        link: https://www.outtaboundshawaii.com/races/dick-evans-memorial-road-race.html
-        registration: https://www.bikereg.com/demrr
+        organizer: ASBRA
+        link: /events/dick-evans-memorial-road-race.html
+        registration: https://www.bikereg.com/demrr25
         description: The pinnacle of the Hawaii bike racing season, the Dick Evans Memorial Road Race follows a route similar to the original Around Oahu Race. Its distance, 112 miles, is the basis for the Iron Man distance Triathlon.
         background: DEMRR Trophy 2019.jpg
         logo: DEMRR Logo.png
@@ -294,6 +294,16 @@ sections:
         island: Big Island
         organizer: Hawaii Cycling Club
         description: The LMHC is an 11.8 mile x 2,442 vertical foot hill climb challenge along Waikoloa Road between the Queen Kaʻahumanu Highway and the Hawaii Belt Road/190. Registration open soon.
+      - name: Aloha Gravel
+        organizer: Aloha Gravel
+        type: ride
+        location: Kapalua
+        island: Maui
+        date: 11/29/2025
+        day: Saturday
+        description: A gravel funride presented by Lauf Cycles, in partnership with Pedal Imua. Aloha Gravel will take you on gravel roads and flowy single-track trails on the West Maui Mountains. All proceeds will go directly to Imua Family Services.
+        link: https://www.alohagravel.com/
+        registration: https://www.bikereg.com/aloha-gravel
   - section_title: December
     events:
       - name: Pedal Imua
