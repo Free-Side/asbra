@@ -209,18 +209,6 @@ sections:
         island: Big Island
         organizer: Hawaii Cycling Club
         description: The Hilo Hill Climb Training Time Trial rides straight up Saddle Road from the Hilo side with 2 rides in one. A 12-mile x 2,500 foot vertical gain course for the less enthusiastic, and a 26-mile x 6,200 foot gain for the most skilled riders. Take your pick! This ride goes off rain or shine!!
-      - name: Kualoa Team Time Trial
-        type: race
-        id: kualoa-ttt
-        date: 7/13/2025
-        day: Sunday
-        location: Kualoa Regional Park
-        island: Oahu
-        organizer: Wolfpack HI
-        link: https://www.instagram.com/wolfpackhi/?hl=en
-        registration: https://www.bikereg.com/alohattt
-        description: "Back for a second year as the state championship team time trial, the Kualoa TTT is a point to point race from Kualoa Regional Park to Turtle Bay (race distance: 20.1 miles). Teams will consist of 4 riders with at least 3 required to finish. Categories are based on the combine age of all team members. See the registration page for details."
-        flyerLink_: /files/race-flyers/Kualoa-Team-TT-2024.png
   - section_title: August
     events:
       - name: Cycle to the Sun
@@ -253,6 +241,18 @@ sections:
         _flyerLink: /files/race-flyers/Dick%20Evans%20Flyer%202024.pdf
   - section_title: September
     events:
+      - name: Kualoa Team Time Trial
+        type: race
+        id: kualoa-ttt
+        date: 9/14/2025
+        day: Sunday
+        location: Kualoa Regional Park
+        island: Oahu
+        organizer: Wolfpack HI
+        link: https://www.instagram.com/wolfpackhi/?hl=en
+        registration_: https://www.bikereg.com/alohattt
+        description: "Back for a second year as the state championship team time trial, the Kualoa TTT is a point to point race from Kualoa Regional Park to Turtle Bay (race distance: 20.1 miles). Teams will consist of 4 riders with at least 3 required to finish. Categories are based on the combine age of all team members. See the registration page for details."
+        flyerLink_: /files/race-flyers/Kualoa-Team-TT-2024.png
       - name: Patricio's Kua Bay Training Time Trial
         type: race
         id: kua-bay-training-tt
