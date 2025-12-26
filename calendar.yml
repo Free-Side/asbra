@@ -245,13 +245,14 @@ sections:
         type: race
         id: kualoa-ttt
         date: 9/14/2025
+        time: 8:00 a.m.
         day: Sunday
         location: Kualoa Regional Park
         island: Oahu
         organizer: Wolfpack HI
         link: https://www.instagram.com/wolfpackhi/?hl=en
-        registration_: https://www.bikereg.com/alohattt
-        description: "Back for a second year as the state championship team time trial, the Kualoa TTT is a point to point race from Kualoa Regional Park to Turtle Bay (race distance: 20.1 miles). Teams will consist of 4 riders with at least 3 required to finish. Categories are based on the combine age of all team members. See the registration page for details."
+        registration: https://www.bikereg.com/ttt25
+        description: "Back for a second year as the state championship team time trial, the Kualoa TTT is an “out and back” race from Kualoa Regional Park with a U-Turn right before Laie Shopping center (turnaround at 12.5 miles, total race distance: 25 miles). Teams will consist of 4 riders with at least 3 required to finish. Categories are based on the combine age of all team members. See the registration page for details."
         flyerLink_: /files/race-flyers/Kualoa-Team-TT-2024.png
       - name: Patricio's Kua Bay Training Time Trial
         type: race
