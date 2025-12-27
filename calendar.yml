@@ -122,7 +122,7 @@ sections:
         location: Kohala
         island: Big Island
         organizer: Hawaii Cycling Club
-        description: Big Island Gran Fondo featuring the Big Island Century, a Super Metric Century, a 40-mile loop, and family fun ride. The longer distances will cover a new route in 2025 passing along rural roads to the Hawaii Vanilla Company and Waipio Valley Overlook before returning to the Leeward side, promising a variety of landscapes and terrain and a challenge for riders of all skill levels. The Big Island Gran Fondo is HCC's only charity fund raising event with proceeds donated to Hospice of Kona.
+        description: Big Island Gran Fondo featuring the Big Island Century, a Super Metric Century, a 40-mile loop, and family fun ride. The the route passes along rural roads to the Hawaii Vanilla Company and Waipio Valley Overlook before returning to the Leeward side, promising a variety of landscapes and terrain and a challenge for riders of all skill levels. The Big Island Gran Fondo is HCC's only charity fund raising event with proceeds donated to Hospice of Kona.
       - name: '[Tentative] Crit #1'
         type: race
         id: crit-1
