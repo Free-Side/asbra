@@ -1,4 +1,316 @@
 years:
+  - name: 2025
+    events:
+      - name: Oahu Hill Climb Challenge
+        type: virtual-challenge
+        id: ohcc
+        date: 1/1/2025 - 2/28/2025
+        day: January & February
+        island: Oahu
+        organizer: Tradewind Cycling Team
+        link: https://www.ohcc.xyz/
+        description: Ride 8 road climbs on the Island of Oahu. A Strava based virtual challenge.
+      - name: Makaha Time Trial
+        id: makaha-mokuleia-tt
+        type: race
+        date: 2/8/2025
+        day: Saturday
+        time: 7:00 a.m.
+        location: Makaha
+        island: Oahu
+        organizer: Hawaii Triathlon Center
+        link: https://www.hitricenter.com/makaha-time-trial
+        registration: https://www.bikereg.com/makaha-time-trial
+        description: The first race of the year and the first in a series of three individual time trials, the Makaha Time Trial is a 9 mile out and back course on the beautiful Waianae coast. The course starts just south of the Keawaula Beach parking lot and proceeds out and back along the freshly repaved Farrington Highway.
+        # logo: Makaha Time Trial Logo.png
+      - name: Hawai'i Cycling Club Prologue Training Time Trial
+        id: prologue-training-time-trial
+        type: race
+        date: 2/8/2025
+        time: 7:30 a.m.
+        day: Saturday
+        location: Kailua Kona
+        island: Big Island
+        organizer: Hawai'i Cycling Club
+        description: The Prologue TTT, a 10-mile training time trial, starts on Ka'iminani Dr. about 200 feet Mauka of the Queen Ka'ahumanu Highway. This event is designed for all cyclists from seasoned racers to complete novices.
+        registration: https://www.bikereg.com/hccprologue2025
+      - name: Hawai‘i Bicycling League Annual Dinner
+        id: hbl-annual-dinner
+        type: event
+        date: 2/15/2025
+        day: Saturday
+        location: Waikīkī
+        island: Oahu
+        organizer: Hawaii Bicycling League
+        link: https://hbl.org/
+        description: Join us as we celebrate 50 years of Riding Aloha at the Waikīkī Aquarium. This year’s theme is “For the Love of Bikes” and we’ll be reflecting on all the memories of HBL that we love while looking forward to what’s to come.
+      - name: Pineapple Sprint
+        id: pineapple-sprint
+        type: race
+        date: 2/23/2025
+        day: Sunday
+        location: Haleiwa
+        island: Oahu
+        organizer: Tradewind Cycling Team
+        link: https://www.tradewindcyclingteam.com/races
+        registration: https://www.bikereg.com/pineapple-sprint
+        description: The first mass start race of the season, the Pineapple Sprint goes from Haleiwa south on Kamehameha Highway, to an exciting sprint finish on Kaukonahua Rd.
+      - name: North Shore Time Trial
+        type: race
+        id: north-shore-tt
+        date: 3/16/2025
+        day: Sunday
+        location: Mokulēʻia
+        island: Oahu
+        organizer: North Shore Triathlon
+        description: |
+          Run in conjunction with the North Shore Triathlon, this year you have the option of testing yourself on the freshly paved road to Mokulēʻia! 11 miles of flat and fast riding. 
+          Make a whole weekend of it by choosing to stay at Camp Mokulēʻia - special pricing available!
+        registration: https://www.bikereg.com/north-shore-time-trial-2025
+        link: https://www.hitriseries.com/northshoretriathlon
+      - name: The Kiser DRAGON
+        type: ride
+        id: kiser-dragon
+        date: 3/29/2025
+        time: 7:00 a.m.
+        day: Saturday
+        location: Kailua Kona
+        island: Big Island
+        organizer: Kiser Motorcycles and The Hawaii Cycling Club
+        registration: https://www.bikereg.com/thedragon2025
+        link: http://www.hawaiicyclingclub.com/the-kiser-dragon.html
+        parking: Available in the Keauhou Shopping Center parking lot
+        description: |
+          There are nine hills, averaging 0.5 miles with a total elevation gain of 1404 feet for all nine hills. Participants ride slowly between hills. Each hill climb starts after all participants have arrived from the previous hill.
+      # - name: Castle to Hanauma Time Trial
+      #   id: castle-to-hanauma-tt
+      #   date: _/_/2025
+      #   day: Sunday
+      #   time: 7:00 a.m.
+      #   location: Kailua
+      #   island: Oahu
+      #   organizer: Outta Bounds
+      #   link: https://www.outtaboundshawaii.com/races/castle-to-hanauma.html
+      #   registration: https://www.bikereg.com/castle-to-hanauma-bay-tt
+      #   description: The Castle to Hanauma TT is a 20K point to point individual time trial from Kailua to Hanauma Bay.
+      #   background: Castle to Hanauma.jpg
+      - name: Tantalus Time Trial
+        type: race
+        id: tantalus-tt
+        date: 3/30/2025
+        day: Sunday
+        location: Honolulu
+        island: Oahu
+        organizer: Tradewind Cycling Team
+        link: https://www.tradewindcyclingteam.com/races
+        registration: https://www.bikereg.com/tantalus-time-trial
+        description: This unique uphill time trial, which runs 4.4 miles up Makiki Heights drive and Tantalus drive, is one of the most iconic mainstays of Hawaii racing calendar.
+        logo: Tantalus Logo.png
+      - name: Hawaii Championship Crit at KIP
+        type: race
+        id: hawaii-championship-crit
+        date: 4/19/2025
+        time: 3:00 p.m.
+        day: Saturday
+        location: Kapolei, HI
+        island: Oahu
+        description: The Hawaii State Championship Criterium at the Kenai Industrial Park (KIP) will feature Oahu's fastest crit on a fast smooth 1km (.6 mile) circuit.
+        registration: https://www.bikereg.com/asbra-hawaii-championship-crit-at-kip
+      - name: Big Island Century
+        type: ride
+        id: big-island-century
+        date: 4/19/2025
+        day: Saturday
+        location: Kohala
+        island: Big Island
+        organizer: Hawaii Cycling Club
+        description: Big Island Gran Fondo featuring the Big Island Century, a Super Metric Century, a 40-mile loop, and family fun ride. The longer distances will cover a new route in 2025 passing along rural roads to the Hawaii Vanilla Company and Waipio Valley Overlook before returning to the Leeward side, promising a variety of landscapes and terrain and a challenge for riders of all skill levels. The Big Island Gran Fondo is HCC’s only charity fund raising event with proceeds donated to Hospice of Kona.
+      - name: Hale‘iwa Metric Century
+        type: ride
+        id: haleiwa-metric-century
+        date: 4/27/2025
+        day: Sunday
+        location: Hale‘iwa
+        island: Oahu
+        organizer: Hawaii Bicycling Leage
+        link: https://hbl.org/hmc/
+      - name: '[RESCHEDULED: June] Malaekahana State Time Trial Championship'
+        type: race
+        id: malaekahana-tt-old
+        css_classes: screen-only
+        location: Malaekahana Beach
+        island: Oahu
+        date: 5/4/2025
+        day: Sunday
+        description: See the entry Saturday June 21st
+      - name: Ride of Silence
+        type: ride
+        id: ride-of-slience
+        date: 5/24/2025
+        day: Saturday
+        location: Kailua Kona
+        island: Big Island
+        organizer: Hawaii Cycling Club
+        description: The Ride of Silence is an annual bicycle ride to commemorate cyclists killed and to support those injured while riding on public roads. Join our cycling community if you are on the Big Island that day.
+      - name: Pedal to the Meadow
+        id: pedal-to-the-meadow
+        type: race
+        date: 5/25/2025
+        day: Sunday
+        location: Kekaha
+        island: Kauaʻi
+        organizer: Bicycle Racing Kauaʻi
+        link: https://pedaltothemeadow.com/
+        registration: https://pedaltothemeadow.com/sign-up/
+        description: Pedal to the Meadow is a mass start hill climb race from sea-level Kekaha up to Kanaloahuluhulu Meadow in Kokeʻe State Park. Participants are encouraged to stay through Monday for a relaxed group ride in eastern Kauaʻi.
+        background: P2M Women Overall 2019.jpg
+        logo: P2M Logo.gif
+      - name: "[CANCELLED] Pineapple Hill Road Race"
+        type: race
+        id: pineapple-hill-rr
+        css_classes: screen-only
+        date: 6/15/2025
+        day: Sunday
+        time: 7:00 a.m.
+        location: Haleiwa
+        island: Oahu
+        organizer: Outta Bounds
+        link: https://www.outtaboundshawaii.com/races/pineapple-hill-road-race.html
+        flyerLink: https://asbra.org/flyers/pineapple-hill-2025/
+        registration: https://www.bikereg.com/pineapple-hill-rr
+        description: 'The Greg Jochem Memorial Road Race, features the same climb past Dole Plantation as the Pineapple Sprint, the Road Race however features multiple laps. Starting on Kaukonahua road, proceeding down "Snake Road", and after a hard right turn at the bottom of the hill, back to the start on Kamehameha Highway.'
+      - name: Malaekahana State Time Trial Championship
+        type: race
+        id: malaekahana-tt
+        date: 6/21/2025
+        day: Saturday
+        location: Malaekahana Beach
+        island: Oahu
+        organizer: ASBRA & Wolfpack HI
+        link: https://asbra.org/events/malaekahana-tt/
+        registration_: https://www.bikereg.com/mtt
+        description: The Malaekahana Time Trial is the State Time Trial Championship Race. This year's event will cover an <strong>out and back</strong> course.
+      - name: Hilo Hill Climb Training Time Trial
+        type: race
+        id: hilo-hill-climb-ttt
+        date: 7/12/2025
+        day: Saturday
+        location: Hilo
+        island: Big Island
+        organizer: Hawaii Cycling Club
+        description: The Hilo Hill Climb Training Time Trial rides straight up Saddle Road from the Hilo side with 2 rides in one. A 12-mile x 2,500 foot vertical gain course for the less enthusiastic, and a 26-mile x 6,200 foot gain for the most skilled riders. Take your pick! This ride goes off rain or shine!!
+      - name: Cycle to the Sun
+        type: race
+        id: cycle-to-the-sun
+        date: 8/2/2025
+        day: Saturday
+        time: 6:30 a.m.
+        location: Paia
+        island: Maui
+        organizer:
+        link: https://cycletothesun.com/
+        _registration: https://www.bikereg.com/cycle-to-the-sun
+        description: The legendary Cycle to the Sun is one of the most difficult bike climbs in the world. From Paʻia to the top of Haleakala, the race climbs 10,000 feet over 36 miles and reaches gradients up to 18%.
+
+      - name: Dick Evans Memorial Road Race
+        type: race
+        id: dick-evans-rr
+        date: 8/24/2025
+        day: Sunday
+        time: 5:45 a.m.
+        location: Hawaii Kai
+        island: Oahu
+        organizer: ASBRA
+        link: /events/dick-evans-memorial-road-race.html
+        registration: https://www.bikereg.com/demrr25
+        description: The pinnacle of the Hawaii bike racing season, the Dick Evans Memorial Road Race follows a route similar to the original Around Oahu Race. Its distance, 112 miles, is the basis for the Iron Man distance Triathlon.
+        background: DEMRR Trophy 2019.jpg
+        logo: DEMRR Logo.png
+        _flyerLink: /files/race-flyers/Dick%20Evans%20Flyer%202024.pdf
+      - name: Kualoa Team Time Trial
+        type: race
+        id: kualoa-ttt
+        date: 9/14/2025
+        time: 8:00 a.m.
+        day: Sunday
+        location: Kualoa Regional Park
+        island: Oahu
+        organizer: Wolfpack HI
+        link: https://www.instagram.com/wolfpackhi/?hl=en
+        registration: https://www.bikereg.com/ttt25
+        description: "Back for a second year as the state championship team time trial, the Kualoa TTT is an “out and back” race from Kualoa Regional Park with a U-Turn right before Laie Shopping center (turnaround at 12.5 miles, total race distance: 25 miles). Teams will consist of 4 riders with at least 3 required to finish. Categories are based on the combine age of all team members. See the registration page for details."
+        flyerLink_: /files/race-flyers/Kualoa-Team-TT-2024.png
+      - name: Patricio's Kua Bay Training Time Trial
+        type: race
+        id: kua-bay-training-tt
+        date: 9/21/2025
+        day: Sunday
+        location: Waikoloa
+        island: Big Island
+        organizer: Hawaii Cycling Club
+        description: The PKBTTT is a southbound, 12.19 mile road course along the Queen Kaʻahumanu Highway, between Waikoloa Road and the Kua Bay turnoff.
+      - name: Honolulu Century Ride
+        type: ride
+        id: honolulu-century
+        date: 9/28/2025
+        day: Sunday
+        location: Kapiolani Regional Park, Honolulu
+        island: Oahu
+        organizer: HBL
+        link: https://hbl.org/hcr/
+        registration: https://hbl.redpodium.com/hcr24
+      - name: Keʻe to Kokeʻe Gran Fondo
+        type: ride
+        date: 11/15/2025
+        day: Saturday
+        time: 7:00 a.m.
+        location: Haʻena Beach Park
+        island: Kauaʻi
+        description: This is a self-supported casual group ride. Bike a segment or several, or do the complete end-to-end.
+        link: https://pedaltothemeadow.com/gran-fondo/
+      - name: Lavaman Waikoloa Hill Climb
+        type: race
+        id: lavaman-waikoloa-hc
+        date: 11/16/2025
+        day: Sunday
+        location: Waikoloa
+        island: Big Island
+        organizer: Hawaii Cycling Club
+        description: The LMHC is an 11.8 mile x 2,442 vertical foot hill climb challenge along Waikoloa Road between the Queen Kaʻahumanu Highway and the Hawaii Belt Road/190. Registration open soon.
+      - name: Aloha Gravel
+        organizer: Aloha Gravel
+        type: ride
+        location: Kapalua
+        island: Maui
+        date: 11/29/2025
+        day: Saturday
+        description: A gravel funride presented by Lauf Cycles, in partnership with Pedal Imua. Aloha Gravel will take you on gravel roads and flowy single-track trails on the West Maui Mountains. All proceeds will go directly to Imua Family Services.
+        link: https://www.alohagravel.com/
+        registration: https://www.bikereg.com/aloha-gravel
+      - name: Pedal Imua
+        id: pedal-imua
+        type: ride
+        date: 12/6/2025
+        day: Saturday
+        time: 7:00 a.m.
+        location: Kahului
+        island: Maui
+        organizer: Imua Family Services
+        description: Pedal Imua is an annual community-supported fundraising event that celebrates and supports children in crisis and embraces our connection to the ʻāina, which defines our sense of place, Hawaiʻi nei.
+        link: https://discoverimua.com/pedal/
+      - name: Bike Works Big Island Time Trial Championship
+        type: race
+        id: big-island-tt-championship
+        date: 12/20/2025
+        day: Saturday
+        location: Kailua Kona
+        island: Big Island
+        organizer: Hawaii Cycling Club
+        description: The BITTC is a northbound, 15.8 mile road course along the Queen Kaʻahumanu Highway, from Kaimanani Rd to Puʻuanahulu turnoff. Registration open soon.
+
+
+
+
   - name: 2024
     events:
       - name: Oahu Hill Climb Challenge
@@ -158,63 +470,6 @@ years:
         island: Big Island
         organizer: Hawaii Cycling Club
         description: The 12-mile HHCTTT gains 2,521 feet elevation, starting with a 393 foot gain in the first 2 miles and finishing with a gain in elevation of 2123 feet over the last 10. This event goes on rain or shine!
-      # - name: 'Kapolei Criterium #1'
-      #   type: race
-      #   description: Brought to you by <a href="https://freakytikihawaii.com/" target="_blank">Freaky Tiki Tropical Optical</a> and <a href="https://kalapawaimarket.com/" target="_blank">Kalapawai Cafe & Deli</a>, criteriums are returning to Kapolei! These to Sunday morning criteriums are beginner friendly and will be run in multiple heats ranging from 25 to 50 minutes per event. Registration fees are as low as we can get them thanks to generous sponsorship from Freaky Tiki and Kalapawai. Discounts are available for those participants who register for both events. Additional support provided by Tradewind Cycling Team and Hawaii Triathlon Center.
-      #   id: crit-1
-      #   date: 7/07/2024
-      #   day: Sunday
-      #   time: 7:00 a.m.
-      #   location: Kapolei
-      #   island: Oahu
-      #   organizer: Outta Bounds Hawaii & Wolfpack HI
-      #   link: https://asbra.org/events/kapolei-crits/
-      #   registration: https://www.bikereg.com/kapolei-crits/
-      #   logo:
-      - name: '[Canceled] Aloha Stadium Crit #2'
-        type: race
-        description: Unfortunately the venue is no logner available.
-        id: crit-2
-        date: 7/13/2024
-        day: Saturday
-        location: Halawa
-        island: Oahu
-        organizer: HTC, TCT, & Wolfpack HI
-        logo:
-      # - name: 'Kapolei Criterium #2'
-      #   type: race
-      #   id: crit-2
-      #   date: 7/21/2024
-      #   day: Sunday
-      #   time: 7:00 a.m.
-      #   location: Kapolei
-      #   island: Oahu
-      #   organizer: Outta Bounds Hawaii & Wolfpack HI
-      #   link: https://asbra.org/events/kapolei-crits/
-      #   registration: https://www.bikereg.com/kapolei-crits/
-      #   logo:
-      - name: '[Canceled] Aloha Stadium Crit #3'
-        type: race
-        description: Unfortunately the venue is no logner available
-        id: crit-3
-        date: 7/27/2024
-        day: Saturday
-        location: Halawa
-        island: Oahu
-        organizer: HTC, TCT, & Wolfpack HI
-        logo:
-      - name: '[Canceled] Olomana Road Race'
-        type: race
-        id: olomana-rr
-        date: 8/11/2024
-        day: Sunday
-        time: 7:00 a.m.
-        location: Kailua
-        island: Oahu
-        organizer: Tradewind Cycling Team
-        link: https://www.tradewindcyclingteam.com/races
-        _registration: https://www.bikereg.com/olomana-road-race
-        description: A multiple distance lap race making clockwise circuits of Old Kalanianaole Road and Kalanianaole Highway. This race is one of the most intense road races on Oahu, and a great run up to the Dick Evans.
       - name: Dick Evans Memorial Road Race
         type: race
         id: dick-evans-rr
@@ -261,16 +516,6 @@ years:
         organizer: HBL
         link: https://hbl.org/hcr/
         registration: https://hbl.redpodium.com/hcr24
-      - name: '[Canceled] Hawaii Criterium State Championship'
-        description: "Unfortunately we have been prevented from getting a permit for the planned location."
-        type: race
-        id: hawaii-state-crit
-        date: 10/20/2024
-        time: 8:00 a.m.
-        day: Sunday
-        location: Mililani Tech Park
-        island: Oahu
-        organizer: ASBRA
       - name: Lavaman Waikoloa Hill Climb
         type: race
         id: lavaman-waikoloa-hc
